@@ -315,7 +315,7 @@ def process_user_query(query: str):
         "similarity_threshold": 0.7
     }
     
-    response = call_api("/query", "POST", data)
+    response = call_api("/chat", "POST", data)
     
     if response:
         # Add to conversation history

@@ -232,6 +232,84 @@ async def query_documents_simple(request: QueryRequest):
         logger.error(f"Error in simple query: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
 
+@app.post("/chat")
+async def chat_endpoint(request: ChatRequest):
+    """Main chat endpoint - compatible with Streamlit"""
+    try:
+        if not request.session_id:
+            request.session_id = str(uuid.uuid4())
+        
+        # Use the same logic as the query endpoint but return chat format
+        query_embedding = langchain_manager.embed_query(request.query)
+        
+        # Search in Qdrant using scroll method (more reliable)
+        search_results = qdrant_manager.scroll_documents(
+            request.collection_name or DEFAULT_COLLECTION,
+            query_embedding,
+            request.limit,
+            request.similarity_threshold
+        )
+        
+        if not search_results:
+            return {
+                "query": request.query,
+                "answer": "No relevant documents found for your query. Try asking about specific 6sense features like 'predictive analytics' or 'customer segmentation'.",
+                "sources": [],
+                "confidence_score": 0.0
+            }
+        
+        # Create LangChain vectorstore for QA chain
+        vectorstore = qdrant_manager.create_langchain_vectorstore(
+            request.collection_name or DEFAULT_COLLECTION,
+            embeddings_client
+        )
+        
+        # Create retriever
+        retriever = vectorstore.as_retriever(
+            search_kwargs={"k": request.limit, "score_threshold": request.similarity_threshold}
+        )
+        
+        # Create QA chain
+        qa_chain = langchain_manager.create_qa_chain(
+            retriever,
+            PromptTemplates.get_template("qa") if hasattr(PromptTemplates, 'get_template') else None
+        )
+        
+        # Generate answer
+        result = langchain_manager.generate_answer(qa_chain, request.query)
+        
+        # Format sources from search results
+        sources = []
+        for search_result in search_results:
+            sources.append({
+                "document_id": search_result.get("id", "unknown"),
+                "filename": search_result.get("payload", {}).get("filename", "unknown"),
+                "chunk_index": search_result.get("payload", {}).get("chunk_index", 0),
+                "score": search_result.get("score", 0.0),
+                "text": search_result.get("text", "")[:500] + "..." if len(search_result.get("text", "")) > 500 else search_result.get("text", ""),
+                "content": search_result.get("text", "")
+            })
+        
+        # Log query
+        db_manager.log_query(
+            request.query,
+            result.get("answer", ""),
+            str(sources),
+            result.get("response_time", 0)
+        )
+        
+        return QueryResponse(
+            query=request.query,
+            answer=result.get("answer", "No answer generated"),
+            sources=sources,
+            confidence_score=max([r.get("score", 0.0) for r in search_results]) if search_results else 0.0,
+            response_time=result.get("response_time", 0.0)
+        )
+        
+    except Exception as e:
+        logger.error(f"Error processing chat request: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+
 @app.post("/query")
 @traceable(name="query_documents", tags=["rag", "query"])
 async def query_documents(request: QueryRequest):
