@@ -7,15 +7,16 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from langchain_qdrant import QdrantVectorStore
 from services.logger import setup_logger
-from utils.utils import OPENAI_API_KEY, create_text_splitter, generate_uuid, QDRANT_API_KEY
+from utils.utils import OPENAI_API_KEY, create_text_splitter, generate_uuid, QDRANT_API_KEY, QDRANT_DB_PATH
 from uuid import uuid4
 import asyncio
 
 class DocumentIndexer:
     """Handles document indexing and vector storage operations"""
     
-    def __init__(self, qdrant_db_path: str, collection_name: str = "documents"):
-        self.db_path = qdrant_db_path
+    def __init__(self, qdrant_db_path: str = None, collection_name: str = "documents"):
+        # Use centralized QDRANT_DB_PATH if not provided
+        self.db_path = qdrant_db_path or QDRANT_DB_PATH
         self.collection_name = collection_name
         self.embedding_function = OpenAIEmbeddings(
             model="text-embedding-3-large", 

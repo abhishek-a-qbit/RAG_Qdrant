@@ -55,22 +55,19 @@ class QdrantManager:
             print(f"Error checking collection existence: {e}")
             return False
     
-    def get_collection_info(self, collection_name: str) -> Optional[Dict[str, Any]]:
+    def get_collection_info(self, collection_name: str) -> Dict[str, Any]:
         """Get collection information"""
         try:
-            info = self.client.get_collection(collection_name)
+            collection = self.client.get_collection(collection_name)
             return {
                 "name": collection_name,
-                "vectors_count": info.vectors_count,
-                "indexed_vectors_count": info.indexed_vectors_count,
-                "points_count": info.points_count,
-                "status": info.status,
-                "optimizer_status": info.optimizer_status,
-                "vector_size": info.config.params.vectors.size
+                "points_count": collection.points_count,
+                "status": "active" if collection.status else "inactive",
+                "vector_size": collection.config.params.vectors.size if hasattr(collection.config, 'params') else 1536
             }
         except Exception as e:
-            print(f"Error getting collection info: {e}")
-            return None
+            logger.error(f"Error getting collection info: {e}")
+            return {}
     
     def add_points(self, collection_name: str, points: List[PointStruct]) -> bool:
         """Add points to collection"""
@@ -127,7 +124,8 @@ class QdrantManager:
                 query_vector=query_vector,
                 limit=limit,
                 score_threshold=score_threshold,
-                query_filter=search_filter
+                query_filter=search_filter,
+                with_payload=True
             )
             
             return [
@@ -211,7 +209,8 @@ class QdrantManager:
             return LangChainQdrant(
                 client=self.client,
                 collection_name=collection_name,
-                embeddings=embeddings
+                embedding=embeddings,
+                api_key=self.api_key  # Add API key here!
             )
         except Exception as e:
             print(f"Error creating LangChain vectorstore: {e}")

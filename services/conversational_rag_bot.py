@@ -32,7 +32,7 @@ from services.logger import setup_logger
 from services.document_indexer import DocumentIndexer
 from services.chat_models import ChatRequest, ChatResponse
 from services.langchain_orchestrator import generate_chatbot_response
-from utils.utils import OPENAI_API_KEY, QDRANT_DB_PATH, MODEL, TEMPERATURE
+from utils.utils import OPENAI_API_KEY, QDRANT_DB_PATH, MODEL, TEMPERATURE, QDRANT_API_KEY
 from utils.file_extractor import extract_text_with_metadata, get_file_type_from_filename
 from utils.langchain_utils import LangChainManager
 
@@ -153,7 +153,7 @@ class ConversationalRAGBot:
     """Amazon Rufus-style conversational RAG bot with evaluation"""
     
     def __init__(self):
-        self.document_indexer = DocumentIndexer(QDRANT_DB_PATH)
+        self.document_indexer = DocumentIndexer()  # Uses centralized QDRANT_DB_PATH
         self.langchain_manager = LangChainManager(OPENAI_API_KEY, MODEL, TEMPERATURE)
         self.data_loader = EnhancedDataLoader()
         self.conversation_history = {}

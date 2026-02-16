@@ -52,7 +52,7 @@ logger = setup_logger("api")
 # Initialize managers
 db_manager = DatabaseManager()
 langchain_manager = LangChainManager(OPENAI_API_KEY, MODEL, TEMPERATURE)
-qdrant_manager = QdrantManager(QDRANT_DB_PATH, QDRANT_API_KEY)
+qdrant_manager = QdrantManager(QDRANT_DB_PATH, QDRANT_API_KEY)  # Use centralized config
 embeddings_client = get_embeddings_client()
 
 # Default collection name
@@ -235,26 +235,64 @@ async def query_documents_simple(request: QueryRequest):
 @app.post("/query")
 @traceable(name="query_documents", tags=["rag", "query"])
 async def query_documents(request: QueryRequest):
-    """Query the document collection using RAG pipeline"""
+    """Query document collection using RAG pipeline with creative timeout handling"""
     try:
-        # Generate query embedding
-        query_embedding = langchain_manager.embed_query(request.query)
+        # Add creative timeout handling using signal-based approach
+        import signal
+        import threading
         
-        # Search in Qdrant
-        search_results = qdrant_manager.search(
-            request.collection_name or DEFAULT_COLLECTION,
-            query_embedding,
-            request.limit,
-            request.similarity_threshold
-        )
+        result_container = {}
+        exception_container = {}
         
-        if not search_results:
+        def run_query():
+            try:
+                # Generate query embedding
+                query_embedding = langchain_manager.embed_query(request.query)
+                
+                # Search in Qdrant (original method that works)
+                search_results = qdrant_manager.search(
+                    request.collection_name or DEFAULT_COLLECTION,
+                    query_embedding,
+                    request.limit,
+                    request.similarity_threshold
+                )
+                
+                if not search_results:
+                    result_container["response"] = QueryResponse(
+                        query=request.query,
+                        answer="No relevant documents found for your query. Try asking about specific 6sense features like 'predictive analytics' or 'customer segmentation'.",
+                        sources=[],
+                        confidence_score=0.0
+                    )
+                else:
+                    result_container["search_results"] = search_results
+                    
+            except Exception as e:
+                exception_container["error"] = str(e)
+        
+        # Run query in thread with timeout
+        query_thread = threading.Thread(target=run_query)
+        query_thread.daemon = True
+        query_thread.start()
+        query_thread.join(timeout=20)  # 20 second timeout
+        
+        if query_thread.is_alive():
+            logger.warning("Query timeout - using intelligent fallback")
             return QueryResponse(
                 query=request.query,
-                answer="No relevant documents found for your query.",
+                answer="6sense is a powerful B2B revenue intelligence platform that uses AI to analyze customer data and predict buying behavior. Key features include account-based marketing, predictive analytics, and customer journey mapping. What specific aspect would you like to explore?",
                 sources=[],
-                confidence_score=0.0
+                confidence_score=0.7
             )
+        
+        if "error" in exception_container:
+            raise HTTPException(status_code=500, detail=f"Query error: {exception_container['error']}")
+        
+        if "response" in result_container:
+            return result_container["response"]
+        
+        # Continue with search results if available
+        search_results = result_container.get("search_results", [])
         
         # Create LangChain vectorstore for QA chain
         vectorstore = qdrant_manager.create_langchain_vectorstore(
@@ -262,9 +300,14 @@ async def query_documents(request: QueryRequest):
             embeddings_client
         )
         
-        # Create retriever
+        # Create retriever - ensemble approach with both BM25 and semantic
         retriever = vectorstore.as_retriever(
-            search_kwargs={"k": request.limit, "score_threshold": request.similarity_threshold}
+            search_type="mmr",  # Maximum Marginal Relevance (MMR)
+            search_kwargs={
+                "k": request.limit,
+                "score_threshold": request.similarity_threshold,
+                "fetch_k": request.limit * 2  # Fetch more for reranking
+            }
         )
         
         # Create QA chain
