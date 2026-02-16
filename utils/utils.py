@@ -3,6 +3,13 @@ import time
 from dotenv import load_dotenv
 from uuid import uuid4
 import asyncio
+import sys
+
+# Set UTF-8 encoding for Windows
+if sys.platform == "win32":
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
 # Langchain imports
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -29,14 +36,14 @@ try:
             api_key=os.getenv("LANGSMITH_API_KEY"),
             api_url=os.getenv("LANGSMITH_ENDPOINT", "https://api.smith.langchain.com")
         )
-        print(f"✅ LangSmith tracing enabled for project: {os.getenv('LANGSMITH_PROJECT', 'RAG-System')}")
+        print(f"[OK] LangSmith tracing enabled for project: {os.getenv('LANGSMITH_PROJECT', 'RAG-System')}")
     else:
-        print("ℹ️ LangSmith tracing is disabled")
+        print("[INFO] LangSmith tracing is disabled")
 except ImportError:
-    print("⚠️ LangSmith not installed. Run: pip install langsmith")
+    print(f"[WARNING] LangSmith not installed. Run: pip install langsmith")
     LANGSMITH_TRACING = False
 except Exception as e:
-    print(f"⚠️ Failed to initialize LangSmith: {e}")
+    print(f"[WARNING] Failed to initialize LangSmith: {e}")
     LANGSMITH_TRACING = False
 load_dotenv(override=True)
 

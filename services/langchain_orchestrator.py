@@ -302,6 +302,12 @@ async def generate_chatbot_response(query: str, past_messages: List[Dict[str, st
         final_response, cb = await invoke_chain(query, extracted_text_data, history, llm)
         response_time = time.time() - response_start
 
+        # Convert response to string if it's a TextAccessor
+        if hasattr(final_response, 'content'):
+            final_response = str(final_response.content)
+        else:
+            final_response = str(final_response)
+        
         total_time = time.time() - start_time
         
         logger.info(f"Generated response in {response_time:.2f}s (total: {total_time:.2f}s)")
@@ -313,4 +319,4 @@ async def generate_chatbot_response(query: str, past_messages: List[Dict[str, st
     except Exception as e:
         logger.error(f"Error in generate_chatbot_response: {str(e)}")
         error_response = "I apologize, but I encountered an error while processing your request."
-        return (error_response, 0.0, 0, 0, 0, "", query, [])
+        return (error_response, 0.0, 0, 0, 0, "", query, [], query)

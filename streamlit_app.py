@@ -7,6 +7,7 @@ import streamlit as st
 import requests
 import json
 import time
+import os
 from typing import List, Dict, Any, Optional
 import pandas as pd
 from datetime import datetime
@@ -22,7 +23,7 @@ st.set_page_config(
 )
 
 # API configuration
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8001")
 
 # Custom CSS for better styling
 st.markdown("""
@@ -266,7 +267,7 @@ def display_bot_status():
         st.session_state.bot_status = status
         
         # Status indicator
-        if status.get('status') == 'ready':
+        if status.get('status') == 'healthy':
             st.success("🤖 Bot is Ready")
         else:
             st.warning("🔄 Bot is Initializing")
@@ -274,20 +275,36 @@ def display_bot_status():
         # Status details
         with st.expander("Bot Details"):
             st.json(status)
+            
+            # Check services
+            services = status.get('services', {})
+            for svc, svc_status in services.items():
+                if svc_status == "connected" or svc_status == "configured":
+                    st.success(f"{svc}: {svc_status}")
+                else:
+                    st.error(f"{svc}: {svc_status}")
 
 def load_suggested_questions(topic: str = "", num_questions: int = 5):
     """Load suggested questions from API"""
-    data = {
+    # Send as query parameters to match FastAPI endpoint
+    params = {
         "topic": topic,
         "num_questions": num_questions
     }
     
-    response = call_api("/suggested-questions", "POST", data)
-    
-    if response:
-        st.session_state.suggested_questions = response
-        return True
-    return False
+    try:
+        url = f"{API_BASE_URL}/suggested-questions"
+        response = requests.get(url, params=params, timeout=30)
+        
+        if response.status_code == 200:
+            st.session_state.suggested_questions = response.json()
+            return True
+        else:
+            st.error(f"API Error: {response.status_code} - {response.text}")
+            return False
+    except requests.exceptions.RequestException as e:
+        st.error(f"Connection Error: {str(e)}")
+        return False
 
 def process_user_query(query: str):
     """Process user query through API"""

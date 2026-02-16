@@ -99,68 +99,8 @@ async def add_conversation_async(session_id: str, user_query: str, gpt_response:
         logger.error(f"Error adding conversation: {str(e)}")
         return False
 
-async def generate_chatbot_response(query: str, past_messages: List[dict], 
-                                  no_of_chunks: int, username: str) -> tuple:
-    """
-    Generate chatbot response using RAG system.
-    
-    Args:
-        query: User's query
-        past_messages: Previous conversation history
-        no_of_chunks: Number of document chunks to retrieve
-        username: User identifier
-    
-    Returns:
-        Tuple of (response, refined_query, extracted_documents)
-    """
-    try:
-        # Initialize collection if needed
-        await document_indexer.initialize_collection()
-        
-        # Get retriever
-        retriever = await document_indexer.get_retriever(top_k=no_of_chunks)
-        
-        # Create QA chain with context awareness
-        prompt_template = PromptTemplates.get_template("qa")
-        
-        # Add conversation context to prompt if available
-        if past_messages:
-            context_prompt = f"""
-            Previous conversation context:
-            {' '.join([f"{msg['role']}: {msg['content']}" for msg in past_messages[-6:]])}
-            
-            Current question: {{question}}
-            
-            Context: {{context}}
-            
-            Provide a helpful response considering the conversation history:
-            """
-            qa_chain = langchain_manager.create_qa_chain(retriever, context_prompt)
-        else:
-            qa_chain = langchain_manager.create_qa_chain(retriever, prompt_template)
-        
-        # Generate response
-        result = langchain_manager.generate_answer(qa_chain, query)
-        
-        if result["success"]:
-            # Extract source documents
-            extracted_documents = []
-            if "source_documents" in result:
-                for doc in result["source_documents"]:
-                    extracted_documents.append({
-                        "content": doc.page_content[:500] + "..." if len(doc.page_content) > 500 else doc.page_content,
-                        "metadata": doc.metadata
-                    })
-            
-            return result["answer"], query, extracted_documents
-        else:
-            error_response = f"I apologize, but I encountered an error while processing your query: {result.get('error', 'Unknown error')}"
-            return error_response, query, []
-            
-    except Exception as e:
-        logger.error(f"Error generating chatbot response: {str(e)}")
-        error_response = "I apologize, but I'm having trouble processing your request right now. Please try again later."
-        return error_response, query, []
+# Import the orchestrator function to avoid conflicts
+from services.langchain_orchestrator import generate_chatbot_response
 
 async def chat_endpoint(request: ChatRequest) -> ChatResponse:
     """
@@ -185,10 +125,14 @@ async def chat_endpoint(request: ChatRequest) -> ChatResponse:
         logger.info(f"Query: {request.query}")
         logger.info(f"Past messages count: {len(past_messages)}")
 
-        # Generate response
-        response, refined_query, extracted_documents = await generate_chatbot_response(
+        # Generate response using the orchestrator function
+        response_data = await generate_chatbot_response(
             request.query, past_messages, request.no_of_chunks, request.username
         )
+        
+        # Unpack all 8 values
+        response, response_time, prompt_tokens, completion_tokens, 
+        total_tokens, context, refined_query, extracted_documents = response_data
         
         # Store conversation
         await add_conversation_async(request.session_id, request.query, response)

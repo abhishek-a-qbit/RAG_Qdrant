@@ -7,7 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from langchain_qdrant import QdrantVectorStore
 from services.logger import setup_logger
-from utils.utils import OPENAI_API_KEY, create_text_splitter, generate_uuid
+from utils.utils import OPENAI_API_KEY, create_text_splitter, generate_uuid, QDRANT_API_KEY
 from uuid import uuid4
 import asyncio
 
@@ -22,7 +22,7 @@ class DocumentIndexer:
             api_key=OPENAI_API_KEY
         )
         self.vector_store = None
-        self.client = AsyncQdrantClient(self.db_path)
+        self.client = AsyncQdrantClient(self.db_path, api_key=QDRANT_API_KEY)
         self.logger = setup_logger("document_indexer")
         self.text_splitter = create_text_splitter()
         
@@ -259,7 +259,8 @@ class DocumentIndexer:
             self.vector_store = QdrantVectorStore.from_existing_collection(
                 collection_name=collection, 
                 embedding=self.embedding_function, 
-                url=self.db_path
+                url=self.db_path,
+                api_key=QDRANT_API_KEY
             )
 
             # Add documents to vector store
@@ -280,7 +281,8 @@ class DocumentIndexer:
                 self.vector_store = QdrantVectorStore.from_existing_collection(
                     collection_name=collection, 
                     embedding=self.embedding_function, 
-                    url=self.db_path
+                    url=self.db_path,
+                    api_key=QDRANT_API_KEY
                 )
 
             return self.vector_store.as_retriever(

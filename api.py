@@ -6,6 +6,11 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import uvicorn
 
+# Request model for suggested questions
+class SuggestedQuestionsRequest(BaseModel):
+    topic: str = ""
+    num_questions: int = 5
+
 # Local imports
 from services.logger import setup_logger
 from services.pydantic_models import (
@@ -82,14 +87,42 @@ async def root():
 @app.get("/health")
 async def health_check():
     """Health check endpoint"""
+    # Check services status
+    services_status = {}
+    
+    # Check database
+    try:
+        db_manager.get_documents()
+        services_status["database"] = "connected"
+    except Exception as e:
+        services_status["database"] = f"error: {str(e)}"
+    
+    # Check Qdrant
+    try:
+        if qdrant_manager.client:
+            qdrant_manager.client.get_collections()
+            services_status["qdrant"] = "connected"
+        else:
+            services_status["qdrant"] = "disconnected"
+    except Exception as e:
+        services_status["qdrant"] = f"error: {str(e)}"
+    
+    # Check OpenAI
+    if OPENAI_API_KEY:
+        services_status["openai"] = "configured"
+    else:
+        services_status["openai"] = "not configured"
+    
+    # Determine overall status
+    all_connected = all(
+        status in ["connected", "configured"] 
+        for status in services_status.values()
+    )
+    
     return {
-        "status": "healthy",
+        "status": "ready" if all_connected else "initializing",
         "timestamp": time.time(),
-        "services": {
-            "database": "connected",
-            "qdrant": "connected" if qdrant_manager.client else "disconnected",
-            "openai": "configured" if OPENAI_API_KEY else "not configured"
-        }
+        "services": services_status
     }
 
 @app.post("/upload")
@@ -353,9 +386,17 @@ async def test_endpoint():
             "qdrant_manager": str(type(qdrant_manager))
         }
 
+@app.get("/suggested-questions")
+async def get_suggested_questions_get(topic: str = "", num_questions: int = 5):
+    """Generate suggested questions using RAG pipeline - GET version"""
+    return await _generate_suggested_questions(topic, num_questions)
+
 @app.post("/suggested-questions")
-async def get_suggested_questions(topic: str = "", num_questions: int = 5):
-    """Generate suggested questions using RAG pipeline"""
+async def get_suggested_questions_post(request: SuggestedQuestionsRequest):
+    """Generate suggested questions using RAG pipeline - POST version"""
+    return await _generate_suggested_questions(request.topic, request.num_questions)
+
+async def _generate_suggested_questions(topic: str = "", num_questions: int = 5):
     try:
         from data_driven_question_generator import generate_data_driven_questions
         

@@ -117,6 +117,18 @@ class DatabaseManager:
             print(f"Error getting document: {e}")
             return None
     
+    def get_documents(self) -> List[Dict[str, Any]]:
+        """Get all documents"""
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                conn.row_factory = sqlite3.Row
+                cursor = conn.cursor()
+                cursor.execute('SELECT * FROM documents ORDER BY upload_time DESC')
+                return [dict(row) for row in cursor.fetchall()]
+        except sqlite3.Error as e:
+            print(f"Error getting documents: {e}")
+            return []
+    
     def get_documents_by_collection(self, collection_name: str) -> List[Dict[str, Any]]:
         """Get all documents in a collection"""
         try:

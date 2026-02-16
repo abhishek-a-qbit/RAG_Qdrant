@@ -221,16 +221,28 @@ class QdrantManager:
         """Get all collections"""
         try:
             collections = self.client.get_collections()
-            return [
-                {
-                    "name": col.name,
-                    "vectors_count": col.vectors_count,
-                    "indexed_vectors_count": col.indexed_vectors_count,
-                    "points_count": col.points_count,
-                    "status": col.status
-                }
-                for col in collections.collections
-            ]
+            result = []
+            for col in collections.collections:
+                # Get collection info for each collection
+                try:
+                    info = self.client.get_collection(col.name)
+                    result.append({
+                        "name": col.name,
+                        "vectors_count": info.vectors_count if hasattr(info, 'vectors_count') else 0,
+                        "indexed_vectors_count": info.indexed_vectors_count if hasattr(info, 'indexed_vectors_count') else 0,
+                        "points_count": info.points_count if hasattr(info, 'points_count') else 0,
+                        "status": str(col.status) if hasattr(col, 'status') else "unknown"
+                    })
+                except Exception:
+                    # If we can't get info, just return basic info
+                    result.append({
+                        "name": col.name,
+                        "vectors_count": 0,
+                        "indexed_vectors_count": 0,
+                        "points_count": 0,
+                        "status": "unknown"
+                    })
+            return result
         except Exception as e:
             print(f"Error getting collections: {e}")
             return []

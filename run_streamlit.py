@@ -28,7 +28,7 @@ def main():
         print("🚀 Starting Streamlit Frontend...")
         print(f"📍 App will be available at: http://localhost:8501")
         print(f"📁 App directory: {script_dir}")
-        print("⚠️  Make sure the API server is running on http://localhost:8001")
+        print("⚠️  Make sure the API server is running on http://localhost:8000")
         print("-" * 50)
         
         # Run the command
