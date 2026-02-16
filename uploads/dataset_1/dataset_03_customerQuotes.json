@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "3_customerQuotes",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:16.671137",
+        "reason": "Final schema-compliant dataset"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "q_001",
+      "text": "\"6sense has created alignment\" | That\u2019s what Jen Leaver, Director of ABM and Integrated Marketing at FullStory, says. FullStory transformed their account-based marketing with 6sense, seeing a 48% increase in average contract value for in-market accounts.a",
+      "roleTitle": null,
+      "personName": null,
+      "allowPersonName": false,
+      "date": null,
+      "sourceType": "vendorJson",
+      "sourceLink": "https://6sense.com/platform",
+      "sentiment": "positive",
+      "mentionedFeatures": [],
+      "metricIds": [],
+      "competitorMentions": [],
+      "companyProfileId": null,
+      "step": 1
+    }
+  ]
+}

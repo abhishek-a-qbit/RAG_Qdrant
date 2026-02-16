@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "6_vendorPartnerships",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:39.025166"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "vp_001",
+      "partnerName": "salesassembly.com",
+      "partnerDomain": "salesassembly.com",
+      "ecosystemLayer": "application",
+      "description": "Integration Partner",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_002",
+      "partnerName": "pathfactory.com",
+      "partnerDomain": "pathfactory.com",
+      "ecosystemLayer": "application",
+      "description": "Content Marketing",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_003",
+      "partnerName": "folloze.com",
+      "partnerDomain": "folloze.com",
+      "ecosystemLayer": "application",
+      "description": "Account Based Marketing",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_004",
+      "partnerName": "reachdesk.com",
+      "partnerDomain": "reachdesk.com",
+      "ecosystemLayer": "application",
+      "description": "Print Software and Services",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_005",
+      "partnerName": "trustradius.com",
+      "partnerDomain": "trustradius.com",
+      "ecosystemLayer": "application",
+      "description": "Marketing Data Intelligence",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_006",
+      "partnerName": "hushly.com",
+      "partnerDomain": "hushly.com",
+      "ecosystemLayer": "application",
+      "description": "Lead Generation",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_007",
+      "partnerName": "peerspot.com",
+      "partnerDomain": "peerspot.com",
+      "ecosystemLayer": "application",
+      "description": "Marketing Data Intelligence",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_008",
+      "partnerName": "verticaliq.com",
+      "partnerDomain": "verticaliq.com",
+      "ecosystemLayer": "application",
+      "description": "Social Media Marketing",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_009",
+      "partnerName": "metadata.io",
+      "partnerDomain": "metadata.io",
+      "ecosystemLayer": "application",
+      "description": "Account Based Marketing",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_010",
+      "partnerName": "postal.com",
+      "partnerDomain": "postal.com",
+      "ecosystemLayer": "application",
+      "description": "Customer Experience Management",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_011",
+      "partnerName": "reactful.com",
+      "partnerDomain": "reactful.com",
+      "ecosystemLayer": "application",
+      "description": "Integration Partner",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_012",
+      "partnerName": "cleanshelf.com",
+      "partnerDomain": "cleanshelf.com",
+      "ecosystemLayer": "application",
+      "description": "Integration Partner",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_013",
+      "partnerName": "qualified.com",
+      "partnerDomain": "qualified.com",
+      "ecosystemLayer": "application",
+      "description": "Conversational Marketing",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_014",
+      "partnerName": "fullcircleinsights.com",
+      "partnerDomain": "fullcircleinsights.com",
+      "ecosystemLayer": "application",
+      "description": "Marketing Attribution",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_015",
+      "partnerName": "alyce.com",
+      "partnerDomain": "alyce.com",
+      "ecosystemLayer": "application",
+      "description": "Marketing Automation",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_016",
+      "partnerName": "intellimize.com",
+      "partnerDomain": "intellimize.com",
+      "ecosystemLayer": "application",
+      "description": "Integration Partner",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_017",
+      "partnerName": "printfection.com",
+      "partnerDomain": "printfection.com",
+      "ecosystemLayer": "application",
+      "description": "Print Software and Services",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_018",
+      "partnerName": "trendemon.com",
+      "partnerDomain": "trendemon.com",
+      "ecosystemLayer": "application",
+      "description": "Marketing Data Intelligence",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_019",
+      "partnerName": "outreach.io",
+      "partnerDomain": "outreach.io",
+      "ecosystemLayer": "application",
+      "description": "Sales Engagement",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    },
+    {
+      "id": "vp_020",
+      "partnerName": "hockeystack.com",
+      "partnerDomain": "hockeystack.com",
+      "ecosystemLayer": "application",
+      "description": "Digital Analytics",
+      "sources": [
+        "6Sense_Stack.txt"
+      ]
+    }
+  ]
+}

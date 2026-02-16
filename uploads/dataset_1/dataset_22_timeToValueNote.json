@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "22_timeToValueNote",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:07:12.888037"
+      }
+    ]
+  },
+  "data": {
+    "summary": "Customer case studies demonstrate value realization within 3-6 months, with some customers reporting ROI within the first quarter of deployment",
+    "evidence": [
+      "case_studies",
+      "customer_metrics"
+    ]
+  }
+}

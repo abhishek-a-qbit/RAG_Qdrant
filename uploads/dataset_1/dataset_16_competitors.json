@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "16_competitors",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:51.113577"
+      }
+    ]
+  },
+  "data": [
+    {
+      "rawName": "Bombora",
+      "displayPriority": 1,
+      "score": 3.0,
+      "scoreBreakdown": {
+        "vendorComparison": 3,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Clari",
+      "displayPriority": 1,
+      "score": 3.0,
+      "scoreBreakdown": {
+        "vendorComparison": 3,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Demandbase",
+      "displayPriority": 1,
+      "score": 3.0,
+      "scoreBreakdown": {
+        "vendorComparison": 3,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Demandbase Comparison",
+      "displayPriority": 1,
+      "score": 2.0,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Gong",
+      "displayPriority": 1,
+      "score": 2.0,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "HubSpot",
+      "displayPriority": 2,
+      "score": 2.0,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Jabmo",
+      "displayPriority": 2,
+      "score": 2.0,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Leadspace",
+      "displayPriority": 2,
+      "score": 2.0,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 2,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Marketo",
+      "displayPriority": 2,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Metadata",
+      "displayPriority": 2,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "RollWorks",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Rollworks",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Terminus",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Terminus Comparison",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Triblio",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "ZoomInfo",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    },
+    {
+      "rawName": "Zoominfo",
+      "displayPriority": 3,
+      "score": 0.5,
+      "scoreBreakdown": {
+        "vendorComparison": 0,
+        "analystPeer": 0,
+        "newsCompetitive": 0.5,
+        "customerMentions": 0
+      },
+      "sources": [
+        "SEO_keywords",
+        "analyst_reports"
+      ],
+      "evidence": []
+    }
+  ]
+}

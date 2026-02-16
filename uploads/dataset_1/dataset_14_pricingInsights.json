@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "14_pricingInsights",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:26.965860"
+      }
+    ]
+  },
+  "data": {
+    "pricingModels": [
+      "Subscription-based",
+      "Contact for pricing"
+    ],
+    "tierNames": [
+      "Sales Intelligence",
+      "Revenue Marketing Platform"
+    ],
+    "tierFeatures": [],
+    "segmentDistribution": {
+      "Enterprise": "45%",
+      "Mid-Market": "35%",
+      "SMB": "20%"
+    },
+    "segmentFitSummary": "Best suited for mid-market to enterprise B2B organizations running sophisticated ABM programs",
+    "switchingCosts": [
+      "Integration setup",
+      "Team training",
+      "Data migration"
+    ],
+    "roiThemes": [
+      "Value within 3-6 months",
+      "ROI demonstrated through pipeline impact"
+    ],
+    "tcoCostDrivers": [
+      "Account volume",
+      "User count",
+      "Feature access"
+    ],
+    "pricingSummary": "Subscription-based pricing with Sales Intelligence as standalone option and full platform custom pricing"
+  }
+}

@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+WAVE  R EPO R T
+
+The Forrester Wave": B2B Revenue Marketing Platforms, Q3
+2024
+
+The 12  Providers  That Matter
+
+Most And  How They Stack Up
+
+July 22, 2024   • 17 min read
+
+
+
+With
+contributors:
+
+Kelvin Gee
+Principal Analyst
+
+Arianne
+Burnette
+
+
+
+
+
+
+
+
+
+Summary
+In  our 23-criterion  evaluation  of B2B revenue  marketing  platform providers, we identified the most significant ones and researched,  analyzed, and scored them. This report  shows  how each provider  measures  up and helps frontline  marketers select the right one for their needs.
+
+
+
+these platforms on a collision  course, each vying to become the core B2B engagement platform. This convergence has paved the way for a  new category known  as revenue marketing  platforms. These platforms provide  value by merging  comprehensive demand  and ABM marketing features and functionalities into a central  hub to offer
+greater efficiency, better  integrations, and enhanced  data consolidation. As these solutions continue to evolve  and expand, assessing their readiness to serve as a comprehensive, single  platform capable  of meeting the diverse  needs of modern  B2B marketing organizations is imperative. B2B organizations should  look for revenue marketing  platforms that:
+
+
+1.   Offer data management,  unification, and identity resolution capabilities. Continuously understanding customer interactions across various touchpoints is essential for effective engagement. Revenue marketing platforms can integrate and unify first-, second-, and third-party data sources to create a comprehensive view of buyers and customers at the contact, account, and buying group  levels. This unified  data approach equips frontline marketers with the insights to build
+and segment  target  audiences. Organizations can
+leverage  this  real-time,  unified  view  of customer data to deliver  personalized experiences,  anticipate customer needs,  cultivate  stronger customer relationships,  and ultimately  drive  revenue  growth.
+2.   Seamlessly orchestrate customer interactions across multiple channels.  Revenue marketing  platforms with omnichannel orchestration capabilities integrate and synchronize communication across email, social  media, chat, advertising, and offline channels. This holistic approach  enables frontline marketers to deliver consistent, personalized messages to buying group members  at the right time and place through their preferred method of engagement. Through omnichannel orchestration, organizations can create cohesive  customer journeys, improve engagement rates, and foster deeper  relationships.
+
+3.   Support and prioritize buying group capabilities on the roadmap.  Engaging effectively with  buying groups requires  a deep  understanding of the collective decision-making process and the roles of individual buying group  members.  By integrating features that identify, assemble, target, and measure buying groups, platforms can deliver  targeted, relevant content to
+each member  based on their influence and needs. This strategic approach  ensures that every interaction  is meaningful and personalized and addresses  the
+unique concerns  of each stakeholder. Consequently, this leads to more informed decision-making, shorter sales cycles, and stronger customer relationships, ultimately driving  higher conversion  rates and revenue growth.
+
+
+Evaluation Summary
+Evaluation  Summary
+
+
+The Forrester Wave™ evaluation  highlights Leaders, Strong Performers, Contenders, and Challengers.  It's an assessment of the top vendors  in the market; it doesn't represent the entire vendor  landscape. You'll find more information about this market in our reports  on The B2B Revenue Marketing  Platforms Landscape, Q2 2023  and The Emergence Of The B2B Revenue Marketing  Platform.
+
+
+We intend this evaluation to be a starting point only and encourage  clients to view  product  evaluations and adapt criteria weightings using the Excel-based vendor comparison  tool (see Figures 1   and 2). Click the link at the beginning  of this report  on Forrester.com to download  the tool.
+THE FORRESTER WAVE"
+B2B Revenue Marketing Platforms
+03 2024
+
+
+
+Challengers           Contenders
+
+Strong
+Performers                                       Leaders
+
+Stronger current offering
+
+6sense.Cl
+
+Qoemandbase
+OracleO                                              HubSpoot
+Zoomlnfo
+Adobe    •           ·
+
+• Leadspace        SalesforceQ
+
+
+
+0 RollWorks  • Terminus
+0 lntentsify
+
+Integrate·
+
+
+
+
+
+Weaker current offering
+
+
+
+
+Weaker strategy                                                                                          ?  Stronger strategy
+
+Market  presence
+··0
+
+Source:  Forrester Research,  Inc. Unauthorized reproduction, citation, or distribution prohibited.
+
+Figure 1  - Forrester Wave": B2B Revenue Marketing Platforms, Q3
+2024
+
+
+M arket  presence1.00     4.00    3.00    5.00     1.00    3.00Revenue50%1.00     5.00    3.00    5.00     1.00    3.00Number of customers50%1.00    3.00    3.00   5.00     1.00    3.00
+All scores are based on a scale of O (weak) to 5 (strong).
+
+Source:  Forrester Research,  Inc. Unauthorized  reproduction, citation, or distribution prohibited.
+Figure 2 - Forrester Wave": B2B Revenue Marketing Platforms
+Scorecard, Q3 2024
+
+
+
+Vendor Offerings
+
+
+
+Vendor Offerings
+
+
+Forrester evaluated the offerings listed  below  (see Figure
+
+3).
+
+
+
+Vendor                              Product evaluated
+
+6sense                              6sense  Revenue Al for Marketing
+
+Adobe                           Adobe Marketo Engage and Adobe Real-Time CDP, B2B Edition
+
+Demand base                   Demand base One and Account Intelligence
+
+HubSpot                        Marketing Hub
+
+Integrate                           Integrate Platform and Pipeline360
+
+lntentsify                          Intelligence Activation Platform and lntentsify Orbit
+
+Leadspace                       Leadspace Drive, The Graph, and The Studio
+
+Oracle                               Fusion Marketing Suite, including Oracle Unity CDP, Oracle Eloqua, Oracle  Fusion
+Sales, and Oracle  Fusion CX Analytics
+
+RollWorks                         RollWorks Account-Based Marketing (ABM) Platform Salesforce                        Marketing Cloud Account Engagement and Data Cloud Terminus                        Terminus Platform
+Zoomlnfo                       Zoomlnfo Marketing
+
+
+Source:  Forrester Research,  Inc. Unauthorized  reproduction, citation, or distribution prohibited.
+
+Figure 3- Evaluated Vendors And Product Information
+
+
+
+Vendor Profiles
+
+
+
+Vendor  Profiles
+
+
+Our analysis uncovered  the following strengths and weaknesses of individual vendors.
+Leaders
+
+
+
+Leaders
+
+1.   6sense differentiates  on advanced analytics, deep insights, and robust engagement. 6sense  has successfully leveraged  its historical strengths in insights, analytics, and ABM to build a comprehensive platform for effective lifecycle revenue  marketing. The company  has earned  a  reputation for continuous innovation, savvy marketing, and being a formidable competitor.  6sense  has built a large and loyal  user community and is a trusted partner for numerous  high• profile  B2B organizations. The company's  product strategy and roadmap  are rooted  in a clear vision for revolutionizing  B2B revenue  creation  by putting the power  of data, Al, and automation  behind  every member  of the revenue  creation team.  However, these advanced  capabilities are matched to a perceived premium  pricing strategy, which  may be a barrier for smaller enterprises or those with tight budgets.
+
+
+6sense scored  consistently high in functional capabilities,  led  by the solution's cutting-edge use of Al and predictive analytics, which  use its embedded customer data  platform (CDP) and proprietary data to identify buying  intent and prioritize high-value
+accounts and opportunities. The 6sense solution also includes impressive innovations such as Al-powered conversational email, prescriptive analysis and next• best-action  recommendations, and generative Al (genAI) account engagement summaries.  Reference customers praised 6sense for its comprehensive functionality and strategic support, though they also noted that the platform's complexity could  require
+significant time  and expertise to fully  harness  its capabilities.  6sense's  advanced  features  and strong market reputation  make it  a  compelling choice  for businesses  aiming  to excel  in  lifecycle revenue marketing.
+
+
+View  6sense's  detailed  scorecard.
+
+2.   HubSpot's all-in-one approach and intuitive interface appeal to the midmarket. HubSpot's  Marketing  Hub has a strong  presence  in marketing automation and
+has been adding  basic ABM capabilities over the last few years. The vendor  has a strong  market share, especially  with small to medium-sized businesses, due to its scalable  solutions, large and loyal  user community, and commitment to customer education, training, and support.  The strength of HubSpot's strategy is providing  a connected,  user-friendly ecosystem that integrates seamlessly with other HubSpot  solutions,  most notably the company's  CRM, to facilitate fast results and a unified  customer experience.
+
+
+HubSpot  scored well for its analytics, email, web experiences, and personalization capabilities.  It offers extensive  integrations with other vendors  and has a track record of continuous product  innovation. Compared  to more enterprise-oriented solutions, HubSpot  has limitations in scalability and customization for sophisticated  marketing capabilities such as predictive analytics and a lack of ABM capabilities such as advanced  fit modeling  and native programmatic advertising.  Reference customers cited HubSpot's exceptional customer support, intuitive interface, and customer-focused approach  to product  innovation as
+strengths.  However, they wished  the  platform  had more  large-enterprise-level  capabilities, flexible customization  options,  and  better  translation  tools. HubSpot  Marketing  Hub best suits midmarket businesses  seeking  an all-in-one  solution.
+
+
+View  HubSpot's  detailed  scorecard.
+
+3.   Adobe  offers  a tightly integrated solution  with a bold vision for buying  groups.  Adobe's  revenue  marketing platform is comprised  of Adobe  Marketo Engage and Adobe  Real-Time CDP. The company's  market presence is formidable, particularly among enterprises and industries that demand  high levels of
+customization and robust data  management.  Adobe's vision  is compelling: it aims to converge  ABM and marketing automation capabilities, inbound and outbound channel orchestration, and CDP capabilities in a next-generation  revenue  marketing  platform. The company's  product  strategy is differentiated  by its strong commitment to buying  groups, with the release of Adobe  Journey  Optimizer B2B Edition on the near• term roadmap. Adobe  Journey  Optimizer will seamlessly  integrate with Adobe  Marketo Engage and match individual addressable audiences  to buying groups  in target accounts.
+
+
+Adobe  Marketo  Engage stands out for its sophisticated email  marketing, web experiences, and multichannel and full customer lifecycle support.  It is tightly integrated with Adobe  Real-Time CDP, which excels in consolidating customer data from numerous  sources into unified  profiles, enabling  real-time personalization and segmentation across channels.  But this requires purchasing  a second  product  and may add complexity
+to implementation.  Reference  customers mentioned the  product's  robust  feature  set,  seamless  integration across  the Adobe  ecosystem,  and strong  support.  They also cited  the complexity  of onboarding and implementation,  particularly  in  large-scale  deployments across geographies,  as a weakness.  Adobe's  revenue marketing  platform  best fits large  enterprises  already using  related  Adobe  applications  and seeking comprehensive,  integrated  marketing  and data management functionality.
+
+
+View  Adobe's detailed  scorecard.
+
+4.   Demandbase excels with account-based advertising and overall platform flexibility. Demandbase  One is a comprehensive platform that combines  account-based advertising, intent data, and Al-powered  insights to help revenue teams identify, engage, and convert target  accounts effectively.  Demandbase has a strong market presence, particularly in the enterprise sector, and is widely  recognized  as a pioneer  in ABM.  The company  is doubling  down  on its commitment to buying groups  as part of its product  strategy, with the vision of having Al eliminate guesswork and enable intelligent automation of the process that connects individual contacts to an opportunity.  However, the market may be wary, given the delay in delivering buying group functionality.
+
+
+Demandbase  scored well for its B2B-focused  demand• side platform (DSP), support  for buying groups, application  integrations,  personalization,  multilanguage intent data, and innovative solutions like Al-powered campaign  outcomes.  Like many of the solutions that started  in the ABM space,  Demandbase  has yet to offer
+the robust email  capabilities  that are a  mainstay  of its marketing-automation-oriented  competitors.  Reference customers praised  Demandbase  for its  strong  support, strategic  collaboration,  and  robust ABM  capabilities, though some  mentioned  UI  issues  and expressed  a desire  for improved  enterprise-level  user management and location-based  data-filtering  features.
+Demandbase  is  particularly  relevant for large enterprises  focusing  on revenue  marketing  strategies that require  robust  account  modeling,  advanced  ad targeting,  multichannel  orchestration,  and data augmentation  and integration  capabilities.
+
+
+View  Demandbase's detailed  scorecard.
+
+
+
+Strong Performers
+
+
+
+Strong Performers
+
+1.   Salesforce connects to a vast ecosystem but can be difficult to navigate. Salesforce's  revenue  marketing platform is comprised  of Marketing Cloud Account Engagement (formerly known  as Pardot) and its Data Cloud CDP. Salesforce  has a strong  market presence  in the B2B technology space, with a  large customer base and a comprehensive product  and partner ecosystem.
+A strength of Salesforce's  product  strategy is its continuing  investment in Einstein Al to add advanced capabilities to the solution and bundling  the Data
+Cloud offering  with Account Engagement, offering  free credits to get started on the CDP.  But this requires activating a second  product  and may add complexity to implementation.
+
+
+Account Engagement offers advanced  email  marketing
+and campaign  reporting  capabilities,  which  are integrated  seamlessly  with  Salesforce's  CRM. Salesforce  Data Cloud aggregates data from multiple sources to create unified  customer profiles, enabling
+personalized marketing, sales, and service experiences
+
+across multiple touchpoints. Salesforce  scored well for its vast partner ecosystem,  user community, and support,  but its lack of native unified  buying group support  is a weakness. Salesforce's  solution also currently lacks key ABM features such as native intent data, and advertising capabilities are provided  through partner integrations or other solutions in the company's portfolio.  Reference customers commend  Salesforce's strong  integration with  its CRM, robust support, and proactive customer engagement. They suggest improving transparency on Al  capabilities and reducing feature overlaps  across products. Salesforce  is the
+best fit for large enterprises looking for a revenue marketing  platform that seamlessly  integrates with their Salesforce  CRM to enhance  sales and marketing alignment.
+
+
+View Salesforce's  detailed scorecard.
+
+2.   Zoomlnfo's robust solution leverages its core data assets but needs stronger reporting. Zoomlnfo Marketing  is a relatively recent and surprisingly strong entry into this market. Unlike many of the vendors  in this evaluation, which started with  marketing automation or ABM platforms and added  data sources
+and data  management capabilities, Zoomlnfo's product strategy is rooted  in its proprietary data assets, and its well-funded development team has quickly  built a
+broad portfolio  of applications around  it. The Zoomlnfo platform provides  B2B demand  generation and sales
+intelligence  tools,  contact and intent  data,  and an embedded CDP.  Zoomlnfo   is  in  a  good  position  to capitalize  on its  leadershipposition  in the data market and positive reputation among sales and marketing
+teams, but its solution currently lacks the depth of
+
+functionality offered by more mature revenue marketing  platforms.
+
+
+Zoomlnfo  stands out for its affordable pricing, comprehensive data, adaptive workflows, custom advertising  DSP, and native chat capabilities.  Reporting is a weakness, with Zoomlnfo  having basic analytic capabilities within its platform and offering  more advanced  reporting through  professional services. Reference customers cited Zoomlnfo's  innovation,
+ease of use, and comprehensive data capabilities as strengths, though  some suggested improvements in reporting and integration. Zoomlnfo  Marketing  is the best fit for B2B companies  looking for a cost-effective solution to improve their marketing through access to accurate and up-to-date company  and contact data.
+
+
+View Zoomlnfo's detailed scorecard.
+
+3.   Oracle provides advanced  data unification but can be complex to manage. Oracle's  revenue  marketing platform includes Eloqua and Unity CDP, which  are part of the broader  Oracle Fusion Marketing Suite.  Eloqua offers marketing automation capabilities, including
+tools for campaign  management, lead  nurturing, and analytics. Oracle's  Unity CDP aggregates data from multiple sources to create unified  customer profiles, enabling  personalization and journey orchestration. Oracle's strong  market presence  among  large enterprises is due to its extensive product  suite and
+deep  integration  across  numerous  business  functions. A pillar of Oracle's  product  strategy  is the integration between Eloqua  and Unity. While  Eloqua  has full capabilities  for data  management and segmentation, adding  Unity enhances  Eloqua's  capabilities.  Oracle's near-term  roadmap  for genAI  only includes  email subject line  and content recommendations,  which  is becoming  standard  in the market.
+
+
+Oracle  stands out for the  platform's scalability,  powerful data  management capabilities,  support  of complex
+data  environments,  and strong  multichannel orchestration  capabilities.  However,  Oracle's  solutions can be complex  and resource-intensive,  making  them more suitable for enterprises  with  dedicated  IT resources  to  manage  them.  Reference  customers appreciated Oracle's  advanced  capabilities,  ease of integration,  and proactive support, though some mentioned  challenges  with  roadmap  clarity,  feature  set parity,  and Al  capabilities. Oracle is the best fit for large
+organizations already  using Oracle products and
+
+seeking  a comprehensive, integrated  revenue marketing  platform.
+
+
+View Oracle's  detailed scorecard.
+
+4.   Leadspace provides advanced buyer targeting  but offers limited native activation. Leadspace's origins are in data aggregation and management.  Its Leadspace Drive platform is more for customer data management and buyer targeting than for engagement. It enhances  marketing and sales efforts through advanced  buyer profiling  and Al-driven audience  segmentation.  Leadspace's vision that the future of go-to-market motions are self-driving
+campaigns  and  revenue  automation  aligns well  with Forrester's  vision  of adaptive  programs  and is  its primary strategic  strength.  However,  Leadspace's  niche market presence, focus  on CDP-related capabilities,
+and lack  of comprehensive,  native  engagement capabilities  are weaknesses in the broader  revenue marketing  platform  market.
+
+
+Leadspace  differentiates  itself with  The Studio,  a visually  impressive  tool  designed  to  provide  a  maplike experience for marketing  and sales professionals, guiding  them  on the quickest path  to likely  prospects and personalized recommended  segmentation  to deliver  more  relevant  and targeted  customer interactions.  Leadspace  scored  very well  on its  data management,  hygiene,  and unification  capabilities  but fell  short  in  its  lack  of native journey orchestration. Reference  customers  highlight Leadspace's  robust
+data  modeling,  customer care,  and strategic  alignment capabilities.  However, they suggest improvements  in data  quality,  reporting,  and  proactive  customer engagement.  Leadspace  is  ideal  for organizations  that prioritize  data  and  intelligence  needs  and seek to automate  self-service  audience  targeting,  especially when  they already  have other channel  orchestration and activation  tools  in  place.
+
+
+View  Leadspace's  detailed scorecard.
+
+5.   Terminus is a solid all-around performer, but it lacks buying group support. As an ABM pioneer, Terminus remains a competent and reliable  revenue  marketing platform today. It meets almost all the criteria, including robust account targeting,  personalized  multichannel engagement, and analytics to measure program
+effectiveness.  Terminus  has developed a  market presence  among  midsized  to large  enterprises implementing  advanced  ABM strategies, but it has also evolved  its solution to meet customers' expanding
+needs and compete with other revenue  marketing
+
+platforms. Terminus has increased the percentage of revenue  spent on R&D to strengthen its position within the market. However, its product  roadmap  is high-level and abstract and didn't specify meaningful timeframes for tangible  and desirable  product  enhancements other than "near term"  and "long term."
+
+
+Terminus scored  on par consistently across almost all category criteria, showcasing  its solid all-around capabilities;  however, it lacks buying group support, an emerging  critical  requirement for mature  B2B
+marketing organizations.  Reference customers value Terminus's customer-centric approach, ease of use, and ability to influence pipeline  and engagement. However, they suggest improvements in intent data utilization,  long-term  product  roadmap  collaboration, enterprise-level features, and proactive issue identification. Terminus is a solid choice for midsized organizations and enterprises prioritizing  breadth of capabilities over depth of advanced  functionality.
+
+
+View Terminus's  detailed scorecard.
+
+
+
+Contenders
+
+
+
+Contenders
+
+1.   RollWorks is caught  between being  an advertising solution and a marketing platform.  RollWorks is the B2B division  of the marketing technology company
+NextRoll.  RollWorks'  entry  in this  market is an ABM• focused  platform that leverages  its  parent company's expertise in  advertising  to offer  advanced  account targeting,  personalized multichannel  engagement,  and a  deceptively simple  embedded CDP,  all  in  a user• friendly  package.  Its  vision  to make  revenue  marketing execution  simple  with  an easy-to-use  platform  is compelling.  However,  its  new  pricing  strategy, which has resulted  in two  separate  packages,  one for its advertising  solution  and another for its  account-based engagement platform,  may confuse  the market  looking for a  comprehensive revenue  marketing  platform. RollWorks  is also behind  on orchestration,  genAI,
+contact sourcing,  and buying  group  capabilities  relative to its  competitors.
+
+
+RollWorks  scored  high  marks for its  advanced advertising  capabilities  and new  Command  Center dashboard,  but its  application  integration,  data
+hygiene,  and data  enrichment abilities  were  below  par compared  to its  competitors.  Its  adaptive  workflow capabilities  and customer community are also limited. Reference  customers  praised  RollWorks  for its innovation,  ease of use,  strong  customer support, account management,  and integration  capabilities. However, they suggested  adding  improved engagement orchestration,  ideal  customer profile  (ICP) functionality,  and more  comprehensive channel reporting.  RollWorks'  ease of use and affordability
+make it a  best fit for B2B marketers  who  prioritize advanced  advertising  features  over comprehensive, cross-channel  targeting,  engagement,  and measurement capabilities.
+
+
+View  RollWorks's  detailed  scorecard.
+2.   lntentsify offers advanced intent capabilities, but engagement  orchestration is limited. lntentsify Orbit is a data-focused platform that helps B2B companies
+identify and engage  with  prospects demonstrating  high purchase  intent. The market presence  of this relatively small  but growing  company  is tied to its innovative Al applications and customized scoring  models.  Its strategic strength  lies in unique fit modeling  and intent data, with the ability to activate data through content syndication and digital advertising to deliver  contact• level  intent and identify known  buyers.  However,
+limited global contact data and lack of partner integrations diminish  its appeal  in the broader  revenue marketing  platform market. While lntentsify's vision for
+a revenue  marketing  platform is bold and comprehensive, it must clearly demonstrate its unique value proposition to gain and maintain  market share.
+
+
+lntentsify scored well in providing  granular  buyer insights, aggregating  intent data from multiple sources and using advanced  analytics to identify buying signals that enable  synchronized, Al-driven  programs. These include content syndication and display ads that help organizations engage  target accounts effectively. However,  its journey orchestration and channel activation capabilities are currently limited.  Reference customers praise lntentsify's strong  intent data, robust customer service, and ability to drive leads and
+demand  but suggest improvements in dashboard development, Salesforce  integration, and contact validation. Intensify is best fit for organizations prioritizing contact-level  intent signals and activation programs  over comprehensive revenue  marketing capabilities.
+View  Intensity's  detailed  scorecard.
+
+
+
+Challengers
+
+
+
+Challengers
+
+1.   Integrate is still evolving  into a revenue marketing platform. Integrate is a marketing technology platform designed  to streamline demand  generation and automate marketing  processes  to help B2B companies drive growth. Defining  features of the Integrate
+solution include lead generation capabilities, data governance, and analytics that provide  insights into marketing  performance.  Integrate has established a solid market presence  among large enterprises seeking  to optimize their marketing operations and improve data quality. The company  recently repositioned  its Pipeline360 media business as a separate offering,  but it still depends  on managed services  as part of its offering and is transitioning from a managed  services  company  to a software-as-a• service  (SaaS) platform. The company's  roadmap  also
+wasn't clear or comprehensive and didn't align strongly with  Forrester's vision of a  revenue  marketing  platform solution.
+
+
+Integrate scored  on par with  peers on data management, application  integration, and reporting. Because the platform is primarily  a clearing  house for leads, it is strongly positioned to report  on partner and channel  performance. However, the platform lacks key capabilities central to a  revenue  marketing  platform, such as personalization  by channel, chat, SMS, direct mail, connected TV, and full customer lifecycle support.
+lntegrate's  reference  customers  didn't respond  to Forrester's  outreach  for this evaluation.  Integrate  is  the best fit for organizations  prioritizing  lead  management and data  governance over  more comprehensive revenue  marketing  platform capabilities.
+
+
+View  lntegrate's  detailed scorecard.
+
+
+
+Evaluation Overview
+
+
+
+Evaluation  Overview
+
+
+We grouped  our evaluation criteria  into three high-level categories:
+
+1.   Current offering. Each vendor's  position on the vertical axis of the Forrester Wave graphic  indicates the strength of its current  offering.
+
+2.   Strategy. Placement on the horizontal axis indicates the strength of the vendors'  strategies, including elements such as vision and innovation.
+
+3.   Market presence. The size of each vendor's  marker on the graphic  reflects Forrester's assessment of its
+market presence.
+
+
+
+Vendor Inclusion Criteria
+
+
+
+Vendor Inclusion Criteria
+
+Each of the vendors  we included in this assessment has:
+
+
+1.   Strong support for B2B revenue marketing. These vendors  natively provide  a comprehensive set of core functions within their platform, including audience segmentation, support  for buying groups, omnichannel
+marketing  engagement, journey orchestration,  unified profiles,  and support  for Al.
+2.   A broad customer base with mindshare among Forrester clients. The vendors  have an existing customer base of enterprise-scale, global customers, with current evidence  of mindshare  and adoption among  Forrester clients. These solutions aren't specialized  to a single  region or industry.
+
+3.   A minimum of $10 million in annual revenue. Vendors included  in this evaluation offer a proven  product and generate $10 million or more in annual  revenue attributable specifically to their revenue  marketing offerings.
+
+
+Supplemental Material
+
+
+
+Supplemental  Material
+
+
+
+Online Resource
+
+
+
+Online Resource
+
+We publish all our Forrester Wave scores and weightings in an Excel file that provides  detailed product  evaluations and customizable rankings; download  this tool  by clicking  the link at the beginning  of this report  on Forrester.com. We intend these scores and default weightings to serve only as a starting point and encourage readers to adapt the weightings to fit their individual  needs.
+
+
+The Forrester Wave
+
+Methodology
+The  Forrester Wave  Methodology
+
+A Forrester Wave is  a  guide  for buyers  considering their purchasing  options  in  a technology marketplace.  To offer an equitable  process  for all participants,  Forrester follows  The Forrester Wave"  Methodology to evaluate  participating vendors.
+
+
+In  our review,  we conduct  primary  research  to develop  a  list of vendors  to consider  for the evaluation.  From that initial pool  of vendors,  we  narrow  our final  list  based  on the inclusion  criteria.  We then gather  details of product and strategy through  a  detailed  questionnaire,  demos/briefings, and customer  reference  surveys/interviews.  We use those inputs,  along  with  the analyst's  experience and expertise in the marketplace, to score  vendors,  using a  relative  rating system  that compares  each vendor  against the  others  in the evaluation.
+
+
+We include  the Forrester Wave publishing  date  (quarter and year)  clearly  in the title  of each  Forrester Wave report.  We evaluated  the vendors  participating  in this Forrester Wave using  materials they provided  to  us by May 2,  2024,  and did not allow  additional  information  after that point. We encourage   readers  to evaluate  how the  market and vendor offerings change  over time.
+
+
+In  accordance with  pour vendor  review. policy,  Forrester asks vendors  to  review  our findings  prior to publishing  to check for accuracy.  Vendors  marked  as nonparticipating  vendors
+in the  Forrester Wave graphic  met our defined  inclusion criteria  but declined  to  participate  in  or contributed  only partially to the evaluation. We score these vendors  in accordance with  our vendor  participation  policy  and publish  their positioning  along  with  those of the participating  vendors.
+Integrity Policy
+
+
+
+Integrity Policy
+
+We conduct  all our research, including  Forrester Wave evaluations, in accordance with the integritypolicy posted on our website.
+
+
+
+
+About Forrester Reprints   https://go.forrester.com/research/reprints/
+
+
+© 2025.  Forrester Research, Inc. and/or its subsidiaries. All  rights reserved.

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "18_awardsSummary",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:51.116757"
+      }
+    ]
+  },
+  "data": {
+    "awards": [
+      {
+        "name": "Gartner Magic Quadrant Leader",
+        "year": 2024,
+        "awardingBody": "Gartner",
+        "scope": "category",
+        "sourceType": "analyst_report"
+      },
+      {
+        "name": "Forrester Wave Strong Performer - Intent Data Providers",
+        "year": 2025,
+        "awardingBody": "Forrester",
+        "scope": "category",
+        "sourceType": "analyst_report"
+      },
+      {
+        "name": "Forrester Wave Recognition - Revenue Marketing Platforms",
+        "year": 2024,
+        "awardingBody": "Forrester",
+        "scope": "category",
+        "sourceType": "analyst_report"
+      }
+    ],
+    "summary": "Recognized as Leader in Gartner Magic Quadrant for ABM Platforms (4th consecutive year) and Strong Performer in Forrester Waves for Intent Data and Revenue Marketing"
+  }
+}

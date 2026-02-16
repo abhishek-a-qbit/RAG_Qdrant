@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "19_buyerEvaluationChecklist",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:51.118275"
+      }
+    ]
+  },
+  "data": {
+    "summary": "Evaluation framework for assessing 6sense fit across data requirements, use cases, integration needs, technical readiness, and business considerations",
+    "items": [
+      {
+        "criterion": "Need for proprietary intent data at scale (1T+ signals/day)",
+        "whyItMatters": "Critical for data requirements",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Requirement for buyer identity resolution and persona-level insights",
+        "whyItMatters": "Critical for data requirements",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Need to unify first-party (CRM/MAP) and third-party data sources",
+        "whyItMatters": "Critical for data requirements",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Account-based marketing programs at enterprise scale",
+        "whyItMatters": "Critical for use case fit",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Sales intelligence and account prioritization needs",
+        "whyItMatters": "Critical for use case fit",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Predictive analytics for lead scoring and propensity modeling",
+        "whyItMatters": "Critical for use case fit",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Multi-channel campaign orchestration (ads, email, web, sales)",
+        "whyItMatters": "Critical for use case fit",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Existing CRM platform (Salesforce, HubSpot, Pipedrive, etc.)",
+        "whyItMatters": "Critical for integration needs",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Marketing automation platform (Marketo, HubSpot, etc.)",
+        "whyItMatters": "Critical for integration needs",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Sales engagement tools (Outreach, Salesloft, etc.)",
+        "whyItMatters": "Critical for integration needs",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Ad platforms and marketing technology stack",
+        "whyItMatters": "Critical for integration needs",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Team expertise in ABM strategy and execution",
+        "whyItMatters": "Critical for technical readiness",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Resources for platform onboarding and training",
+        "whyItMatters": "Critical for technical readiness",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Data governance and privacy compliance requirements",
+        "whyItMatters": "Critical for technical readiness",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Willingness to invest in learning curve for advanced features",
+        "whyItMatters": "Critical for technical readiness",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Enterprise-scale ABM investment budget",
+        "whyItMatters": "Critical for business considerations",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Multi-quarter commitment for full value realization",
+        "whyItMatters": "Critical for business considerations",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Cross-functional alignment (marketing, sales, operations)",
+        "whyItMatters": "Critical for business considerations",
+        "scope": "product",
+        "evidence": []
+      },
+      {
+        "criterion": "Appetite for AI-powered automation and insights",
+        "whyItMatters": "Critical for business considerations",
+        "scope": "product",
+        "evidence": []
+      }
+    ]
+  }
+}

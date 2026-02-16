@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "5_integrations",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:39.023091"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "int_001",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/techtarget"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_002",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/techtarget"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_003",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/techtarget"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_004",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/techtarget"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_005",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/techtarget"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_006",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/g2"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_007",
+      "integrationName": "Unknown",
+      "integrationDomain": "",
+      "integratedVia": "ipaaS",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "https://6sense.com/integrations/trustradius"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_008",
+      "integrationName": "marketlinc.com",
+      "integrationDomain": "marketlinc.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_009",
+      "integrationName": "crooze.com",
+      "integrationDomain": "crooze.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_010",
+      "integrationName": "demandmatrix.com",
+      "integrationDomain": "demandmatrix.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_011",
+      "integrationName": "conversica.com",
+      "integrationDomain": "conversica.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_012",
+      "integrationName": "leandata.com",
+      "integrationDomain": "leandata.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_013",
+      "integrationName": "okta.com",
+      "integrationDomain": "okta.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_014",
+      "integrationName": "salesloft.com",
+      "integrationDomain": "salesloft.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_015",
+      "integrationName": "contentsquare.com",
+      "integrationDomain": "contentsquare.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_016",
+      "integrationName": "sendoso.com",
+      "integrationDomain": "sendoso.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_017",
+      "integrationName": "kameleoon.com",
+      "integrationDomain": "kameleoon.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_018",
+      "integrationName": "integrate.com",
+      "integrationDomain": "integrate.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_019",
+      "integrationName": "pipedrive.com",
+      "integrationDomain": "pipedrive.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_020",
+      "integrationName": "channelape.com",
+      "integrationDomain": "channelape.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    },
+    {
+      "id": "int_021",
+      "integrationName": "salesvue.com",
+      "integrationDomain": "salesvue.com",
+      "integratedVia": "native",
+      "ipaaSServices": [],
+      "cloudOrApp": "application",
+      "evidence": {
+        "sources": [
+          "6Sense_Stack.txt"
+        ]
+      },
+      "painPoints": []
+    }
+  ]
+}

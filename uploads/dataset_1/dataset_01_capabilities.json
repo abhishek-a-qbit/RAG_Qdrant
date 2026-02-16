@@ -1,0 +1,1026 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "1_capabilities",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:16.665596",
+        "reason": "Final schema-compliant dataset"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "cap_001",
+      "type": "productCapability",
+      "label": "Use AI to identify high-intent accounts, optimize targeting, and personalize campaigns.",
+      "description": "Use AI to identify high-intent accounts, optimize targeting, and personalize campaigns.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Use AI to identify high-intent accounts, optimize targeting, and personalize campaigns.', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_002",
+      "type": "productCapability",
+      "label": "Supercharge seller efficiency with AI-driven insights that turn data into deals.",
+      "description": "Supercharge seller efficiency with AI-driven insights that turn data into deals.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Supercharge seller efficiency with AI-driven insights that turn data into deals.', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_003",
+      "type": "productCapability",
+      "label": "6sense unifies your data, channels, and teams with purpose-built AI and intelligentAgents \u2014 so every",
+      "description": "6sense unifies your data, channels, and teams with purpose-built AI and intelligentAgents \u2014 so every GTM motion is smarter, faster, and more connected",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6sense unifies your data, channels, and teams with purpose-built AI and intelligentAgents \u2014 so every GTM motion is smarter, faster, and more connected', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_004",
+      "type": "productCapability",
+      "label": "Generate more demand with form shortening and enrichment, ensure instant inbound follow-up, and enha",
+      "description": "Generate more demand with form shortening and enrichment, ensure instant inbound follow-up, and enhance lead qualification with robust intent scoring ",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Generate more demand with form shortening and enrichment, ensure instant inbound follow-up, and enhance lead qualification with robust intent scoring ', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_005",
+      "type": "productCapability",
+      "label": "Identify accounts researching your biggest competitors and target them with ads while engaging with ",
+      "description": "Identify accounts researching your biggest competitors and target them with ads while engaging with AI Email Agents.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Identify accounts researching your biggest competitors and target them with ads while engaging with AI Email Agents.', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_006",
+      "type": "productCapability",
+      "label": "A smarter, faster, more connected GTM motion | 6sense\u2019s AI sees, scores, and prioritizes every signa",
+      "description": "A smarter, faster, more connected GTM motion | 6sense\u2019s AI sees, scores, and prioritizes every signal \u2013 so you can execute perfectly-timed, personaliz",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'A smarter, faster, more connected GTM motion | 6sense\u2019s AI sees, scores, and prioritizes every signal \u2013 so you can execute perfectly-timed, personaliz', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_007",
+      "type": "productCapability",
+      "label": "Everyday, the 6senseSignalverse\u2122 capturesone trillion signals\u2014intent,company, and contact data\u2014 to f",
+      "description": "Everyday, the 6senseSignalverse\u2122 capturesone trillion signals\u2014intent,company, and contact data\u2014 to fuel AI that pinpoints who\u2019s ready to buy, how to e",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Everyday, the 6senseSignalverse\u2122 capturesone trillion signals\u2014intent,company, and contact data\u2014 to fuel AI that pinpoints who\u2019s ready to buy, how to e', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_008",
+      "type": "productCapability",
+      "label": "With unrivaled accuracy and precision, 6sense turns data into actionable insights to improve revenue",
+      "description": "With unrivaled accuracy and precision, 6sense turns data into actionable insights to improve revenue efficiency.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'With unrivaled accuracy and precision, 6sense turns data into actionable insights to improve revenue efficiency.', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_009",
+      "type": "productCapability",
+      "label": "Using data from the Signalverse,6AI\u2122 works behind-the-scenes to clean, dedupe, and model every accou",
+      "description": "Using data from the Signalverse,6AI\u2122 works behind-the-scenes to clean, dedupe, and model every account and contact to tailor scores and suggestions to",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Using data from the Signalverse,6AI\u2122 works behind-the-scenes to clean, dedupe, and model every account and contact to tailor scores and suggestions to', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_010",
+      "type": "productCapability",
+      "label": "All from one drag-and-drop-canvas, theIntelligent Workflows Engineturns AI signals into automated om",
+      "description": "All from one drag-and-drop-canvas, theIntelligent Workflows Engineturns AI signals into automated omni-channel plays across ads, email, web, and sales",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'All from one drag-and-drop-canvas, theIntelligent Workflows Engineturns AI signals into automated omni-channel plays across ads, email, web, and sales', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_011",
+      "type": "productCapability",
+      "label": "Copilotgives every rep a competitive advantage \u2013 turning complex buying signals into prioritized acc",
+      "description": "Copilotgives every rep a competitive advantage \u2013 turning complex buying signals into prioritized accounts, ready buyers, and automated research, deliv",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Copilotgives every rep a competitive advantage \u2013 turning complex buying signals into prioritized accounts, ready buyers, and automated research, deliv', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_012",
+      "type": "productCapability",
+      "label": "6sense was named a Leader for the 4th year in a row in the Gartner\u00ae Magic Quadrant\u2122 for Account-Base",
+      "description": "6sense was named a Leader for the 4th year in a row in the Gartner\u00ae Magic Quadrant\u2122 for Account-Based Marketing Platforms | Read the Magic Quadrant",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': '6sense was named a Leader for the 4th year in a row in the Gartner\u00ae Magic Quadrant\u2122 for Account-Based Marketing Platforms | Read the Magic Quadrant', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_013",
+      "type": "productCapability",
+      "label": "Turns data into decisions | 6sense doesn\u2019t just give you data. It gives you decisions.",
+      "description": "Turns data into decisions | 6sense doesn\u2019t just give you data. It gives you decisions.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Turns data into decisions | 6sense doesn\u2019t just give you data. It gives you decisions.', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_014",
+      "type": "productCapability",
+      "label": "Connect, sync, and activate every channel from one canvas | All from one drag-and-drop-canvas, the I",
+      "description": "Connect, sync, and activate every channel from one canvas | All from one drag-and-drop-canvas, the Intelligent Workflows Engine turns AI signals into ",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Connect, sync, and activate every channel from one canvas | All from one drag-and-drop-canvas, the Intelligent Workflows Engine turns AI signals into ', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_015",
+      "type": "productCapability",
+      "label": "Unlock valuable AI insights for sellers | Copilot gives every rep a competitive advantage \u2013 turning ",
+      "description": "Unlock valuable AI insights for sellers | Copilot gives every rep a competitive advantage \u2013 turning complex buying signals into prioritized accounts, ",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Unlock valuable AI insights for sellers | Copilot gives every rep a competitive advantage \u2013 turning complex buying signals into prioritized accounts, ', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_016",
+      "type": "productCapability",
+      "label": "Signalverse Overview | Intent Data | B2B Buyer Data | Web Deanonymization | Data Preparation",
+      "description": "Signalverse Overview | Intent Data | B2B Buyer Data | Web Deanonymization | Data Preparation",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Signalverse Overview | Intent Data | B2B Buyer Data | Web Deanonymization | Data Preparation', 'source': 'homepage'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "homepage",
+        "url": "homepage",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_017",
+      "type": "productCapability",
+      "label": "The nerve center for your marketing tech stack | 6sense Revenue Marketing helps marketers achieve pi",
+      "description": "The nerve center for your marketing tech stack | 6sense Revenue Marketing helps marketers achieve pipeline growth by making it easier to:",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'The nerve center for your marketing tech stack | 6sense Revenue Marketing helps marketers achieve pipeline growth by making it easier to:', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_018",
+      "type": "productCapability",
+      "label": "Identify anonymous website visitors and match them to accounts\u2028in real-time using 6sense\u2019s patented ",
+      "description": "Identify anonymous website visitors and match them to accounts\u2028in real-time using 6sense\u2019s patented ID graph technology.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Identify anonymous website visitors and match them to accounts\\u2028in real-time using 6sense\u2019s patented ID graph technology.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_019",
+      "type": "productCapability",
+      "label": "Identify high-potential accounts and predict opportunities by using intent scores, outreach activiti",
+      "description": "Identify high-potential accounts and predict opportunities by using intent scores, outreach activities, and profile fit insights.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Identify high-potential accounts and predict opportunities by using intent scores, outreach activities, and profile fit insights.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_020",
+      "type": "productCapability",
+      "label": "Aggregate data from various sources \u2014 such as website visits, content engagement, keyword research, ",
+      "description": "Aggregate data from various sources \u2014 such as website visits, content engagement, keyword research, and third-party research \u2014 to identify buying intent.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Aggregate data from various sources \u2014 such as website visits, content engagement, keyword research, and third-party research \u2014 to identify buying intent.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_021",
+      "type": "productCapability",
+      "label": "Automate email delivery and replies with tailored, intelligent responses that align with your brand.",
+      "description": "Automate email delivery and replies with tailored, intelligent responses that align with your brand.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Automate email delivery and replies with tailored, intelligent responses that align with your brand.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_022",
+      "type": "productCapability",
+      "label": "Improve form conversion rates and gather more accurate data with automated, real-time form enrichmen",
+      "description": "Improve form conversion rates and gather more accurate data with automated, real-time form enrichment.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Improve form conversion rates and gather more accurate data with automated, real-time form enrichment.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_023",
+      "type": "productCapability",
+      "label": "268% increase to marketing pipeline | Corporate Visions, a leading provider of science-backed revenu",
+      "description": "268% increase to marketing pipeline | Corporate Visions, a leading provider of science-backed revenue growth services, modernized its go-to-market strategy with intent data, sales intelligence, and \u2028generative AI.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '268% increase to marketing pipeline | Corporate Visions, a leading provider of science-backed revenue growth services, modernized its go-to-market strategy with intent data, sales intelligence, and \\u2028generative AI.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_024",
+      "type": "productCapability",
+      "label": "6X increase in opportunity volume | Expereo, a global leader in intelligent internet solutions, tran",
+      "description": "6X increase in opportunity volume | Expereo, a global leader in intelligent internet solutions, transformed its marketing efforts and has achieved remarkable results in opportunity volume and value.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6X increase in opportunity volume | Expereo, a global leader in intelligent internet solutions, transformed its marketing efforts and has achieved remarkable results in opportunity volume and value.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_025",
+      "type": "productCapability",
+      "label": "43% increase to pipeline generation | Folloze, a cutting-edge platform for personalized marketing ca",
+      "description": "43% increase to pipeline generation | Folloze, a cutting-edge platform for personalized marketing campaigns, optimized its top-of-funnel campaigns and achieved significant pipeline\u2028growth through its integration with 6sense.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '43% increase to pipeline generation | Folloze, a cutting-edge platform for personalized marketing campaigns, optimized its top-of-funnel campaigns and achieved significant pipeline\\u2028growth through its integration with 6sense.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_026",
+      "type": "productCapability",
+      "label": "80% increase to pipeline generation | Vertiv, a global leader in IT infrastructure, used 6sense to t",
+      "description": "80% increase to pipeline generation | Vertiv, a global leader in IT infrastructure, used 6sense to test a new account-based marketing approach in an untapped market, achieving impressive results.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': '80% increase to pipeline generation | Vertiv, a global leader in IT infrastructure, used 6sense to test a new account-based marketing approach in an untapped market, achieving impressive results.', 'feature_area': 'revenue-marketing', 'source': 'https://6sense.com/platform/revenue-marketing'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/revenue-marketing",
+        "url": "https://6sense.com/platform/revenue-marketing",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_027",
+      "type": "productCapability",
+      "label": "Say goodbye to guessworkand gruntwork | Spend more time closing deals and less time chasing them, 6s",
+      "description": "Say goodbye to guessworkand gruntwork | Spend more time closing deals and less time chasing them, 6sense provides sellers with everything needed inside their everyday tools.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Say goodbye to guessworkand gruntwork | Spend more time closing deals and less time chasing them, 6sense provides sellers with everything needed inside their everyday tools.', 'feature_area': 'sales-intelligence', 'source': 'https://6sense.com/platform/sales-intelligence'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/sales-intelligence",
+        "url": "https://6sense.com/platform/sales-intelligence",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_028",
+      "type": "productCapability",
+      "label": "Our platform uses predictive analytics to show you where accounts are in their buying journey.",
+      "description": "Our platform uses predictive analytics to show you where accounts are in their buying journey.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Our platform uses predictive analytics to show you where accounts are in their buying journey.', 'feature_area': 'sales-intelligence', 'source': 'https://6sense.com/platform/sales-intelligence'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/sales-intelligence",
+        "url": "https://6sense.com/platform/sales-intelligence",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_029",
+      "type": "productCapability",
+      "label": "Yes, 6sense provides the most relevantB2B datafor sellers, including verified phone numbers and emai",
+      "description": "Yes, 6sense provides the most relevantB2B datafor sellers, including verified phone numbers and emails.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Yes, 6sense provides the most relevantB2B datafor sellers, including verified phone numbers and emails.', 'feature_area': 'sales-intelligence', 'source': 'https://6sense.com/platform/sales-intelligence'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/sales-intelligence",
+        "url": "https://6sense.com/platform/sales-intelligence",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_030",
+      "type": "productCapability",
+      "label": "Does 6sense have contact data for sellers? | Yes, 6sense provides the most relevant B2B data for sel",
+      "description": "Does 6sense have contact data for sellers? | Yes, 6sense provides the most relevant B2B data for sellers, including verified phone numbers and emails.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Does 6sense have contact data for sellers? | Yes, 6sense provides the most relevant B2B data for sellers, including verified phone numbers and emails.', 'feature_area': 'sales-intelligence', 'source': 'https://6sense.com/platform/sales-intelligence'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/sales-intelligence",
+        "url": "https://6sense.com/platform/sales-intelligence",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_031",
+      "type": "productCapability",
+      "label": "B2B Intent Data | Stop guessing who\u2019s ready to buy, what they care about and when to reach out \u2013 6se",
+      "description": "B2B Intent Data | Stop guessing who\u2019s ready to buy, what they care about and when to reach out \u2013 6sense provides revenue teams with the insights needed to win more.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'B2B Intent Data | Stop guessing who\u2019s ready to buy, what they care about and when to reach out \u2013 6sense provides revenue teams with the insights needed to win more.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_032",
+      "type": "productCapability",
+      "label": "Our research shows thatonly 5 to 10% of accounts of accounts in your ICP are ready to buy right now.",
+      "description": "Our research shows thatonly 5 to 10% of accounts of accounts in your ICP are ready to buy right now. Knowing which accounts are ready lets you to focus your resources where they\u2019ll generate the most ROI.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Our research shows thatonly 5 to 10% of accounts of accounts in your ICP are ready to buy right now. Knowing which accounts are ready lets you to focus your resources where they\u2019ll generate the most ROI.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_033",
+      "type": "productCapability",
+      "label": "But knowing who\u2019s in-market is only part of the battle. Our industry-leading intent data helps reven",
+      "description": "But knowing who\u2019s in-market is only part of the battle. Our industry-leading intent data helps revenue teams understand how to best engage, so you can provide tailored, persuasive experiences.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'But knowing who\u2019s in-market is only part of the battle. Our industry-leading intent data helps revenue teams understand how to best engage, so you can provide tailored, persuasive experiences.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_034",
+      "type": "productCapability",
+      "label": "Our native intent data capabilities are complemented by partnerships with other leading intent data ",
+      "description": "Our native intent data capabilities are complemented by partnerships with other leading intent data providers likeBombora,TechTarget,TrustRadius, andG2.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Our native intent data capabilities are complemented by partnerships with other leading intent data providers likeBombora,TechTarget,TrustRadius, andG2.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_035",
+      "type": "productCapability",
+      "label": "Qualtricssaw a 260% increase in average opportunity value, and 66% reduction in cost per opportunity",
+      "description": "Qualtricssaw a 260% increase in average opportunity value, and 66% reduction in cost per opportunity",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Qualtricssaw a 260% increase in average opportunity value, and 66% reduction in cost per opportunity', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_036",
+      "type": "productCapability",
+      "label": "Reptrakincreased return on LinkedIn campaigns by 3x, and in addition to boosting account engagement ",
+      "description": "Reptrakincreased return on LinkedIn campaigns by 3x, and in addition to boosting account engagement by 46%.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Reptrakincreased return on LinkedIn campaigns by 3x, and in addition to boosting account engagement by 46%.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_037",
+      "type": "productCapability",
+      "label": "6AI\u2122 is the artificial intelligence engine that interprets B2B intent data and provides revenue team",
+      "description": "6AI\u2122 is the artificial intelligence engine that interprets B2B intent data and provides revenue teams unparalleled insights into buyers.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6AI\u2122 is the artificial intelligence engine that interprets B2B intent data and provides revenue teams unparalleled insights into buyers.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_038",
+      "type": "productCapability",
+      "label": "Tracks intent data in over 40 languages with 10x the intent coverage of other B2B intent data provid",
+      "description": "Tracks intent data in over 40 languages with 10x the intent coverage of other B2B intent data providers.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Tracks intent data in over 40 languages with 10x the intent coverage of other B2B intent data providers.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_039",
+      "type": "productCapability",
+      "label": "Understand content consumption patterns across accounts and generate keyword recommendations automat",
+      "description": "Understand content consumption patterns across accounts and generate keyword recommendations automatically.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Understand content consumption patterns across accounts and generate keyword recommendations automatically.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_040",
+      "type": "productCapability",
+      "label": "6senseis a pioneer in AI and B2B intent data, validated by theForrester Wave for Intent Data Provide",
+      "description": "6senseis a pioneer in AI and B2B intent data, validated by theForrester Wave for Intent Data Providers, where 6sense was named a Leader the last two consecutive years.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6senseis a pioneer in AI and B2B intent data, validated by theForrester Wave for Intent Data Providers, where 6sense was named a Leader the last two consecutive years.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_041",
+      "type": "productCapability",
+      "label": "What is B2B buyer intent data? | Data that provides insight into whether a prospect is actively cons",
+      "description": "What is B2B buyer intent data? | Data that provides insight into whether a prospect is actively considering purchasing your product or a similar product or solution.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'What is B2B buyer intent data? | Data that provides insight into whether a prospect is actively considering purchasing your product or a similar product or solution.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_042",
+      "type": "productCapability",
+      "label": "What are buyer intent signals? | Data points that identify buyer behavior, interest, and engagement ",
+      "description": "What are buyer intent signals? | Data points that identify buyer behavior, interest, and engagement patterns towards a particular product or solution.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'What are buyer intent signals? | Data points that identify buyer behavior, interest, and engagement patterns towards a particular product or solution.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_043",
+      "type": "productCapability",
+      "label": "Centralize intent data in one platform | Our native intent data capabilities are complemented by par",
+      "description": "Centralize intent data in one platform | Our native intent data capabilities are complemented by partnerships with other leading intent data providers like Bombora , TechTarget , TrustRadius , and G2 .",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Centralize intent data in one platform | Our native intent data capabilities are complemented by partnerships with other leading intent data providers like Bombora , TechTarget , TrustRadius , and G2 .', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_044",
+      "type": "productCapability",
+      "label": "More wins and bigger deals | Qualtrics saw a 260% increase in average opportunity value, and 66% red",
+      "description": "More wins and bigger deals | Qualtrics saw a 260% increase in average opportunity value, and 66% reduction in cost per opportunity",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'More wins and bigger deals | Qualtrics saw a 260% increase in average opportunity value, and 66% reduction in cost per opportunity', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_045",
+      "type": "productCapability",
+      "label": "Better marketing ROI | Reptrak increased return on LinkedIn campaigns by 3x, and in addition to boos",
+      "description": "Better marketing ROI | Reptrak increased return on LinkedIn campaigns by 3x, and in addition to boosting account engagement by 46%.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': 'Better marketing ROI | Reptrak increased return on LinkedIn campaigns by 3x, and in addition to boosting account engagement by 46%.', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_046",
+      "type": "productCapability",
+      "label": "\u201c | The ability to pair account scoring with engagement scoring is critical for campaigns to work be",
+      "description": "\u201c | The ability to pair account scoring with engagement scoring is critical for campaigns to work better \u2014 and it ultimately enables us to have more use cases across the organization.\u201d | Joe Rapolla | Sales and Marketing Operations Manager, Nanawall",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '\u201c | The ability to pair account scoring with engagement scoring is critical for campaigns to work better \u2014 and it ultimately enables us to have more use cases across the organization.\u201d | Joe Rapolla | Sales and Marketing Operations Manager, Nanawall', 'feature_area': 'intent-data', 'source': 'https://6sense.com/platform/intent-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/intent-data",
+        "url": "https://6sense.com/platform/intent-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_047",
+      "type": "productCapability",
+      "label": "Unlike basic data providers, 6sense doesn\u2019t just tell you who might buy \u2014 it tells you who\u2019s ready t",
+      "description": "Unlike basic data providers, 6sense doesn\u2019t just tell you who might buy \u2014 it tells you who\u2019s ready to buy now.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': 'Unlike basic data providers, 6sense doesn\u2019t just tell you who might buy \u2014 it tells you who\u2019s ready to buy now.', 'feature_area': 'b2b-buyer-data', 'source': 'https://6sense.com/platform/b2b-buyer-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/b2b-buyer-data",
+        "url": "https://6sense.com/platform/b2b-buyer-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_048",
+      "type": "productCapability",
+      "label": "6sense stands apart from other B2B data providers through a comprehensive approach to buyer intellig",
+      "description": "6sense stands apart from other B2B data providers through a comprehensive approach to buyer intelligence. Our data hub, theSignalverse\u2122, ingests a trillion B2B signals every day.",
+      "isAIRelated": false,
+      "rawPhrases": [
+        "{'capability': '6sense stands apart from other B2B data providers through a comprehensive approach to buyer intelligence. Our data hub, theSignalverse\u2122, ingests a trillion B2B signals every day.', 'feature_area': 'b2b-buyer-data', 'source': 'https://6sense.com/platform/b2b-buyer-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/b2b-buyer-data",
+        "url": "https://6sense.com/platform/b2b-buyer-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_049",
+      "type": "productCapability",
+      "label": "6AI, which has been trained on B2B sales and marketing data for over a decade, then interprets and v",
+      "description": "6AI, which has been trained on B2B sales and marketing data for over a decade, then interprets and validates these signals to provide raw data you can trust and actionable insights you can use to land more deals.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6AI, which has been trained on B2B sales and marketing data for over a decade, then interprets and validates these signals to provide raw data you can trust and actionable insights you can use to land more deals.', 'feature_area': 'b2b-buyer-data', 'source': 'https://6sense.com/platform/b2b-buyer-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/b2b-buyer-data",
+        "url": "https://6sense.com/platform/b2b-buyer-data",
+        "step": 1
+      }
+    },
+    {
+      "id": "cap_050",
+      "type": "productCapability",
+      "label": "6AI predicts where accounts are in their buying journey so you can market more effectively and know ",
+      "description": "6AI predicts where accounts are in their buying journey so you can market more effectively and know the best time to engage.",
+      "isAIRelated": true,
+      "rawPhrases": [
+        "{'capability': '6AI predicts where accounts are in their buying journey so you can market more effectively and know the best time to engage.', 'feature_area': 'b2b-buyer-data', 'source': 'https://6sense.com/platform/b2b-buyer-data'}"
+      ],
+      "evidence": {
+        "quotes": [],
+        "metrics": []
+      },
+      "maturity": "intermediate",
+      "source": {
+        "pageType": "https://6sense.com/platform/b2b-buyer-data",
+        "url": "https://6sense.com/platform/b2b-buyer-data",
+        "step": 1
+      }
+    }
+  ]
+}

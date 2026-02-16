@@ -1,0 +1,1736 @@
+
+MA ECH.  
+INTELLIGENCE REPORTS 
+AI is marketers' ? - and  
+#1 priority
+challenge. 
+See how they're making progress. 
+In the 9th State of Marketing Report, discover marketing's  emerging trends - from AI use cases to shifting data strategies,  increased personalization, and beyond. 
+Get the report 
+MARTECH INTELLIGENCE REPORT: 
+  Marketing Automation Platforms: A Marketer's Guide Table of contents
+Scope and methodology........................................................................................ 3 Marketing automation overview...................................................................... 4 Figure 1: Marketing automation spend is on  
+   the rise, globally............................................................................................. 4 The personalization imperative..................................................................... 5 Marketing automation platforms for ABM.............................................. 5 
+Figure 2: B2B marketing leaders want to engage buying  groups................................................................................................................ 6 Figure 3: Seventy-three percent of marketers are already  using AI to engage audiences or plan to do so................................ 6 Figure 4: AI improves marketers' ability to understand  customers ........................................................................................................ 7 
+The replacement wave ...................................................................................... 8 Figure 5: Marketing automation platforms are the tools most  replaced in the past several years......................................................... 8 
+  The need for differentiation............................................................................ 9 The utilization challenge................................................................................... 9 Big mergers are done; integration continues.............................................. 9 Figure 6: A timeline of developments in the MAP market.......10 Capabilities and differentiating factors......................................................11 Capabilities............................................................................................................11 Table 1: AI and ML capabilities.............................................................11 Dynamic content creation and delivery, sometimes  
+powered by AI ................................................................................................... 12 Table 2: Dynamic content capabilities ............................................ 12 Lead management, possibly augmented by AI.....................................13 Table 3: Lead management capabilities............................................13 Predictive analytics driven by AI and ML................................................14 Mobile marketing ..............................................................................................14 Table 4: Campaign channel capabilities............................................14 Email deliverability............................................................................................15 
+Account-based marketing .............................................................................15 Social/lead profile integration .....................................................................15  Native CRM and CDP integration..............................................................15 Third-party software connectivity ...........................................................15 AI and machine learning..................................................................................16 
+Table 5: Select marketing automation platform features ........16 Choosing a marketing automation platform.............................................17 The benefits of marketing automation ...................................................17 MAP pricing ...............................................................................................................18 Recommended steps to making an informed purchase.......................18 Step one: Do you need a marketing automation platform? ............18 Step two: Identify and contact appropriate vendors ........................19 Step three: Scheduling the demo .............................................................. 20 Step four: Check references, negotiate a contract ............................21 Conclusion................................................................................................................. 22 Vendor profiles.........................................................................................................23 Acoustic..................................................................................................................23 Acquia..................................................................................................................... 25 ActiveCampaign.................................................................................................27 Act-On.....................................................................................................................29 Adobe ......................................................................................................................32 Bloomreach...........................................................................................................35 Constant Contact...............................................................................................37 Customer.io...........................................................................................................39 Dotdigital...............................................................................................................41 Freshworks .......................................................................................................... 44 Intuit Mailchimp................................................................................................. 46 Marigold.................................................................................................................49 Oracle Marketing...............................................................................................52 Salesforce ..............................................................................................................55 
+(c) 2025 Third Door Media(r), a Semrush company 2 https://martech.org 
+Make this the year you  crack automation at scale. 
+If the data disconnect feels real, you're not alone. 
+Our latest cross-channel marketing report found that just 47% of brands are  
+collecting zero-party data. Fewer still are putting it to work by personalizing  
+their campaigns, producing lackluster results.  
+Read the report 
+Win customers for life with the #1 personalization platform for cross-channel marketing.
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Scope and methodology 
+This report examines the marketing automation platforms (MAPs) market and considerations for  choosing and implementing marketing automation software. It addresses the following questions: 
+• What factors are driving the use of MAPs? 
+• What core capabilities do MAPs provide, and how are artificial intelligence and machine learning enhancing the traditional features of MAPs? 
+• Does my company need a MAP? 
+• Who are the leading players in marketing automation? 
+• How do I evaluate which platform is best for my business? 
+If you are considering licensing a MAP, this report will help you decide whether it's worth investing  in one. The report was completely updated to include the latest industry statistics, developing  market trends, new vendor profiles and product updates.  
+In this report, a MAP is defined as software to execute, manage and automate repetitive  marketing tasks and processes - with the assistance of AI and machine learning - to engage  customers and prospects more effectively through multiple channels (i.e., email, mobile, social  media and websites). Marketing automation involves the creation, scheduling, targeting and  tracking of marketing campaigns, allowing marketing and sales organizations to nurture leads  with highly personalized content aimed at attracting and retaining customers. 
+The vendors profiled in this report represent only some of the providers of these technologies -  this is not a comprehensive list. This report is not a recommendation of any platform or company  and is not meant to endorse any product, service or vendor. 
+This report was prepared by asking in-depth questions of leading vendors, MAP users and  industry experts in the fourth quarter of 2024. These efforts, in addition to third-party research,  form the basis of this report. 
+Editorial Adviser 
+Kim Davis, Editor at Large, MarTech, Third Door Media 
+Writer, Editor and Analyst 
+Pamela Parker, Research Director, Third Door Media 
+Research  
+Allison Lofaro, Director of Event and Client Success, Third Door Media 
+Karen DeWeese, VP of Event and Client Success, Third Door Media 
+(c) 2025 Third Door Media(r), a Semrush company 3 https://martech.org 
+Email trends you  can't ignore 
+Customer expectations are evolving - and so is email marketing.  Stay ahead with expert analysis and actionable takeaways pulled  from email campaigns across industries and regions. 
+Download the report
+
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Marketing automation overview 
+The marketing automation platform (MAP) is the backbone of many modern marketing  technology stacks. It plays a crucial role in the business strategies of both B2B and B2C  companies, especially those offering high-consideration purchases or operating in the ecommerce  space.  
+Initially solely B2B-focused and combining email automation with lead-capturing landing pages  and forms, MAPs have expanded their capabilities to encompass a wide range of marketing  functions, enabling more sophisticated lead management and scoring as well as content  personalization at scale. In addition, these platforms now extend their reach across multiple  marketing channels and many leverage AI to enhance creative and analytical functions. 
+The global marketing automation software market is expected to grow from $5.7 billion in 2023  to $15.2 billion by 2033, representing a compound annual growth rate of 10.3%, according to  Market.us (see Figure 1). 
+Figure 1: Marketing automation spend is on the rise, globally.  
+Spending on software for marketing automation 
+The marketing  automation  
+platforms (MAP)  is the backbone  of many modern  marketing  
+technology  
+stacks.  
+$15B $10B $5B 
+$5.7B 
+$15.2B 
+$0 
+2023 2033 Source: Market.us
+(c) 2025 Third Door Media(r), a Semrush company 4 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+The personalization imperative 
+Personalization has become a key driver of the demand for MAPs. Consumers and business  buyers, conditioned by digital trendsetters, expect tailored online experiences based on data  they've shared with the company.  
+Seventy-one percent of consumers expect companies to deliver personalized interactions, and  76% get frustrated without them, according to a McKinsey report. 
+Businesses that meet those heightened expectations build customer loyalty and greater LTV.  More than three-quarters of consumers (76%) said receiving personalized communications was a  key factor in considering a brand, and 78% said content tailored to them made them more likely to  repurchase.  
+"Rather than putting consumers in predefined - and often outdated - boxes, companies should  focus on microtargeting to build a richer understanding of consumer preferences," advises  McKinsey in its State of the Consumer 2024 report. 
+Marketing automation platforms, especially those with advanced AI and ML features, help  marketers deliver real-time, personalized, omnichannel experiences utilizing advanced audience  segmentation. 
+I think the challenge most marketers face is how do we get the most  
+out of our tools? How can we get them to 'talk' to each other better,  
+leveraging collective data and insights to gain efficiencies and, ultimately,  more conversions? How do we wow our customers with personalized  
+content and experiences?" 
+Karissa Sachs, VP of Marketing, Cella by Randstad Digital 
+Marketing automation platforms for ABM 
+In the B2B arena, where marketing automation originally established itself as a key technology,  marketers are increasingly adopting account-based marketing (ABM) practices. Forty to 60% of  programs currently leverage marketing automation platforms to further these strategies, a survey  conducted by Momentum ITSMA and the ABM Leadership Alliance found.  
+ABM targets buying groups rather than individuals, recognizing that multiple people in a company  - each with their own viewpoint and responsibility - typically decide on big purchases together  (see Figure 2). 
+Marketing  
+automation  
+platforms,  
+especially those  with advanced AI  and ML features,  help marketers  deliver real-time,  personalized,  
+omnichannel  
+experiences  
+utilizing advanced  audience  
+segmentation.
+(c) 2025 Third Door Media(r), a Semrush company 5 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide Figure 2: B2B marketing leaders want to engage buying groups 
+of leaders agree or strongly agree  
+that an ability to systematically  
+96% 88% 
+identify and engage with B2B  
+buying groups is important 
+of leaders agree or strongly agree  that marketing to one person is  ultimately too narrow and  marketing to every person in an  account is too broad 
+While vendors  in the marketing  automation  
+category have  long utilized  
+machine learning  
+Source: "The State of Marketing Automation in the Age of AI" by Adobe Research 
+Recognizing this need, marketing automation vendors have added functionality allowing users to  engage with buying groups. 
+The artificial intelligence and machine learning boom 
+While vendors in the marketing automation category have long utilized machine learning to  score leads, the boom in AI and ML, along with an increased marketer appetite for AI-driven  functionality, is driving additional innovation among vendors. Currently, 44% of marketers are  using AI to engage with their audiences while another 29% plan to do so, according to Ascend2's  Customer Engagement & AI study (see Figure 3).  
+Figure 3: Seventy-three percent of marketers are already using  AI to engage audiences or plan to do so 
+3% 
+to score leads,  the boom in AI  and ML, along  
+with an increased  marketer appetite  for AI-driven  
+functionality, is  driving additional  innovation among  vendors. 
+24% 
+29% 
+13% 
+31% 
+Are you currently utilizing AI  technologies that assist with engaging  and marketing to your audiences? 
+Yes, extensively 
+Yes, to some extent 
+Not yet, but I have plans to 
+No, with no 
+plans to 
+Unsure 
+Source: Ascend2, "Customer Engagement & AI" 
+(c) 2025 Third Door Media(r), a Semrush company 6 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Marketing automation vendors frequently use AI to identify valuable audience segments and then  deliver dynamically personalized content to those audiences. This ability to better understand  customers and anticipate their needs is "significantly improved" (33%) or "somewhat improved"  (68%) by AI, the same Ascend2 study reveals (see Figure 4). 
+Figure 4: AI improves marketers' ability to understand customers 2% 
+How has using AI impacted your  
+Generative AI, in  which AI is used  to generate text,  images, video or  
+other content,  is also gaining a  place in MAPs.
+68% 
+30% 
+company's ability to understand customer preferences and behavior? 
+Significantly improved 
+Somewhat improved 
+Somewhat worsened 
+Source: Ascend2, "Customer Engagement & AI"  
+Generative AI applications, such as generating text, images, video or other content, are also  gaining a place in MAPs. These platforms assist marketers in quickly creating content for email  campaigns, landing pages and other touchpoints.  
+Tools like these increase a marketer's ability to efficiently create many versions of messages,  with each version tailored to the interests and needs of a particular segment. AI is now helping  to reduce the time and resources needed to create multiple versions of content for segmented  audiences. 
+(c) 2025 Third Door Media(r), a Semrush company 7 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+The replacement wave 
+MAPs remain the most frequently replaced martech application for the fifth straight year, with  31% of respondents replacing their MAP in 2024, according to the MarTech Replacement Survey,  2024 (see Figure 5). This suggests ongoing dissatisfaction or a lack of differentiation among  available solutions.
+Figure 5: Marketing automation platforms are the tools most replaced for the past several years 2020 2021 2022 2023 2024 
+Marketing automation 
+CMS 
+Email distribution 
+Analytics/business intelligence CRM 
+11% 11% 
+17% 
+13% 
+16% 
+16% 
+17% 
+15% 
+24% 
+23% 
+24% 
+24% 
+21% 
+24% 
+20% 
+22% 
+23% 
+31% 
+34% 
+40% 
+41% 
+37% 
+36% 
+n 2024=203 
+Q: What application(s) did you replace? 
+17%22% 
+Source: Mar Tech Replacement Survey, conducted by Third Door Media 
+Interestingly, cost has become the dominant factor when choosing replacement martech,  including MAPs. In 2024, 61% of respondents cited cost as an important factor, up significantly  from 37% in 2023. However, most martech stacks continue to grow despite budget pressure, with  57% of respondents reporting their stack grew by one to five applications in the past year. 
+(c) 2025 Third Door Media(r), a Semrush company 8 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+The need for differentiation 
+The high replacement rate for MAPs suggests that the category has become somewhat  commoditized, according to the MarTech Replacement Survey, with vendors failing to innovate  and differentiate themselves. Additionally, marketing automation platforms face the challenge  of distinguishing themselves from other kinds of tools, given that they share functionality with  email marketing platforms, multi-channel marketing hubs, ABM platforms, journey orchestration  platforms and even CDPs. 
+Our research suggests that vendors are emerging from complacency and meeting these  challenges, in part due to the capabilities that emerging AI and machine learning technologies are  bringing to MAPs.  
+The utilization challenge 
+In addition to developing these new capabilities, MAP vendors also grapple with encouraging  users to take advantage of functionality beyond the uses to which they've grown accustomed.  This challenge plagues vendors across the martech spectrum, and it's especially important at a  
+time when marketers are under increased pressure to demonstrate the ROI of their technology  investments. 
+...Many companies use only a small subset of the features of their chosen  platform, yet vendors are continuing to build in complexity with more and  more capabilities. It seems like the HubSpot model of 'one package for  
+everything marketing-related' is likely to be the end result for many of the  current MAP vendors today."  
+- Mike Maynard, CEO of B2B marketing agency Naylor 
+Big mergers are done;  
+integration continues 
+The marketing automation market is dominated by a few cloud vendors, including Salesforce,  Oracle and Adobe. These players typically entered the market via acquisitions (of ExactTarget,  Eloqua and Marketo, respectively) and have successfully integrated them into their product suites.  
+In other cases, we've seen companies in other categories - such as CRM or email marketing -  expand to become full-featured marketing automation solutions. Though marketing automation  was primarily B2B-oriented initially, more recently, ecommerce companies and smaller businesses  have begun exploring the benefits of these solutions. In response, a fairly new group of players,  including Klaviyo and Brevo, have emerged with a focus on supporting ecommerce marketers.  
+Our research  
+suggests that  vendors are  
+emerging from  complacency and  meeting these  challenges, in  part due to the  capabilities that  emerging AI and  machine learning  technologies are  bringing to MAPs.
+(c) 2025 Third Door Media(r), a Semrush company 9 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Figure 6: A timeline of developments in the MAP market
+2012 
+2013 
+• Salesforce acquires ExactTarget, which had previously  purchased marketing automation vendor Pardot. 
+2019 
+• IBM spins off Watson Marketing, establishing Acoustic  as an independent marketing cloud, also selling its  Unica MAP to HCL Technologies.  
+• Acquia purchased Mautic and Vista Partners later  acquired Acquia. 
+• SugarCRM acquired Salesfusion and rebranded it as  Sugar Market. 
+2021 
+• Bloomreach raised $150 million and used some of it to  acquire Exponea. 
+• Maropost acquired ecommerce platform Neto and  renamed it Maropost Commerce Cloud.  
+• Constant Contact acquired SharpSpring to expand its  offerings for SMBs. 
+• Intuit purchased Mailchimp in a blockbuster deal  valued at $12 billion. 
+• Communications platform MessageBird acquired  SparkPost in a $600 million transaction made possible  by an $800 million extension on its series C financing  round. 
+• Meanwhile, Act-On raised $20 million in financing and  ActiveCampaign raised $240 million, while the smaller  Sendlane took in $20 million. 
+2023 
+• MessageGears, a customer engagement platform,  acquired Swrve, a mobile app marketing platform. • CM Group rebranded to Marigold. 
+• Keap acquired The Factory and launched  implementation services. 
+• Zeta Global acquired certain assets of WhatCounts for  an undisclosed amount. The primary purpose of this  acquisition was to acquire technology assets and  certain employees, with the goal of achieving  significant synergies by integrating their Email Service  Platform (ESP). 
+• Oracle acquires Eloqua, one of the first marketing  automation providers, in December. 
+2018 
+• Adobe acquired rival MAP vendor Marketo. 
+2020 
+• CRM company Pipedrive purchased Mailigen in  March. 
+• In December, marketing automation / attribution  player Springbot acquired Matcha.  
+• Thryv Holdings acquired Sensis in March 2020 and  rebranded it as Thryv in September 2021. 
+2022 
+• Thryv acquired Vivial Media for $21 million. • ActiveCampaign purchased Postmark and DMARC  Digest. 
+• Bloomreach secured $175 million in additional  funding for research, development, and expansion. • CM Group merged with Cheetah Digital. 
+• Klaviyo received a $100 million investment in August.  • HubSpot invested an undisclosed amount in work  management platform ClickUp.  
+• Acoustic took in a strategic growth investment from  Francisco Partners in October but did not disclose the  deal amount. 
+2024 
+• Bloomreach acquired Radiance Commerce, an  LLM-powered shopping concierge, in January. • Constant Contact acquired Txify, a company  specializing in mobile-first generation through  customized microsites and surveys, in October. 
+(c) 2025 Third Door Media(r), a Semrush company 10 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Capabilities and  
+differentiating factors 
+As basic functions of marketing automation become somewhat commoditized, platform vendors  try to differentiate on the ability to scale (especially over new marketing channels), usability, ease  of implementation, customer experience features and the integration of artificial intelligence and  machine learning capabilities.  
+Vendors continue to expand training programs, as well as add-on professional services, to improve  platform use. Online communities - for both customers and developers - are also increasingly  important in strengthening platform support, advocacy and market penetration. 
+Many MAP vendors have roots in email marketing, which continues to be a core function. It's  sometimes the only function customers use. Now, MAPs typically deliver messages to mobile devices  (via SMS, MMS and chat), and include advanced lead management, ABM tools and predictive analytics.  
+Though the space has long been oriented toward B2B marketing, providers increasingly offer  functionality tailored to B2C use cases, especially for ecommerce and high-consideration  purchases, with some vendors specializing in working with this type of client.  
+Whatever their uses, today's MAPs offer open architectures that make it easier to integrate  with the other parts of a martech stack. Notably, these integrations can include tighter ties with  chatbots and webinars. (See Table 1 for vendor capability comparisons.) 
+Capabilities 
+Every solution in this report comes with tools for email campaign development and execution  (including landing pages), as well as lead capture, scoring and nurturing. They also typically provide  centralized marketing databases and a basic level of reporting on web traffic, visitor behavior and  campaign results. Additionally, native CRM integrations are included, as are app marketplaces or  APIs to enable faster connections with other technologies.  
+The market is quickly evolving, as marketers demand integrated marketing functionality and  MAP vendors expand to B2C and D2C use cases. Vendors continue to add features for building,  tracking and managing campaigns across additional channels and/or devices, and monitoring the  flow of leads as they move from marketing to sales. Many vendors see marketing automation as  just one element of a larger platform focused on customer engagement. 
+These more advanced features include, but are not limited to:  
+• AI-powered dynamic content generation (email, SMS, landing pages and/or website); • Email deliverability tools; 
+• Account-based marketing (ABM) features; 
+• Mobile marketing, including SMS; 
+• AI-based predictive analytics; and 
+• Social/lead profile integration. 
+The following section discusses these core and advanced marketing automation capabilities in  more depth. 
+Whatever their  uses, today's  
+MAPs offer open  architectures that  make it easier to  integrate with the  other parts of a  martech stack.
+(c) 2025 Third Door Media(r), a Semrush company 11 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Table 1: AI and ML capabilities
+Company  
+NameTo suggest  next-best  
+actions.To suggest  
+content  
+personalizationTo suggest  
+customer  
+journey designFor  
+automatic  
+campaign  
+optimizationFor lead  
+and account  
+scoring/ 
+prioritizationTo generate  creative  
+for email  
+campaignsTo  
+personalize  landing  
+pages  
+on-the-flyOtherAcoustic 4 4 8 8 4 4 8 For send time optimization and anomaly detectionAcquia 8 8 8 8 8 8 8 AI integration in-progressAct-On 4 4 8 8 4 4 8  email bot filtering, lead scoring, target audience analysis, NLP driven analyticsActiveCampaign 4 4 4 4 4 4 4 To generate content for automated 1:1 sales emails, saved responses, and direct email.Bloomreach 4 4 4 4 8 4 4Constant Contact 8 4 8 8 8 4 8Customer.io 8 8 8 8 8 8 8 Doesn't use AI or ML functionality at the momentDotdigital 4 4 8 4 4 4 4Change tone, length, rephrase, add emojis, check grammar, email and subject line  feedback, predictive CLV and churn,  heatmapping for email links, postcodes  and IP geos, Persona movement, Product  data enrichment, Non Human Interaction  (NHI) filtering for email, One-click  
+email to SMS conversion, product  
+recommendations, Advanced lookalike  product recommendations, generate lookalike  segment, product affinity, Watchdog data  importer, send-time optimization, automated  reputation managerFreshworks 4 8 8 8 8 4 8 AI-powered segmentationIntuit Mailchimp 4 4 4 4 4 4 4Marigold 4 4 8 4 8 4 4For projected open rate, smart preheader padding, timezone-aware STO, smart A/B  testing, bot click awareness, smart Facebook  audience sync, generative AI content  assistance and predictive audiences. Oracle Marketing 4 4 8 4 4 4 8Salesforce 4 4 4 4 4 4 8 email subject lines, email copy, landing pages and form pages
+
+Dynamic content creation and delivery, sometimes powered by AI  
+Virtually all MAPs let users create, send and measure personalized email campaigns. Where they  differ is in how email, landing page and website content are created and personalized. Some offer  wizard-based campaign design or content templates, while others provide a more customized  
+approach. More recently, vendors have begun to offer generative AI capabilities for content  
+creation, building in tools that create text and images for their messaging - typically through  
+integrations with providers like OpenAI or others.  
+There are also differences in static vs. dynamically generated content, which adjusts content  
+on-the-fly as prospects interact with a website or form. Progressive profiling is often offered to  
+pre-populate forms with known data and to capture additional prospect information each time  
+individuals interact with campaigns. 
+(c) 2025 Third Door Media(r), a Semrush company 12 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Table 2: Dynamic content capabilities
+Vendor EmailWebsite  
+landing  
+pagesWebsite personalization  (more extensive than  landing pages)Mobile  
+appsDisplay ad  campaignsSMS  
+messagingSocial media  
+advertising or  
+organic contentIn-app mobile  notifications Other channelsAcoustic 4 4 8 4 8 4 8 4 WhatsAppAcquia 4 4 8 8 4 4 8 8Act-On 4 4 8 8 8 4 4 4 direct mail, 
+website AI agentActiveCampaign 4 4 8 8 8 4 4 4Bloomreach 4 4 4 4 4 4 4 4MMS, 
+WhatsApp,  
+Google AdsConstant Contact 4 4 8 8 4 4 4 8 Google AdsCustomer.io 4 8 8 4 8 4 8 4Dotdigital 4 4 4 4 8 4 8 4 MMSFreshworks 4 4 8 8 8 8 4 8Intuit Mailchimp 4 4 8 8 8 4 4 8Marigold 4 4 4 4 8 4 4 4Oracle Marketing 4 4 4 8 4 4 4 8Salesforce 4 4 4 4 4 4 4 8 Form pages
+
+Email and landing page previewing have become more important as marketers seek to reach  
+their audience through mobile devices and to see what their message will look like on a variety of  
+different screens. 
+Lead management, possibly augmented by AI 
+Lead management comprises three functions: lead capture, lead scoring and lead nurturing.  
+Leads are captured from the various sources feeding the marketing automation database.  These include but are not limited to website visitors, social media, paid digital campaigns, email  marketing respondents, trade show attendees and purchased third-party lists. The ease with  which additional lead sources are captured, such as through an open API, and whether the  platform offers landing page optimization, will differ among platforms. 
+Lead nurturing is the process of keeping prospects engaged through periodic, personalized  communications or campaigns until they are ready to buy. MAPs may offer pre-built nurturing steps or  actions, as well as allow users to customize their content. When done right, customization can build a  relationship between the brand and its prospects, and drive interaction with sales when the prospect  is ready. This capability is also augmented with artificial intelligence and machine learning technologies,  which can analyze vast amounts of data to suggest the next best action for engaging a lead.  
+Lead scoring assigns a value to each lead based on a predetermined set of rules or criteria. Traditional lead  scoring models are generally based on two sets of data values: behavior (i.e., site purchases, browsing,  social posts) and demographics/firmographics. Many MAPs now offer predictive scoring driven by AI and  machine learning, which can incorporate hundreds of data points by sourcing websites, social networks  and internal systems - such as the CRM and marketing database itself - to calculate scores. 
+Predictive analytics driven by AI and ML 
+Virtually all the MAPs in this report provide a standard set of analytics that track quantifiable  data such as website visitor activity, pages viewed, time spent on site, emails opened, content  downloaded and campaign responses. More vendors are offering predictive analytics and models  
+Lead nurturing  is the process of  keeping prospects  engaged  
+through periodic,  personalized  
+communications  or campaigns until  they are ready to  buy.  
+(c) 2025 Third Door Media(r), a Semrush company 13 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Table 3: Lead management capabilities
+VendorLead capture through  the creation of landing  pages and formsLead scoring/ 
+qualification using  
+business rulesLead scoring/ 
+qualification using  
+AI and/or machine  
+learningLead management workflows  
+and visualizations to manage the  customer relationship through the  entire life cycleOtherAcoustic 4 4 4 4 WhatsApp, mobile push and audience  share - to media or social channelsAcquia 4 4 8 4Act-On 4 4 4 4ActiveCampaign 4 4 4 4Bloomreach 4 4 4 4 Push notifications, websiteConstant Contact 4 4 8 4Customer.io 8 8 8 8  Offers the ability to connect forms to  the workspace and gather informationDotdigital 4 4 4 4Freshworks 4 4 4 4Intuit Mailchimp 4 4 4 4Marigold 4 4 4 4Oracle Marketing 4 4 4 4Salesforce 4 4 4 4
+
+based on machine learning. This uses algorithms to process data and surface trends or insights  
+that enable marketers to customize visitor experiences and marketing campaigns. 
+Several platforms have invested in AI that goes a step beyond machine learning. This uses  technology to mimic human intelligence and recommend marketing actions or outcomes. These  may include highly personalized website content or product recommendations based on analyses  of consumption trends, on-site behavior, firmographics and CRM data. Other vendors rely on plug and-play integration with predictive analytics tools to offer greater analytics and personalization. 
+Mobile marketing  
+Creating an engaging experience for mobile prospects and customers is a must-have capability. As  a result, many MAPs include responsive templates for email, landing pages and web forms. Several  vendors integrate with email testing tools such as Litmus, which allows users to preview email  messages across clients and devices. 
+Other mobile marketing features include SMS/texting, in-app marketing and remote platform  management from mobile devices. In-app marketing features can include push notifications or  ads based on geography (i.e., geofencing or beaconing) or during events. Marketing automation  vendors have also expanded platform access to mobile users, moving beyond automated alerts  and remote data collection to full platform management. 
+Email deliverability 
+Message deliverability is also an important factor to consider. Some marketing automation  vendors offer dedicated IP addresses to monitor and improve deliverability, either through their  own services or through partners.  
+Creating an  
+engaging  
+experience for  mobile prospects  and customers  is a must-have  capability. 
+(c) 2025 Third Door Media(r), a Semrush company 14 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Table 4: Campaign channel capabilities
+Vendor Email SMS Display advertising Social media  
+advertising/marketing Other channelsAcoustic 4 4 8 4 MMS, WhatsApp, mobile push, web formsAcquia 4 4 8 4 push notificiations, landing pages, web push  and personalization, ad tech, direct mailAct-On 4 4 8 4 webinarsActiveCampaign 4 4 4 4 landing pagesBloomreach 4 4 4 4 MMS, WhatsApp, push notifications,  
+surveys, in-appConstant Contact 4 4 8 4Customer.io 4 4 8 8 MMS, WhatsApp, mobile push, web forms,  in-app messagingDotdigital 4 4 8 4 website, mobile app push notifications,  
+WhatsApp, MMSFreshworks 4 4 8 4Intuit Mailchimp 4 4 4 4Marigold 4 4 4 4Oracle Marketing 4 4 4 4 In-appSalesforce 4 4 4 4
+
+Account-based marketing  
+Aligning marketing initiatives with sales teams is a top ABM priority for marketers. The goal of ABM  
+is to target marketing programs to prospect or customer buying teams, rather than to individuals.  The larger the purchase, the more people and departments are involved. MAP vendors continue  to add new ABM features to enable marketers to address the buying group in addition to individual  members through enhanced account nurturing and predictive scoring capabilities.  
+Social/lead profile integration  
+Most of the MAPs in this report provide some level of social media publishing, sharing and  tracking for networks such as Facebook, Instagram, X (formerly known as Twitter) and LinkedIn.  Some provide more advanced tools to monitor social posts and add social behavior to lead  profiles, often using social engagement as a scoring factor. Other platforms enable the use of  social media sign-on to capture social profile data and build lead profiles.  
+Native CRM and CDP integration 
+With more businesses seeking to align marketing with sales, native or out-of-the-box integration  with CRM systems has become a critical feature for MAPs. Salesforce, Microsoft Dynamics 365,  Oracle NetSuite and SugarCRM are among the most commonly available connectors. 
+Data is synchronized between the two systems and shared in both directions at frequent  intervals. For example, data that is added by a sales rep to an account record in the CRM will be  automatically added to the record in the MAP so marketers can use it too.  
+Integrations with CDPs serve similar purposes and are growing in importance as marketers seek  the more sophisticated functionality that such platforms can provide. 
+With more  
+businesses seeking  to align marketing  with sales, native  or out-of-the-box  integration with  CRM systems has  become a critical  feature for MAPs.  
+(c) 2025 Third Door Media(r), a Semrush company 15 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Third-party software connectivity  
+Vendors develop APIs and foster relationships with external developers via app marketplaces as a  way for customers to access an expansive array of third-party software systems. App marketplaces  provide faster plug-and-play access between the systems, although there may be additional fees. 
+If a preferred app is not available on a vendor's marketplace it doesn't mean the two systems won't  connect - just that some customization will be required. API use may incur additional charges,  generally on a per-call basis for each data download. 
+App marketplaces can be an important area of differentiation for vendors. Cultivating  relationships with developers who create add-ons and integration tools adds to the software's  utility without requiring the vendor to develop those integrations. If you're considering licensing a  MAP, be sure to assess potential partners' efforts in this arena. 
+AI and machine learning 
+Users will experience the influence of AI's development throughout advanced MAPs, where it's  being used to improve the performance of traditional functions, as described above. However,  some platforms may offer users or administrators the option to customize the data "ingredients"  used to build AI models or the weights given to the various inputs. Others may be more of a  "black box," where users don't necessarily know how the AI arrived at a certain conclusion or  recommendation.  
+Table 5: Select marketing automation platform features 
+Users will  
+experience the  influence of AI's  development  throughout  
+advanced MAPs,  where it's being  used to improve  the performance  
+of traditional  functions, as  
+described above. 
+
+Vendor Lead  
+managementAccount 
+based  
+marketing  
+functionalityCustomer  
+journey  
+analyticsIntegration of social  data into lead profiles  (a lead's LinkedIn  
+profile, for example).API  
+accessApp  
+marketplace  for  
+integrationsA mobile app  
+enabling users  
+to perform tasks  while on the go.CRM IntegrationsAcoustic 4 8 4 4 4 4 8Microsoft Dynamics 365, 
+Salesforce, SugarCRM, 
+Custom CRM platform, integrations  possible through open API frameworkAcquia 4 4 4 4 4 4 8Act-On 4 8 4 4 4 8 8Infor, Microsoft Dynamics 365, 
+Oracle NetSuite, Salesforce, 
+SugarCRM, Zoho, Zendesk SellActiveCampaign 4 4 4 4 4 4 4 Microsoft Dynamics 365 
+Pipedrive, Salesforce, SugarCRM, ZohoBloomreach 4 8 4 4 4 4 4Zoho Subscriptions, SugarCRM,  
+Salesphere, Pipedrive, Microsoft  Dynamics CRMConstant Contact 4 4 4 8 4 4 4 SalesforceCustomer.io 8 8 4 4 4 4 8 Salesforce, HubSpot, ZohoDotdigital 4 4 4 4 4 4 8 HubSpot, Microsoft Dynamics 365, Oracle NetSuite, Salesforce, ZohoFreshworks 4 4 4 4 8 4 8 HubSpot, Salesforce, ZohoIntuit Mailchimp 4 4 4 8 4 4 4HubSpot, Infor, Pipedrive, Salesforce,  SugarCRM, Teamgate, VTiger, Zoho,  Zendesk, CopperMarigold 4 4 4 8 4 4 4Oracle Marketing 4 4 4 4 4 4 8Salesforce 4 4 4 4 4 4 4 Salesforce
+
+(c) 2025 Third Door Media(r), a Semrush company 16 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Choosing a marketing  
+automation platform 
+The benefits of marketing automation  
+The proliferation of channels and devices makes it difficult to target prospects with the right  messages, on the right devices, at the right times.  
+In the B2B arena, prospects are managing more of the buying process themselves, researching  brand websites and social channels without ever speaking to a sales rep. To thrive in this  environment, B2B marketers must be creative, targeted and aligned with sales goals; they must  also have visibility into buyer attributes and behaviors. 
+These dynamics and increased ROI pressure make the benefits of a MAP more attractive than ever: 
+• Increased marketing efficiency. Automating time-consuming, manual tasks around content  creation, management and personalization; campaign scheduling and execution; data hygiene  (i.e. duplicate or inconsistent data residing in various silos); communication with sales; and lead  nurturing. AI and machine learning will drive even more efficiency as these tools become more  sophisticated and eliminate repetitive tasks, including generating personalized content for  segments and individuals.  
+• Enhanced ability to generate more and better-qualified leads. Marketing automation can  combine multiple criteria, including demographic, firmographic and behavioral data with a  lead-scoring system to generate and identify sales-qualified leads. The addition of AI and  machine learning makes this process even more effective, as the tools can bring together a  large amount of data and pick up on patterns missed by humans. 
+• A multichannel view of prospect behavior. Today's MAPs integrate multiple channels and  devices - including social media and mobile - to create more comprehensive prospect profiles  and holistic views of prospect behavior. Platforms with strong ABM capabilities let marketers  see the behavior of a buying group, as well as learn the interests of each individual in it.  
+• Better alignment of sales and marketing goals. MAPs can help align sales and marketing  efforts to ensure that sales reps are working with sales-ready leads. By jointly setting scoring  parameters and defining qualified leads, sales and marketing work better together. Marketing  focuses on building relationships with early-stage leads, which lets sales work on closing the  most highly qualified prospects.  
+• Improved lead conversion and ROI. Numerous studies have found that using a marketing  automation system can increase conversions. Forrester found that B2B marketers who  implement marketing automation have a 10% increase in their sales-pipeline contribution.  It can also result in a 15% increase in sales productivity and a 12% decrease in marketing  overhead, according to tech research firm Nucleus Research.  
+In the B2B arena,  prospects are  
+managing more of  the buying process  themselves,  
+researching brand  websites and  
+social channels  without ever  
+speaking to a sales  rep.
+(c) 2025 Third Door Media(r), a Semrush company 17 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+MAP pricing  
+Virtually all MAPs offer SaaS-based pricing, meaning software is licensed by the customer and  hosted and maintained by the vendor. Some vendors targeting the enterprise market also offer  on-site installation and implementation services. 
+Pricing is often based on the number of contacts in the marketing database, the number of  marketing messages sent each month and/or the number of users. Many vendors require annual  contracts (although some offer month-to-month pricing) and may offer discounts in exchange for  longer-term commitments. 
+Many vendors don't disclose specific pricing but it can range from $350 per year for a "lite"  plan at a provider focused on small businesses to $180,000 annually or more for a full-featured  subscription from an enterprise vendor. 
+Recommended steps to making  an informed purchase  
+When you're considering adopting or replacing a MAP, it's important to understand your current  marketing processes, decide on how to measure success and identify where you're looking for  improvements.  
+The following section outlines four steps to help your organization begin that process.  Step one: Do you need a marketing automation platform?  
+Deciding whether your company needs a MAP requires the same evaluative steps involved in  any software adoption. These include a comprehensive self-assessment of your organization's  business needs, staff capabilities, management support and financial resources. 
+Use the following questions as a guideline to determine your organization's needs. 
+• Have we outgrown our current marketing system? Marketing automation is often a solution for  rapidly growing companies that need to scale their efforts. If you have data in multiple databases  that cannot be consolidated, or are using an email system that can't deliver the level of behavioral  targeting you need, it may be time for marketing automation. Consider, also, how much time your  staff is spending on repetitive tasks that could be sped up or eliminated by a MAP.  
+• What marketing automation capabilities are most critical to our business? Identify and  prioritize your software requirements and the key capabilities you'll need. Do your sales  reps need real-time access to marketing data? If so, native CRM integration is a must-have.  Do you have a sophisticated social media presence? Then social marketing management and  integration will be important. Knowing all this puts you in a better position to control the  selection process and choose the best platform for your organization.  
+• What kind of MAP do we need? Marketing automation is not a one-size-fits-all solution. Nearly  all vendors offer the same basic capabilities for email, website tracking and a marketing database.  Additional capabilities vary, however, so it's important to identify your business's needs. Is inbound  marketing (social media, blogging, SEO) more important than outbound (email, SMS)? Are reporting  and analytics the key features for you? Is lead scoring a crucial part of your marketing program? Do  you need greater capabilities in audience segmentation and personalization? 
+Virtually all  
+MAPs offer SaaS based pricing,  meaning software  is licensed by  
+the customer  
+and hosted and  maintained by the  vendor. 
+(c) 2025 Third Door Media(r), a Semrush company 18 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+• What are our goals? It is critical to know your goals for the MAP. Do you want to improve the  quality of leads handed off by marketing to sales? Or grow revenue by increasing conversion at  key stages in the buying cycle? Do you want to improve visibility into the buying and sales cycles  to optimize marketing engagement? Do you wish to reach the growing portion of your leads that  are mobile users? Bring key stakeholders together to establish the organization's goals. 
+• How will it integrate with our existing tech stack? Identify all the tools you already have so  you can ask the MAP vendor about integrations. Many vendors offer app marketplaces, which  provide faster access to the participating systems. Virtually all marketing automation vendors  offer APIs, but they may be an add-on to the price of the platform and you'll also need to  employ developers to make the necessary connections. 
+• Does management support this purchase? Every marketer should have an executive sponsor  to secure support at the C-level. If you are not the ultimate decision maker for this purchase,  you will need management to buy into the idea before going any further. Present a compelling  case that the benefits of new software vastly outweigh the costs. These benefits could include  converting more leads, making sales more efficient and improving campaign ROI. 
+• Do we have the internal skill sets and staff we need? To maximize your ROI, staff will need  training and a willingness to develop and execute new business processes. You may also need  to consider several new hires. If your marketing and sales organizations have been operating  in silos, they will need to work more cooperatively on lead scoring and routing systems,  lead qualification definitions and more effective marketing collateral and communications.  Identify someone who will be using the system once it has been adopted to take the lead in the  selection process. 
+• How will we measure success? This is one of the toughest questions and ties in directly to  understanding why you are adopting a MAP. If your goal is to increase conversions, you'll  need to know what your conversion rate is before automation to measure its impact. If it's to  improve email efficiency, be prepared with metrics on open rates, clicks, etc. In addition to  measuring against your marketing goals, it's wise to measure the depth and breadth of platform  usage. Many marketers only use basic email capabilities within their marketing automation  platform, meaning they're paying for features that aren't being utilized.  
+• Do we know the full cost? Some MAPs are all-inclusive, while others feature add-on tools and  services that can significantly increase costs. In addition to the cost of the software license itself,  consider the costs of ongoing services and training, as well as the indirect costs associated with  getting staff up and running on the new system (i.e., more cooperation and data sharing between  marketing and sales). If you don't have your own IT or design staff, be sure to ask questions about  what these services cost on an hourly basis. For example, if the platform offers templates, find  out how many, and how much it costs to customize template design.  
+Step two: Identify and contact appropriate vendors  
+Once you have determined that marketing automation software makes sense, research individual  vendors and their capabilities.  
+• Make a list of all the marketing automation capabilities you currently have (i.e., email  campaign sending), those you would like to have (i.e., predictive scoring or recommendations)  and those you can't live without (i.e., plug-and-play CRM integration). This last category is  critical and could help you avoid a costly mistake. 
+• Research vendors using that list to see which ones can meet your needs. Then send them the  list of what you need and set a timeframe for them to reply. 
+To maximize  
+your ROI, staff  will need training  and a willingness  to develop  
+and execute  
+new business  processes. 
+(c) 2025 Third Door Media(r), a Semrush company 19 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+• Decide whether you need to engage in a formal RFI/RFP process. This is an individual  preference but be sure to give the same list of capabilities to each vendor to facilitate  comparison. 
+The most effective RFPs only request relevant information from the vendors and provide ample  information about your business and its needs. Let the vendor know how you plan to use marketing  automation, including your high-level strategic goals and KPIs and how you will measure success.  Include details about timelines and existing digital technology you have deployed. 
+When written properly, an RFP will facilitate the sales process and ensure both sides come to  a shared understanding of the purpose, requirements, scope and structure of the intended  purchase. From the RFP responses, you should be able to narrow your list down to three or four  platforms to demo.  
+Step three: Scheduling the demo  
+Set up demos soon after receiving the RFP responses. Make sure that all potential internal users  are on the demo call or at the in-person meeting, and pay attention to the following: 
+• How easy is the platform to use? 
+• Does the vendor understand our business and our marketing needs? 
+• Are they showing us our "must-have" features? 
+• If we ask a specific question, can they demonstrate the answer on the call? Other questions to ask each vendor include:  
+• How easy is it to integrate this software into my organization? 
+• What is the onboarding process? 
+• How long does implementation take? 
+• What kind of support and training are included in the base price? 
+• What does your partner and developer community look like? 
+• How can I maximize adoption in my organization? 
+• Will we have a dedicated account rep available to us? 
+• Do current customers utilize the full functionality? 
+• What new features are you focusing on for the coming year? 
+• Can we do a test run for a few days on our own (i.e., a free trial)? 
+• How do you protect and secure customer data? What would you do in the event of a hack or  denial-of-service attack? 
+Don't hesitate to ask for a demonstration of the specific capabilities that you have identified in  your RFI/RFP. Consider requesting product demos showing basic tasks and demonstrating core  reports such as: 
+• Create and edit a new email from scratch. 
+• Import and segment data, using any AI or machine-learning capabilities available. • Database management, cleansing and enrichment options. 
+• Create and edit a new landing page from scratch. 
+• Execute a simple campaign with an email, mailing list and landing page. 
+• See a report showing email opens, clickthroughs and landing page conversions. • See a report showing web traffic and/or specific leads from an email campaign. • ROI dashboards and reports at the organization and campaign levels. 
+• Campaign attribution options and capabilities. 
+This is an ongoing relationship - it's important to feel that your questions are being answered.  
+The most  
+effective RFPs  only request  
+relevant  
+information from  the vendors and  provide ample  information about  your business and  its needs.
+(c) 2025 Third Door Media(r), a Semrush company 20 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Step four: Check references, negotiate a contract  
+Before deciding on a vendor, check out its online community and review sites, and speak with  one or two customer references, preferably someone in a business like yours. The vendor should  be able to supply you with references, but you should also ask around in professional discussion  forums or at industry conferences (in-person or virtual) and networking events.  
+Use this opportunity to ask any additional questions, and to find out more about questions  that weren't answered during the demo. Make sure that the person you've been referred to is a  primary user of the platform. Ask the people working with this vendor these basic questions: 
+• Why did you license a marketing automation platform? 
+• Did you migrate to this platform from another? If so, how was the conversion process? • Why did you select this platform over others? 
+• How long did the system take to implement? 
+• Has this platform lived up to your expectations? 
+• Did you receive the level of support you needed? 
+• What CRM system or CDP is this platform integrated with? Are you pleased with that  integration? 
+• Were there any surprises that you wish you'd known about beforehand? • Where have you seen the most success? The biggest challenges? 
+• How are you measuring your own success? 
+• How responsive is customer service? 
+• Has there been any down time? 
+• What is the most useful, actionable (favorite) report the platform generates? • What do you wish they did differently? 
+• Why would you recommend this platform? 
+Although not all vendors require an annual contract, many do. Once you've selected a vendor, be  sure to get in writing a list of what features and support are covered in the contract. Make sure to  ask about the following:  
+• What kinds of additional fees might come up? 
+• Are there charges for custom design, and, if so, how much?  
+• What is the hourly charge for engineering services, and is there a minimum?  • What partner organizations are available to install and integrate the platform?  • If we need you to train a new hire mid-year, what will that cost?  
+Obtaining the answers up front - and having them in writing - will ensure fewer surprises or  additional costs down the road.
+Before deciding  on a vendor,  
+check out its  
+online community  and review  
+sites, and speak  with one or  
+two customer  references,  
+preferably  
+someone in a  
+business like  
+yours. 
+(c) 2025 Third Door Media(r), a Semrush company 21 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+Conclusion 
+MAPs are critical for businesses that need to streamline manual marketing functions, including  lead management, campaign development and landing page creation. As AI and machine learning  improve, MAPs will only provide more utility to marketers.  
+These platforms offer a wide range of advanced features, such as AI-based predictive lead scoring  and product recommendations, ABM and social media campaign integration. They also integrate  seamlessly with third-party CRMs, CDPs and other point solutions to offer extended capabilities.  Many MAP vendors are beginning to see themselves as the center of customer experience.  
+With martech budgets under greater scrutiny, marketing leaders must demonstrate ROI for any  new technology investment. The key to ensuring ROI is to adopt a platform that's easy to use,  scalable and suited to your organization's goals. To help reach these goals, vendors offer extensive  training programs, online communities and strategic consulting services that encourage more  comprehensive use and create a higher return on marketing automation investments. 
+To identify the MAP vendor that fits your organization, it's crucial to understand your current  marketing processes, recognize areas of improvement and know how to measure success.  Through due diligence in researching and interviewing MAP vendors, your search will yield  greater long-term ROI and business productivity. ¦ 
+MAPs are critical  for businesses  that need to  
+streamline  
+manual marketing  functions,  
+including lead  management,  campaign  
+development  
+and landing page  creation.
+(c) 2025 Third Door Media(r), a Semrush company 22 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Acoustic supports B2C mid-market and enterprise brands across retail, media and  
+entertainment, hospitality, and finance. 
+Acoustic 
+1125 Oak St., Ste 201,  
+Conway, AR 72032 
+T: (866) 820-5136 
+acoustic.com 
+Product profiled 
+Acoustic Connect 
+Key customers 
+Air France 
+Australian Grand Prix Corporation Entel 
+PayPal 
+Ticketmaster 
+Towergate Insurance 
+Key executives 
+Mark Cattini,  
+Chief Executive Officer 
+Elmer Lai, Chief Financial Officer  
+Scott Opiela,  
+Chief Marketing Officer 
+Chris Lanaux,  
+Chief Product Officer
+Company overview 
+• Founded in 2019. 
+• 650 employees. 
+• Acoustic most recently received a strategic growth investment from Francisco Partners  in October 2022. Existing investor Centerbridge Partners remains the primary equity  holder in the company. 
+• Acoustic is a global marketing and customer engagement provider delivering solutions  that give brands a deeper understanding of their customers and allow them to act  on these insights. The company's mission is to help brands build closer customer  connections through data-driven visibility and personalized engagement.  
+• Acoustic is headquartered in Conway, AR, and has a global presence across the United  States, Canada, England, Poland, China, India, Australia and Chile. 
+Product overview 
+• Acoustic Connect is a customer engagement platform that empowers marketers to  deliver personalized, behavior-based journeys through email and mobile campaigns. It  combines multichannel marketing, journey orchestration, customer data management,  and reporting and analytics with behavior-based first-party data. Acoustic Connect lets  brands leverage real-time first-party data to enhance customer engagement and reach  one-to-one personalization.  
+Use cases 
+• Journey orchestration: Acoustic Connect allows marketers to automate a sequence of  communications based on a contact's actions, history, preferences or profile information  in real time. 
+• Data management: The software enables marketers to manage data connected to  an addressable audience, identity across channels and experiences interacted with,  including connected data sets provided. 
+• Multichannel content management: Acoustic Connect offers a unified creation  experience for managing content across channels, with expandable infrastructure for  enterprise needs. 
+• Personalization: From simple attribute value personalization to behavioral and rules based personalization, as well as external partner-based personalization, Acoustic  Connect helps marketers deliver personalized experiences to customers. 
+• Insight: The software provides customizable dashboard insights across messaging,  engagement, campaigns, channels and experiences. 
+Artificial intelligence and machine learning 
+Acoustic uses AI and ML within its platform to do the following: 
+• To suggest next-best actions. 
+• To suggest content personalization.  
+• For lead and account scoring/prioritization. 
+• To generate copy and creative for email campaigns. 
+• For send time optimization and anomaly detection. 
+(c) 2025 Third Door Media(r), a Semrush company 23 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting 
+• Acoustic Connect provides marketers  
+with dashboards that allow for effective  
+allows for integration with tools such as  those related to personalization, surveys,  call centers, CRM, commerce and real 
+Acoustic 
+1125 Oak St., Ste 201,  Conway, AR 72032 T: (866) 820-5136 acoustic.com
+monitoring of campaigns and channels.  • The platform offers real-time analytics of  customer journeys, enabling marketers  to promptly oversee campaign  
+performance.  
+• Anomaly detection features, complete  with alerts and notifications, are  
+integrated into the software. These tools  assist marketers in swiftly identifying  and addressing any deviations in  
+campaign outcomes, ensuring that issues  can be resolved quickly. 
+• The executive dashboard on Acoustic  Connect delivers an overview of the  entire customer journey, allowing  marketers to assess the impact of their  messaging and engagement on their  websites. 
+Collaboration and workflow  management 
+• Acoustic Connect includes features for  managing user permissions, roles and  approval groups to facilitate workflow  management. This functionality allows  teams to define access levels and  
+streamline the processes for various  tasks. 
+• The platform supports collaboration  among users on content, segments and  strategic planning for campaigns and  automations.  
+• Acoustic Connect serves as a centralized  source for campaign performance and  customer engagement data.  
+Third-party integrations 
+• Acoustic Connect is an open platform  that includes a comprehensive set of  APIs, which can be utilized by iPaaS  vendors and martech and adtech  
+solution providers. This functionality  
+time content. 
+• The platform supports multiple  methods for data handling, including  modern cloud connections and data streaming options specifically designed  for CDP integrations. Additionally,  it accommodates traditional batch  processing and scheduled data  
+processing options, providing flexibility  for users in managing their data  
+workflows. 
+Pricing and support 
+• An annual contract is required. 
+• No free trial or other pre-purchase  testing is available. 
+• Acoustic Connect is suitable for upper  mid-market to low-mid enterprise  companies. Contracts usually run for a  single year. 
+• The contract size is determined by  factors such as audience size, channel  volume, number of data connections and  automated strategies. 
+• Acoustic offers standard support for  provisioning, deliverability and general  product-related issues at no additional  cost as part of its subscription fees. 
+• Every Acoustic customer has access to a  customer success manager, trainings and  extensive resources through Acoustic  Academy. 
+• Premium support is available for  purchase. This option includes a  
+dedicated technical account manager,  health checks and assessments and  faster resolution/response times. 
+• Premium support also includes 24 to 60  hours of professional services annually  (depending on the tier) that can be used  for special requests such as deliverability  workshops, strategic assessments or  best practice delivery. 
+(c) 2025 Third Door Media(r), a Semrush company 24 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Target customer 
+• Mid-market and enterprise businesses. 
+Acquia 
+53 State St. 10th Fl 
+Boston MA, 02109 
+T: (888) 922-7842 
+acquia.com 
+Product profiled 
+Acquia Campaign Studio Key customers 
+Applause 
+Asana 
+Rebel 
+Cox Auto 
+Key executives 
+Stephen Reny, President and  Chief Executive Officer 
+Dries Buytaert, Co-Founder,  Chief Technology Officer,  Chief Strategy Officer 
+Jennifer Griffin Smith,  
+Chief Market Officer 
+Jim Shaw, Chief Product Officer
+Company overview 
+• Founded in 2007. 
+• 1,200 employees. 
+• Acquia was acquired by Vista Equity Partners in September 2019. 
+• Acquia acquired Widen in September 2021 to build out its digital asset management  (DAM) and product information management (PIM) offerings. The company's marketing  automation product, Acquia Campaign Studio, is based on the open-source Mautic  platform, which the company acquired in 2019. 
+• Acquia empowers brands to create digital customer experiences that matter. With  open-source Drupal at its core, the Acquia Digital Experience Platform (DXP) enables  marketers, developers and IT operations teams to rapidly compose and deploy digital  products and services that leverage their content and data assets to engage customers  personally and at scale. 
+• Acquia has offices in Boston, MA, and Tokyo, Japan. 
+Product overview 
+• Acquia Campaign Studio, built on open-source Mautic, is a marketing automation  platform that lets businesses design, manage and implement customer experiences  across multiple channels. The platform offers a range of capabilities, including campaign  creation and orchestration, as well as deployment across all channels. 
+Use cases 
+• Drag-and-drop journey builder. Campaign Studio provides a tool that enables  marketers to design multi-step customer journeys by defining various paths that react to  customer actions in real time. This functionality supports the creation of cross-channel,  multi-touch and multi-step campaigns. 
+• Personalized content creation. The platform allows marketers to develop individually  tailored content using a drag-and-drop email builder, which can be utilized to create  emails from scratch or based on existing templates. This capability facilitates the  execution and monitoring of all campaign elements, aiming to enhance engagement,  customer loyalty and lifetime value. 
+• Rapid campaign launch. Campaign Studio supports marketers in quickly initiating  campaigns through efficient content creation, optimization of customer journeys and  segmentation of audiences. 
+• Visual journey builder. Marketers can utilize Acquia's visual journey builder to deliver  personalized, multi-channel customer experiences by automating coordinated  touchpoints across email, mobile and web platforms. 
+• A/B testing and optimization. The software enables marketers to enhance customer  engagement by employing A/B testing methodologies and data-driven optimization  strategies. 
+• Scalability across regions and segments. Campaign Studio offers the ability to scale  marketing campaigns across various regions, languages and customer segments through  Acquia's multi-tenant marketing solution, Acquia Campaign Factory. 
+• Compliance features. Acquia Campaign Studio is designed to assist customers in  maintaining compliance with regulations such as GDPR and CASL, and it has received  EU Privacy-Shield certification. 
+(c) 2025 Third Door Media(r), a Semrush company 25 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Artificial intelligence and  
+machine learning 
+• Acquia is in the process of integrating AI  
+• Integrate with in-house systems,  such as CRM, ERP, and social media,  to enable a seamless flow of data  and information.  
+Acquia 
+53 State St. 10th Fl Boston MA, 02109 T: (888) 922-7842 acquia.com
+functionality into Campaign Studio. Analytics and reporting 
+• Out-of-the-box reports cover key  metrics such as visits to published pages,  form submissions, and email results. 
+• Users can also track downloads of all  assets and generate reports on contact  creation and campaign performance. 
+• Campaign Studio's reporting capabilities  are customizable, allowing businesses to  tailor the platform to their needs. 
+Third-party integrations 
+• Campaign Studio offers a REST API  that supports a wide range of calls,  including creating, reading, deleting and  updating system components, providing  a powerful gateway for marketers to  utilize. With this API, users can:  
+• Efficiently batch update multiple  Campaign Studio components at  
+once, saving time and effort.  
+• Utilize advanced triggers and  
+alerts to enhance their marketing  strategies and campaigns.  
+Pricing and support 
+• An annual contract is required. 
+• A free trial or other pre-purchase testing  is available. 
+• Acquia does not disclose its pricing. • Customers have access to standard  Acquia-level support. Each is paired with  an Account Executive (AE).  
+• Paid technical consulting is available,  beginning with an initial structured  phase. After this phase, the engagement  shifts to an open custom help and advice  engagement which is sized to the needs  of the customer. 
+(c) 2025 Third Door Media(r), a Semrush company 26 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Target customer 
+ActiveCampaign 
+1 North Dearborn St., 5th Fl. Chicago, IL, 60602 
+T: (800) 357-0402 
+activecampaign.com 
+Key customers 
+Cambiati 
+Hipcooks 
+McCrindle 
+Motrain 
+Paperbell 
+Thinkific 
+Key executives 
+Jason VandeBoom,  
+Founder and Chief Executive  Officer 
+Kelly O'Connell,  
+Chief Product Officer 
+Joy Whinery,  
+Chief Financial Officer 
+Tony Newcome,  
+Chief Technology Officer
+• SMBs to enterprises in all industries across B2B, B2C and ecommerce. Company overview 
+• Founded in 2003. 
+• 900 employees. 
+• ActiveCampaign acquired Postmark, a transactional email platform, in 2022, and  OneSend, an email company focused on franchises, multi-location businesses and  resellers, in 2023.  
+• The company raised $240 million in venture capital in 2021. 
+• ActiveCampaign provides marketing automation, email marketing and CRM software to  businesses of all sizes and in a variety of industries. 
+Product overview 
+• ActiveCampaign's marketing automation platform is designed to support small teams  in driving successful businesses. The platform offers a combination of pre-built  automations and integrations that enable personalized marketing, transactional emails  and one-to-one interactions at every stage of the customer journey. 
+Use cases 
+• Automating sales lead qualification. 
+• Managing and viewing the entire sales pipeline: ActiveCampaign's software provides  a comprehensive view of the sales pipeline, allowing teams to track and manage leads  from initial contact to conversion. 
+• Connecting to CRM and leveraging customer data: By connecting to CRM systems,  ActiveCampaign's platform enables marketers to leverage customer data from various  touchpoints, such as marketing and success interactions, to create personalized  communications. 
+• Nurturing leads via different automation routes: ActiveCampaign's software offers a  variety of automation routes based on customer interactions, allowing for tailored lead  nurturing to increase engagement and conversion. 
+• Setting up dynamic email flows: With the ability to personalize emails based on  interests, demographic data, and behavior, ActiveCampaign's platform allows for  dynamic email flows that can better target and engage customers. 
+• Customizing emails with product information: ActiveCampaign's software integrates  with online stores, allowing marketers to directly include product information in emails  for new launches, cross-selling and upselling. 
+• Leveraging pre-built automation for a connected customer experience. Artificial intelligence and machine learning 
+ActiveCampaign uses AI and ML for the following purposes:  
+• To suggest next-best actions. 
+• To suggest content personalization. 
+• To suggest customer journey design. 
+• For automatic campaign optimization. 
+• For lead and account scoring/prioritization. 
+(c) 2025 Third Door Media(r), a Semrush company 27 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting • ActiveCampaign's reports provide  
+• The platform offers integrations with  popular tools like Slack, Google Sheets,  
+ActiveCampaign 
+1 North Dearborn St., 5th Fl. Chicago, IL, 60602 
+T: (800) 357-0402 
+activecampaign.com
+insight into trends across emails,  
+automations and sales pipelines. 
+• Deal reports assist sales managers in  forecasting and monitoring a sales rep's  performance. 
+• Conversion attribution reports help  identify underperforming touchpoints  and uncover new opportunities. 
+• Automation reports track the  
+effectiveness of workflows and  
+customer experiences. 
+• Chat performance reports display the  origin URL of conversations, number of  acquired contacts and average response  times. 
+• Enterprise customers can create  customized dashboards and reports  tailored to their team's needs. 
+Collaboration and workflow  management 
+• ActiveCampaign provides automation focused features for improving  
+communication and productivity within  and between sales and marketing teams. • The software allows users to set up  notifications and tags to update contact  information and trigger additional  workflows. 
+• Automation workflows can integrate  data from third-party tools and apps  to import important data into contact  records and personalize emails. 
+Asana and Monday.com to facilitate  collaboration and task management. 
+Third-party integrations 
+• Custom objects provide a comprehensive  overview of customers and their  
+interactions by consolidating data from  their most frequently used applications. • ActiveCampaign offers an AppStudio  and developer fund to assist developers  in creating connections and tools that  seamlessly integrate with the platform. 
+Pricing and support 
+• An annual contract is required. 
+• No free trial or other pre-purchase  testing is available. 
+• ActiveCampaign starts at $15 per month  and ranges up to $145 per month for the  enterprise plan.  
+• Two add-on modules are available: • Pipelines enhanced CRM. 
+• Sales engagement enhanced CRM. • ActiveCampaign provides free  
+implementation as well as accelerated  onboarding and training. 
+• Customers can also access other ongoing  training including study halls, webinars,  consultative sessions and strategy  workshops with ActiveCampaign  support teams. 
+• Support is available through a ticketing  system as well as through live chat. 
+(c) 2025 Third Door Media(r), a Semrush company 28 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Act-On Software serves marketers across all levels of business. Clients include SMBs,  
+midsize companies and multibillion-dollar enterprise businesses spanning a variety of  
+verticals, including banking/finance, construction, manufacturing, retail, healthcare,  
+Act-On 
+121 SW Morrison St #1600 Portland, OR 97204 
+T: (877) 530-1555 
+act-on.com 
+Key customers 
+Sharp  
+AutoZone  
+Hitachi  
+Best Buy 
+Oregon State University  
+Progressive 
+Key executives 
+Kate Johnson,  
+Chief Executive Officer 
+Roger Rowe,  
+Chief Financial Officer 
+Syed Mohtashim Ahmed,  SVP of Engineering and Ops 
+Jeff Day, Chief Marketing Officer
+insurance, education, utilities, media/communications, transportation and tech. Company overview 
+• Founded in 2008. 
+• 239 employees. 
+• Act-On aims to be the easiest to use and most intelligent B2B marketing automation  software for mid-market and enterprise companies. The company provides a complete  omni-channel MAP, including email marketing, text messaging, social publishing and  landing pages.  
+Product overview 
+• Act-On provides a marketing automation solution aimed at helping marketing teams  effectively scale their efforts and reach targeted audiences. The platform encompasses  various functionalities, including email marketing, social publishing, SMS, web  conversational AI agents and website landing pages. The company is focused on integrating  AI into all aspects of its offerings as part of its vision for Marketing Automation 3.0. 
+Use cases 
+• Lead capture. Marketers can capture potential customer information through various  online channels, including their own websites, landing pages and forms, as well as  external demand-generation activities such as webinars.  
+• Lead scoring and segmentation. The software enables marketers to evaluate and  categorize leads based on predefined criteria, facilitating targeted marketing efforts. • Email automation. Marketers can automate their email campaigns, streamlining  the process of sending messages to specific audience segments at designated times.  Automated nurturing functionality lets marketers engage leads over time, guiding them  through the purchase process with relevant content. 
+• Email, SMS and social media marketing. The software supports marketing initiatives via  both email and text messages, providing marketers with options to reach their audience  through multiple communication channels. Additionally, marketers can schedule and  manage social media posts, enhancing their ability to maintain a consistent online  presence without manual intervention. 
+• AI-driven buyer segment analysis and custom targeting. The software utilizes artificial  intelligence to analyze buyer behavior and preferences, allowing for more precise  targeting of marketing efforts. 
+• Email and web page personalization. Marketers can tailor email content and web pages  to individual users based on their preferences and behaviors, enhancing the relevance of  communications. 
+• Private Customer Data Platform (CDP). This feature allows for the secure storage and  management of customer data, facilitating a centralized approach to data handling. 
+Artificial intelligence and machine learning 
+Act-On's platform uses AI and ML for the following purposes:  
+• To suggest content personalization. 
+• For automatic campaign optimization. 
+(c) 2025 Third Door Media(r), a Semrush company 29 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+• For lead and account scoring/ 
+prioritization. 
+• To generate creative for email  
+campaigns. 
+• For email bot filtering. 
+• The software includes a Sales Seat,  which provides sales access through  native CRM integrations, and the  Act-On Anywhere Sales enablement  tool. These features allow marketers to  
+Act-On 
+121 SW Morrison St #1600 Portland, OR 97204 
+T: (877) 530-1555 
+act-on.com
+• For target audience analysis. 
+• For NLP-driven analytics. 
+Analytics and reporting 
+• Standard performance reporting is  available for all marketing channels,  including campaigns, email, landing  pages, website, forms, SMS and social. • Users can track and improve  
+performance over time by measuring  metrics such as emails received/opened,  click rate and specific links clicked. 
+• Employees outside of marketing can  receive updates on critical marketing  performance and sales notifications. 
+• Users can download data from reports,  save reports, share reports, set up report  alerts and automatically send reports at  specific times. 
+• Users can create dashboards by  "pinning" report graphics and saving  them. 
+Collaboration and workflow  management 
+• The software facilitates collaboration  by allowing users to send draft emails  to others for review and approval.  This function helps delineate roles  between content creators and campaign  approvers, ensuring a structured  
+workflow.  
+• Each account also features a marketing  calendar that automatically incorporates  scheduled messaging and permits  marketers to add internal events or  synchronize with external calendars. 
+• In a multi-instance configuration,  the software enables companies to  segregate business units or marketing  regions within the marketing network.  Additionally, assets such as content  templates can be shared between  instances and tailored to meet the  specific needs of each business unit,  partner, or brand. 
+supply templates and assets, including  forms and landing pages, to sales teams,  enabling them to efficiently create  personalized email communications with  prospects. 
+• A centralized template library is available  for campaign creators. This library  serves as a resource to streamline the  creation of email, form, landing page  and automated journey content. It also  serves as a foundation for individual  marketers to initiate their campaigns  effectively. 
+Third-party integrations 
+• Act-On offers integrations with various  webinar platforms (Zoom, WebEx  and GoToWebinar), social media tools  (Oktopost, Twitter/X and LinkedIn),  Google Ads and Litmus for email  
+rendering preview. 
+• The company is also working on  expanding its native integrations with  market-leading ABM solutions and data  enrichment providers. 
+• The solution includes native functionality  for CRM integrations, extensive APIs  for event-triggered emails and custom  extension lists and touchpoints. 
+• Act-On has also recently released a  webhooks capability, which is already  integrated with over a dozen iPaaS  providers such as Zapier, Cazoomi  SyncApps and tray.io. 
+Pricing and support 
+• An annual contract is required. 
+• No free trial or other pre-purchase  testing is available. 
+• Pricing is based on factors such as the  number of active contacts, marketing  and sales users, and add-on modules  selected by customers. 
+• Act-On's software starts at $1,000 per  month, and customers pay an average of  $4,000 per month for their contracts. 
+(c) 2025 Third Door Media(r), a Semrush company 30 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+• Act-On offers a range of support options  
+for its Marketing Automation Platform  
+software, including: 
+• A dedicated Customer Success  
+Manager at no additional cost. 
+• Online training and product  
+documentation is available for all  customers. 
+• Premium customer support, providing a  dedicated support manager and 24-hour  
+Act-On 
+121 SW Morrison St #1600 Portland, OR 97204 
+T: (877) 530-1555 
+act-on.com
+• Technical support available from 9  a.m. GMT to 5 p.m. PST. 
+support, is available for those who wish  to purchase it. 
+(c) 2025 Third Door Media(r), a Semrush company 31 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• SMB to enterprise-level B2B marketers and B2C considered-purchase marketers in  
+a variety of industries, including technology, business services, healthcare, financial  
+services, education, manufacturing and telco. 
+Company overview 
+Adobe 
+345 Park Avenue  
+San Jose, CA 95110  
+T: 408-536-6000 
+adobe.com 
+Product profiled 
+Adobe Marketo Engage 
+Key customers 
+Charles Schwab  
+GE 
+Panasonic  
+Lumen  
+RingCentral  
+Roche 
+Key executives 
+Shantanu Narayan, Chairman,  President and Chief Executive  Officer, Adobe 
+Amit Ahuja, SVP, Adobe  Experience Cloud, Platform and  Products 
+Brian Glover, Senior Director,  Product Marketing, B2B  Customer Journeys
+• Parent company Adobe (ADBE: NASDAQ) was founded in 1982. 
+• 29,000+ employees worldwide. 
+• Adobe acquired Marketo in October 2018. 
+• Adobe maintains more than 50 offices worldwide, including in San Jose, San Francisco,  Lehi (Utah), Seattle, Atlanta, Denver, Portland, Dublin, London, Paris, Tel Aviv, Tokyo and  Sydney. 
+Product overview 
+• Adobe Marketo Engage is an AI-powered marketing automation platform designed  to assist teams in scaling personalized buyer engagement and fostering predictable  pipeline and revenue growth. The platform enables marketers to attract suitable buyers,  nurture them through various channels and journeys, maintain alignment between sales  and marketing efforts, and provide insights aimed at enhancing the marketing impact on  revenue. 
+• Adobe Marketo Engage is a key component of the Adobe Experience Cloud (AEC), which  is Adobe's suite of products and services designed to manage the customer experience.  Marketo Engage also integrates with the Adobe Experience Platform (AEP), which is  part of the broader Adobe Experience Cloud. 
+Use cases 
+• Campaign management. Adobe Marketo Engage enables users to create, automate,  and measure marketing campaigns across various channels, including email, mobile and  social media, while delivering targeted and personalized display ads. 
+• Dynamic customer interactions. The software facilitates dynamic interactions with  customers on websites, enhancing user engagement through personalized experiences. • Performance analysis and predictive content. Users can analyze campaign  performance to demonstrate business impact and utilize predictive content  functionality to present the most suitable marketing assets based on user interactions. • Lead development and prioritization. Marketo Engage supports the development and  qualification of potential buyers through personalized nurturing campaigns and scoring  capabilities, allowing users to prioritize leads based on quality, urgency ratings, and  account engagement scores. 
+• Data management. The platform includes native data cleansing capabilities, such as  data deduplication and automated workflows for data normalization, with advanced  cleansing available through integrations. 
+• Account-based marketing (ABM). The software supports ABM strategies by providing  account insights and profiling to identify target accounts, leveraging AI for campaign  activation and automating personalized experiences across accounts. 
+• Sales collaboration. Marketo Engage facilitates collaboration with sales teams by  sharing customer intelligence throughout the buyer journey and offering multi-attribute  lead scoring that incorporates sales and marketing interactions. 
+• Real-time data integration. The platform performs real-time data capture and bi directional integration with CRM systems, supporting various sales engagement  capabilities and digital sales playbooks. 
+(c) 2025 Third Door Media(r), a Semrush company 32 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Artificial intelligence and  
+machine learning 
+Adobe Marketo Engage uses AI and ML for  
+the following purposes: 
+• For content personalization in emails,  
+website experiences, webinar content  
+and dynamic chat responses. 
+• Performance insights: Program and  channel ROI analysis is offered. Users  can track customer journey stage  performance. 
+• Advanced journey analytics: Flexible  ad-hoc reporting on campaigns and  channels is available. The system  provides attribution and ROI  
+Adobe 
+345 Park Avenue San Jose, CA 95110  T: 408-536-6000 adobe.com
+• To improve measurement accuracy by  replacing rules-based attribution with  algorithmic pattern recognition.  
+• To help marketers discover new unique  audiences and prospects. 
+• To generate conversation summaries and  a chat interface to prepare salespeople  for conversations and meetings with  customers and prospects. 
+Analytics and reporting 
+• Email performance reporting:  
+Comprehensive email activity tracking  and metrics are provided. Users have  the ability to filter and segment email  performance data. Account-level email  engagement tracking is available. The  system offers classification of email  statuses, such as aborted emails. 
+• Interactive webinar analytics:  
+Registration and attendance data is  available at both company and lead  levels. The system provides engagement  dashboards with detailed webinar  performance insights. 
+• Campaign performance tracking: Smart  List functionality allows users to preview  campaign impact. The system offers the  ability to see affected lead counts for  Smart Campaigns. 
+• Conversational marketing analytics:  Chat transcript and conversation  
+analytics are available. Users can access  extended historical data (up to 24  months) in dashboards. 
+• Multi-touch attribution: Advanced  attribution modeling is provided across  marketing and sales touchpoints. The  system offers the ability to measure  impact on revenue cycle and funnel  metrics. 
+• Executive dashboards: Real-time metrics  and trend analysis are available. The  system provides revenue cycle analytics. 
+measurement capabilities. 
+• Opportunity influence analysis: Cross channel marketing influence tracking is  offered. Users can measure touchpoint  influence. 
+Third-party integrations 
+• Native integration with Microsoft  Dynamics 365, Salesforce and  
+Veeva CRM. Supports two-way  
+synchronization. With CRM credentials,  custom objects and fields can be synced  automatically. Additions/deletions to  CRM framework such as fields or objects  are automatically updated in Marketo  Engage. 
+• Turn-key integrations are available for  Oracle NetSuite, SugarCRM, Zoho and  others provided by Vertify and sold by  Adobe with Marketo Engage. 
+• Partner ecosystem of data integrators  and digital agencies includes Accenture  Digital, Deloitte Digital, DigitasLBi,  Informatica, Mulesoft, Talent and  Software AG. 
+• Partners can also be found through  Adobe Exchange and Experience Cloud. • Additional integrations are available  through Web hooks and REST APIs. 
+Pricing and support 
+• Annual contract required. 
+• Pricing is based on the size of the  marketing database, plus any additional  infrastructure requested, such as  advanced security, high-volume APIs,  high-volume email infrastructure or  advanced database features. 
+• Four pre-built bundles based on digital  marketing maturity, including a newly  added Growth package for small teams. 
+• All solutions include a Marketing  Data Environment, which integrates  
+(c) 2025 Third Door Media(r), a Semrush company 33 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+profiles and engagement history to help  
+marketers build customer relationships  
+by enabling personalized interactions. 
+• Any product/module not packaged in the  
+solution can be purchased as an add-on. 
+• Products/modules are typically priced on  
+a single scaling factor, such as database  
+size, number of marketing users, number  
+• All customers receive global phone  support and 24/7 web portal support,  including chat. 
+• Professional services packages are  available for implementation and  consulting services. 
+• Premium-priced support services  include access to named support  
+Adobe 
+345 Park Avenue San Jose, CA 95110  T: 408-536-6000 adobe.com
+of mobile activities or number of website  visitors. 
+• All subscriptions include access to  customer success managers. 
+professionals, accelerated service-level  response and sessions for proactive  mentoring and business review. 
+(c) 2025 Third Door Media(r), a Semrush company 34 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Company overview 
+• Founded in 2009. 
+• 958 employees. 
+Bloomreach 
+82 Pioneer Way 
+Mountain View, CA 94041 T: 650-943-6169 
+bloomreach.com 
+Product profiled 
+Bloomreach Marketing  Automation 
+Key customers 
+Boohoo  
+Pandora  
+Next  
+On the beach 
+Living Spaces Furniture, LLC MandM Direct 
+Key executives 
+Raj De Datta,  
+Chief Executive Officer 
+Amanda Elam,  
+Chief Marketing Officer 
+Christy Augustine, 
+ Chief Operations Officer 
+Anirban Bardalaye,  
+Chief Product Officer
+• Acquired Radiance Commerce, an LLM-powered shopping concierge, in January 2024. • Acquired Exponea, a customer data and experience platform, in January 2021. • Bloomreach personalizes the ecommerce experience. It unifies customer and product  
+data so businesses understand what customers really want. By connecting that  understanding to every channel, the shopping experience reflects who customers are  and what they want to buy. With the speed and scale of AI, businesses can offer that  personalized experience to their entire customer base, in real time. The company has  multiple AI patents and serves 850+ global brands. 
+Product overview 
+• Bloomreach's marketing automation platform offers advanced targeting and AI powered personalization to help brands build and maintain audiences using real-time  customer behavior data. The platform includes Engagement, which personalizes  marketing across multiple channels such as email, SMS and website, as well as Discovery,  a solution focused on ecommerce search and merchandising. Additionally, Bloomreach  offers Content, a headless CMS that manages and personalizes experiences for various  commerce platforms and Clarity, an AI-powered conversational shopping tool. 
+Use cases 
+• Email marketing: Bloomreach's software allows marketers to personalize their email  campaigns by curating product recommendations and customizing communications  based on customer engagement. The software also offers the ability to design emails  using a drag-and-drop editor or an HTML builder.  
+• Personalized search: With real-time segmentation, SEO, merchandising and  recommendations, Bloomreach's software enables the tailoring of product  recommendations to meet individual customers' needs.  
+• Web personalization: This feature utilizes AI-powered predictions to optimize website  content, target specific audiences with personalized web layers and leverage first party data for features such as countdown banners and product recommendations.  Additionally, marketers and digital teams can utilize A/B testing and contextual  personalization to find the most effective visual appearance for each customer.  
+• Data ingestion, unification and identity resolution: Bloomreach's software combines  customer data from various sources into a single marketing view, creating user profiles  for both anonymous and identified customers. This allows marketers to build audience  segments that update in real-time as user behavior and purchase habits change.  
+• Campaign orchestration and execution: By capturing zero- and first-party customer  data, Bloomreach's Engagement software enables marketers to orchestrate and execute  personalized marketing campaigns across multiple channels from a single platform. 
+Artificial intelligence and machine learning 
+Bloomreach utilizes AI and ML for the following purposes: 
+• To suggest next-best actions. 
+• To suggest content personalization. 
+• To suggest customer journey design. 
+• For automatic campaign optimization. 
+• To generate creative for email campaigns. 
+• To personalize landing pages on-the-fly. 
+(c) 2025 Third Door Media(r), a Semrush company 35 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting 
+• Bloomreach offers analytics and  
+reporting tools designed for users who  
+• SMS and MMS providers, such as  CM.com, Sinch and Sinch SMS & MMS,  can also be integrated. 
+Bloomreach 
+82 Pioneer Way 
+Mountain View, CA 94041 T: 650-943-6169 
+bloomreach.com
+are not data experts. 
+• The platform provides a Product  Analytics Dashboard for insights into  website trends and user behavior. 
+• The Analytics and Reporting Template  Library enables quick access to data for  data-driven decision making. 
+• Bloomreach Engagement leverages data  to predict customer behavior and offers  customizable reporting and analytics  dashboards. 
+• Analytics Essentials tracks visitor  interactions and provides detailed  reports on site performance. 
+• Marketing Intelligence and AI uses  AI-powered tools to improve marketing  campaigns and identify high-value  audiences. 
+Collaboration and workflow  management 
+• The Projects feature in Bloomreach  Content enhances transparency and  collaborative control of content across  teams. It allows users to create projects  to isolate their changes, which can then  be reviewed and published without  interference from other users' changes  within the same channel.  
+• Bloomreach's Workflow Optimization  helps streamline processes to help users  manage tasks and workflows.  
+Third-party integrations 
+• Data can be imported from Microsoft  SQL, Azure SQL, Postgre SQL, Amazon  Redshift, MySQL, Google Bigquery,  Google Cloud Storage, Amazon S3, SF TP  file server and HTTPS web server. 
+• The software can be integrated with  various email providers, including  Mailgun, Mailjet, Mandrill, Sendsay,  Unisender, Sendinblue, Mailchimp,  Emaillabs and Unione. 
+• Ecommerce integration is possible with  Shopify and Magento. 
+• The software also connects with adtech  platforms, including Adform, Facebook  Ads, Google Ads, Facebook Conversions  API and Facebook Lead Ads. 
+Pricing and support 
+• An annual contract is required. 
+• No free trial or other pre-purchase  testing is available. 
+• Bloomreach pricing is based on the  number of customers served, the  size of the product catalog and the  number of events executed (e.g. emails,  SMS messages). Pricing is tailored to  individual businesses based on the  functionality needed. 
+• Onboarding time for Bloomreach's  marketing automation solution is  typically one to three months. 
+• New clients receive training from the  Academy program to understand the  solution, ensure smooth data ingestion  and support the building of analyses  and automated campaigns. Each client is  assigned an experienced project team. 
+• After implementation, Bloomreach's  customer service team guides clients  through growth and expansion phases,  focusing on fast time-to-value, team  enablement, success partnership, value  measurement and thought leadership. 
+• Technical support via Zendesk is  available to all clients during business  hours. 
+• Add-on professional services include  dedicated support and a dedicated  consultant or value delivery manager to  assist with campaign creation, analytics,  reporting, training and other tasks. 
+(c) 2025 Third Door Media(r), a Semrush company 36 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Small to medium-sized organizations across a variety of industries as well as  
+Constant Contact 
+1601 Trapelo Rd, 3rd Floor Waltham, MA 02451 constantcontact.com 
+Product profiled Lead Gen & CRM 
+Key customers Not disclosed 
+Key executives 
+Frank Vella,  
+Chief Executive Officer 
+Laura Goldberg,  
+Chief Marketing Officer 
+Russ Morton,  
+Chief Product Officer 
+Eric Raab,  
+Chief Technology Officer
+organizations with multiple locations, departments or users in addition to franchises,  member-based associations and agency partners. 
+Company overview 
+• Founded in 1995. 
+• 1,000 employees. 
+• Constant Contact acquired SharpSpring in September 2021. The company also acquired  the Australian SMS and email platform Vision6 in January 2022. 
+• Constant Contact offers digital marketing tools designed to simplify online marketing  for small businesses and nonprofits. 
+Product overview 
+• Constant Contact's Lead Gen & CRM product is designed for sales and marketing  directors who need to align their teams, convert their leads and demonstrate ROI. 
+Use cases 
+• Sales pipeline and deal flow: The software allows marketers to track their sales pipeline  and monitor the progress of deals. 
+• Lead conversion tracking: Marketers can use the software to track and analyze the  conversion rates of their leads, helping them understand which strategies are most  effective in converting potential customers. 
+• Account management: The software offers tools for managing and organizing customer  accounts, allowing marketers to efficiently track and communicate with their clients. • Reporting and analytics: The software provides marketers with insights and data to  inform their marketing strategies and measure the success of their campaigns. • Embeddable web chatbot: The software offers an embeddable web chatbot feature,  which allows marketers to engage with website visitors in real-time and provide  personalized assistance. 
+• Sales engagement: With features such as email automation and personalized  messaging, the software helps marketers engage with potential customers and nurture  relationships throughout the sales process. 
+• Sales intelligence: Marketers can utilize the software's sales intelligence tools to gather  valuable information about their leads and use it to inform their sales strategies. • Marketing agency and multi-tenant management: The software offers features  specifically designed for marketing agencies and allows for multi-tenant management,  making it easier for marketers to manage multiple clients and campaigns at once. 
+Artificial intelligence and machine learning 
+Constant Contact uses AI and ML for the following purposes:  
+• To suggest content personalization. 
+• To generate creative for email campaigns. 
+(c) 2025 Third Door Media(r), a Semrush company 37 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting 
+• Constant Contact's Lead Gen & CRM  
+product offers reporting and analytics  
+• The system syncs data between common  objects such as contacts, accounts and  opportunities in external CRMs. 
+Constant Contact 
+1601 Trapelo Rd, 3rd Floor Waltham, MA 02451 constantcontact.com
+capabilities that bring together  
+marketing and sales data. 
+• The platform includes out-of-the-box  reports and lets users create custom  reports and dashboards. 
+Collaboration and workflow  management 
+• Constant Contact Lead Gen & CRM  provides automated task management  systems for both individual users and  teams. 
+• Users are able to view all tasks that have  been assigned to them and have the  ability to manage them as needed. 
+• Managers have the option to assign tasks  manually or utilize automation tools for  automatic assignment. 
+Third-party integrations 
+• Constant Contact integrates with CRMs,  social platforms, and other platforms. 
+• For social platforms, the software  enables users to post and listen on  Facebook, Instagramband LinkedIn. 
+Pricing and support 
+• An annual contract is not required. • No free trial or other pre-purchase  testing is available. 
+• Pricing for Constant Contact's Lead Gen  and CRM product starts at $449/month. • Constant Contact provides onboarding  services to help customers get started  with the platform. 
+• Ongoing support is available to  customers beyond the initial onboarding  process. 
+• Professional services are also offered for  customers to address specific marketing  needs. 
+(c) 2025 Third Door Media(r), a Semrush company 38 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Target customer 
+Customer.io 
+9450 SW Gemini Dr, Ste 43920  Beaverton, OR 97008-7105 customer.io 
+Key customers 
+Notion 
+Figma 
+Buffer 
+Klar 
+Lemonade 
+LesMills 
+Key executives 
+Colin Nederkoorn,  
+Chief Executive Officer and  Founder 
+Brian Thomas,  
+Chief Product Officer  
+Zhi Li, Chief Financial Officer  
+Matthew Newhook,  
+Chief Technical Officer
+• Mid-market companies. 
+Company overview 
+• Founded in 2012. 
+• 241 employees. 
+• Customer.io is a customer engagement platform designed for tech-savvy organizations  to create personalized customer journeys that engage, convert and scale.  • Customer.io is a globally distributed, remote-first company. 
+Product overview 
+• Customer.io is a customer engagement platform designed for tech-savvy organizations  to create personalized customer journeys that engage, convert and scale. Use first-party  data to send meaningful messages across all channels, including email, in-app, push, SMS,  and webhooks. Customer.io's suite of products includes Journeys, a messaging automation  tool, Data Pipelines, a customer data platform, and Parcel, a code editor designed for email.  
+Use cases 
+• Automated multi-channel messaging: The platform enables marketers to use data to  craft and automate personalized messages and interactions across mobile and web  through channels like email, push, in-app and SMS. 
+• Behavior-based messaging: Trigger timely, targeted messages based on user actions or  inactions, preferences and behaviors and engage customers where they are. • Personalized customer journeys: Customer.io allows marketers to create personalized  customer journeys by defining the who, what, when, and why of each message. Users can  further dynamically personalize messages with customer data, using variables and logic. • Data-driven activation campaigns: Customer.io enables users to use first-party data  to deliver timely, relevant messages. Initiate campaigns based on segments, events, and  various triggers, with flexible timing options to optimize engagement. 
+• Cross-sell/up-sell and retention: Leverage A/B testing and segmentation for targeted  messaging based on real-time data-enhancing cross-selling and upselling to boost  revenue and customer loyalty. 
+• Personalized onboarding: Create tailored experiences for new customers using real time data. Personalize messages, deliver in optimal time zones, and adapt journeys based  on user actions. 
+• A/B, multi-variate, and cohort testing: Customer.io offers robust testing and  segmentation abilities for campaign optimization. Users can test various elements,  including subject lines, content, timing, and offers, to maximize effectiveness. 
+• Transactional messaging: Use Customer.io to send automated and personalized  transactional messages, such as order confirmations or shipping notifications. • Lead nurturing: By delivering targeted messages based on customer behavior and  interests, Customer.io can support lead nurturing efforts and drive conversions. • Re-engagement campaigns and churn prevention: With the ability to identify and target  inactive customers, the software can help re-engage them through personalized messaging. 
+Analytics and reporting 
+• Customer.io offers analytics and reporting capabilities for tracking campaign  performance. Two main types of metrics are provided: campaign journey metrics and  message delivery metrics. 
+(c) 2025 Third Door Media(r), a Semrush company 39 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+• Campaign journey metrics track  
+progress through campaigns,  
+Data Pipelines, Segment and RudderStack,  as well as reverse ETL tools and data  
+Customer.io 
+9450 SW Gemini Dr, Ste 43920  Beaverton, OR 97008-7105 customer.io
+including triggered, started,  
+messaged, in progress, completed,  filtered out, exited early and  
+converted. 
+• Message delivery metrics  
+include sent, delivered, opened,  
+clicked, click-to-open, converted,  
+unsubscribed, unsubscribed from  topics, marked-as-spam, failed,  
+bounced, and suppressed. 
+• The Dashboard allows for monitoring  of segment membership, A/B test  performance and link activity.  
+Customizable reports can be generated  and displayed in tables or charts for  easy comparison across campaigns,  newsletters, and broadcasts. 
+Collaboration and workflow  management 
+• On Customer.io, teams can assign  roles and permissions, save drafts  and workflows for later and visualize  automations with a drag-and-drop  interface. Users can also leave inline  notes to explain workflow logic, actions,  delays and more. 
+• The Parcel tool offers real-time  collaboration, feedback and approvals,  version control and inbox previews.  Users experience simultaneous editing  and instant preview of changes. 
+• The feedback and approvals feature  centralizes stakeholder feedback  and includes accessibility checks and  commenting. 
+• Version control allows for saving and  reviewing previous versions of emails. • Inbox previews are available for over  80 inboxes and email clients, with the  ability to save top inboxes into a group. 
+Third-party integrations 
+• Customer.io provides a range of third-party  integrations designed to improve marketing  automation and customer engagement.  These integrations encompass various  categories, including Customer Data  Platforms such as Customer.io's own CDP,  
+warehouses like Snowflake and BigQuery. • The software supports analytics  platforms including Mixpanel and  Amplitude, along with lead capture tools  such as Typeform and Facebook Ads.  For customer relationship management  and advertising, Customer.io integrates  with Salesforce to facilitate customer  management and ad audience syncing. • Additionally, integration platforms like  Zapier enable connections between  Customer.io and numerous other  applications, allowing for streamlined  workflows and synchronized data. The  platform also supports JavaScript tags,  server-side libraries, mobile SDKs,  webhooks, and API integrations to  enhance functionality and facilitate  personalized communication. 
+Pricing and support 
+• Monthly and annual contracts are  available, depending on the plan. 
+• A free trial is available. 
+• Three plans are offered: Essentials  starting at $100 a month, Premium  starting at $1,000 a month and a  
+customized Enterprise plan. A Startup  Program is available for startups. 
+• Customer.io offers free email and  community support, extensive  
+documentation and access to an AI powered support bot for all plans. • Premium and Enterprise plans have a  2-hour first response time for email and  community support.  
+• Premium plans also include 90-day  onboarding support from a Customer  Success Manager, with tailored  
+workshops and monthly live webinars. • After the 90-day onboarding period,  Premium plans can have a dedicated  Customer Success Manager for an additional  fee. Enterprise plans have the same  
+onboarding support and the option for a  Technical Account Manager for an extra fee. • All customers can access partners for  specialized projects requiring more  hands-on work on their account, with  costs varying by project. 
+(c) 2025 Third Door Media(r), a Semrush company 40 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Mid-market and enterprise companies in most verticals, with a particular focus in  
+Dotdigital 
+1 London Bridge 
+London, SE1 9BG 
+dotdigital.com 
+Products profiled 
+Dotdigital Email & SMS 
+Dotdigital Customer Experience  and Data Platform (CXDP) 
+Key customers 
+Hanesbrands 
+Krispy Kreme 
+Spektrix 
+Copa Airlines 
+Sports Alliance 
+Ann Summers 
+Key executives 
+Milan Patel,  
+Chief Executive Officer 
+Tink Taylor,  
+Founder and President 
+Alistair Gurney,  
+Chief Financial Officer 
+Steve Shaw, Chief Product  and Technology Officer
+ecommerce, travel, education, not-for-profit and B2B. 
+Company overview 
+• Founded in 1999. 
+• 473 employees. 
+• Dotdigital acquired Fresh Relevance, a cross-channel personalization platform, in  October 2023. 
+• Dotdigital has been working with brands to improve their marketing and engagement  for 25 years. The company strives to innovate to meet the demands of the data driven world whose brands and consumers expect seamless, relevant, instantaneous  connections. 
+• Dotdigital has offices in the UK (London Bridge, Croydon, Manchester), as well as in  the Netherlands, Poland, South Africa, Australia (Melbourne and Sydney), Japan and  Singapore. 
+Product overview 
+• Dotdigital is a customer experience and data platform (CXDP) that enables marketing  teams to enhance customer satisfaction through personalized cross-channel journeys.  The platform allows marketers to integrate, enhance and segment customer data,  eliminating data silos and simplifying decision-making. Dotdigital's AI capabilities help  users automate personalized experiences across various channels such as web, email,  SMS, WhatsApp, chat, push, social and ads. 
+Use cases 
+• Multi-channel marketing: The tool allows for the creation of fully branded campaigns  with drag-and-drop templates. The software offers a variety of channels for marketers to  utilize, including email, SMS, MMS, push, social, live chat, WhatsApp and landing pages. 
+• Forging customer relationships. The inclusion of integrated branded data acquisition  forms and surveys helps to grow a more engaged audience for the marketer. The  software also provides personalization across multiple channels, including website,  email and app. Automated enrollment in various programs such as welcome, post purchase, birthday and loyalty programs allows for targeted and timely communication  with customers. Intelligent product recommendations provide personalized experiences  that drive conversions. 
+• Conducting global campaigns. With the ability to send broadcast and triggered SMS  marketing to over 200 countries, the software offers a global reach for marketers. With  multi-storefront, multi-currency and multi-language capabilities, the software also  enables brands to grow and scale in different countries. 
+• Delivering data-driven experiences: Through the syncing of historical customer, catalog  and order data from ecommerce platforms or CRMs, Dotdigital's software allows for  smarter targeting through its segmentation builder. The single customer view feature  helps to unify disparate data and provide actionable insights for the marketing team.  Custom attribute mapping for customers and orders further enhances the data-driven  approach of the software. 
+• AI-powered marketing: Dotdigital's marketing intelligence engine, WinstonAI, offers  increased productivity, creativity, and revenue opportunities for marketers. The  platform's copywriting assistant tools aid in message optimization for maximum results.  
+(c) 2025 Third Door Media(r), a Semrush company 41 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Dotdigital 
+1 London Bridge London, SE1 9BG dotdigital.com
+Predictive analytics, such as predicted  churn date, next order and lifetime value,  help marketers know where to focus  their efforts. 
+• Driving revenue and customer lifetime  value/loyalty: The software offers  automated abandoned cart and browse  features to win back lapsed customers.  Reporting and analytics tools allow  marketers to track and analyze their  campaigns' performance. 
+Artificial intelligence and  machine learning 
+Dotdigital's platform utilizes artificial  intelligence and machine learning  technology for the following purposes: • To suggest next-best actions. 
+• For automatic campaign optimization. • For lead and account scoring/ 
+prioritization. 
+• For content generation and modification,  such as: 
+• To generate creative for email  
+campaigns. 
+• To let users change content tone (up  to two tones) and length, rephrase  text, add emojis and check grammar  for email, SMS and pages and forms.  
+• To convert email creative to SMS. • To provide users with feedback on  email content and subject lines. 
+• To personalize landing pages on-the fly. 
+• To provide analytics including:  
+• Predictive CLV and customer churn. • Email link heatmapping. 
+• Postcode and IP geo heatmapping. • Persona movement. 
+• Customer dashboard (RFM). 
+• Opportunities dashboard (eRFM). • Non Human Interaction (NHI)  
+filtering for email. 
+• To fuel product recommendations and  enrich product data. 
+• To generate lookalike segments. • To optimize send times. 
+• To automate reputation management  and sender reputation. 
+Analytics and reporting 
+• Dotdigital offers in-depth analytics,  reports, and dashboards for various  channels such as email, SMS, MMS,  surveys, landing pages, websites, live  chats, automations, webhooks and  commerce data. Customers can access  data accurate to a minute at the node  level. 
+• Customers can create custom email  reports with their preferred date range  and metrics. 
+• List and segment analytics are available  for email, web, commerce and RFM  performance across groups of contacts.  Predictive analytics for CLV, eRFM and  churn risk are also offered. 
+• Automation analytics provide  
+detailed insights on overall program  performance, including stats like entered  program, campaign sends and revenue. 
+• Cross-account analytics for email and  SMS allow customers to visualize and  compare performance across multiple  metrics. 
+• Extensive dashboards and reports are  available for commerce customers,  including abandoned cart, product  recommendations, revenue and orders. 
+• Customers can also understand the  overall performance of their entire  business, including sub-brands/ 
+departments, with top line highlights and  metric comparison. Advanced revenue  attribution provides insight into direct  and assisted campaign revenue. 
+Collaboration and workflow  management 
+• Dotdigital offers a comprehensive  program builder with nodes and  
+connectors for creating automated  marketing workflows. The program  builder features nodes such as actions,  delays, decisions and end points. 
+• Customers can add approval steps to  their campaign flow. 
+• Dotdigital accounts support multiple  users with "last-touch attribution" to  track changes made by different team  members. 
+(c) 2025 Third Door Media(r), a Semrush company 42 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Third-party integrations 
+• Dotdigital offers strategic integrations  
+with major CRMs, ecommerce platforms,  
+• Pricing varies depending on the number  of contacts, their annual messaging  allowance, the length of the contract,  
+Dotdigital 
+1 London Bridge London, SE1 9BG dotdigital.com
+data analytics providers and CDPs,  loyalty and user-generated content tools,  IPaaS, personalization, gamification,  payments, tax and shipping. 
+• These integrations involve partners  such as Microsoft Dynamics, Adobe  Commerce, Shopify and BigCommerce. 
+• The company's Connect area allows for  easy one-click integrations with popular  martech tools. 
+• Dotdigital also has dozens of technology  partners who use its APIs to create  time-saving and valuable integrations for  mutual customers. The verified partner  integration program ensures quality,  compliance, and best practices, and is  denoted by the Verified Badge on the  partner directory. 
+• Extensions are available for  
+developers to extend Dotdigital's core  functionalities, such as EasyEditor  drag and drop blocks, providing more  integration flexibility and breaking  silos for marketers to offer more  
+personalization options. 
+Pricing and support 
+• An annual contract is not required. • A free trial or other pre-purchase testing  is available. 
+• Dotdigital offers flexible pricing options  that start at around £500 / $500  
+per month plus additional setup and  onboarding fees. Customers typically  spend at least £7,500 per year on the  software. 
+the plan chosen and what add-ons are  included. 
+• Customers choose between two primary  plans: Email & SMS or CXDP. 
+• Optional packs include:  
+• Advanced Personalization pack  for advanced website and email  
+personalization. 
+• Enterprise pack for additional  
+support, including 24/7 availability  and SLAs. 
+• Additional paid-for extras include child  accounts, multi-store connectors,  integration connector licenses, creative  design services and deliverability  migration plans. 
+• Free technical consulting is offered  during the sales process. 
+• All customers receive a dedicated  Customer Success Manager and 24-hour  support via live chat, phone or email five  days a week. Enterprise pack subscribers  receive 24/7 support. 
+• A dedicated Onboarding Project  Manager is provided for all plans. All  customers receive a dedicated training  session and assisted first send, with  additional training available for a one-off  fee. 
+• The Dotdigital Academy and help center  are available for on-demand support. • All customers have access to nearly 200  integrations, with some incurring set-up  fees or ongoing costs depending on the  package and integration. 
+(c) 2025 Third Door Media(r), a Semrush company 43 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Freshworks typically serves SMBs with 11 to 500 employees in B2C verticals like retail  
+Freshworks 
+2950 S. Delaware Street, Ste 201 San Mateo, CA 94403 
+.freshworks.com 
+Product profiled 
+Freshmarketer 
+Key customers 
+Carrefour 
+Blue Nile 
+7-Eleven 
+Decathlon 
+Kongskilde 
+Tata Digital 
+Key executives 
+Girish Mathrubootham,  
+Executive Chairman 
+Dennis Woodside,  
+Chief Executive Officer 
+Mika Yamamoto, Chief Customer  and Marketing Officer 
+Tyler Sloat, Chief Operating  Officer and Chief Financial  Officer
+and ecommerce, travel and hospitality, financial services, education and real estate. B2B  customers include those in software and IT, marketing agencies, business services and  manufacturers.  
+Company overview 
+• Founded in 2010. 
+• 5,000 employees. 
+• Freshworks is a cloud-based software-as-a-service company that provides tools for  customer experience management, IT service management (ITSM), employee service  management and sales and marketing.  
+• In September 2021, Freshworks raised $1.03 billion in its initial public offering  (NASDAQ: FRSH ). Earlier funding rounds included investments from venture capital  firms such as Accel and Google's CapitalG venture capital fund. 
+• Freshworks' global headquarters is in Chennai, India, and it has more than 12 other  offices worldwide.  
+Product overview 
+• Freshmarketer is an AI-powered marketing automation platform designed specifically  for emerging consumer businesses. By leveraging generative AI and unifying the  customer context across channels, Freshmarketer helps businesses identify the best  customer segments, engage them on their preferred channels and deliver personalized  experiences in real time to increase sales and conversions.  
+Use cases 
+• Attract, engage, convert and nurture prospects and customers across multiple  channels (email, SMS, WhatsApp, MMS, social media, chat and more) with contextual 1:1  engagement. 
+• Drive conversions using personalized marketing campaigns with advanced  segmentation, personalized landing pages, forms and conversion rate optimization  (CRO) capabilities. 
+• Accelerate productivity by automating repetitive campaign flows and customer  journeys like welcoming new customers, recovering abandonment carts/sessions, order  updates, etc. 
+• Create cohesive customer experiences across all points of the customer life cycle by  having a unified view of customer interactions, buying behavior and preferences. 
+Artificial intelligence and machine learning 
+Freshworks utilizes AI and ML: 
+• To suggest next-best actions. 
+• To generate creative for email campaigns. 
+• For AI-powered segmentation. 
+(c) 2025 Third Door Media(r), a Semrush company 44 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting 
+• Marketers can access real-time data  
+Pricing and support 
+• An annual contract is not required. 
+Freshworks 
+2950 S. Delaware Street, Ste 201 San Mateo, CA 94403 
+.freshworks.com
+and track key metrics to evaluate  the effectiveness of their marketing  initiatives. The Neo platform offers  detailed reports, visualizations,  
+and actionable insights that assist  marketers in making informed, data driven decisions to enhance campaign  performance. 
+• Freshmarketer has enhanced its  reporting and analytics capabilities by  introducing advanced event analytics  and more curated reports. These allow  businesses to gain deeper insights  into customer behavior and campaign  performance, enabling them to track  and analyze interactions at a granular  level for more personalized customer  experiences. 
+Third-party integrations 
+• Freshmarketer offers 1,000+ ready  integrations with popular apps. 
+• Integrations cover a wide range,  including adtech solutions, ecommerce  platforms, data analytics tools and  productivity apps. 
+• Businesses can generate new leads and  nurture them through integrations with  Facebook, Instagram, LinkedIn LeadGen  Forms, ZoomInfo and other martech  platforms. 
+• No-code integrations with an ecosystem  of ecommerce apps such as Shopify,  WooCommerce, LoyaltyLion and  Shiprocket allow D2C brands to  
+automate marketing efforts. 
+• Freshmarketer also offers connectors  for Google Analytics, PowerBI and  other data analytics tools, allowing users  to draw insights from campaigns and  customer data in real time. 
+• Freshmarketer's open APIs allow  businesses to build custom integrations  and workflows with other apps in their  tech stack. 
+• A free trial or other pre-purchase testing  is available. 
+• Freshmarketer's typical customers pay  around $200 monthly. These are SOHO  or SMB customers in B2C or D2C with  around 10,000 to 100,000 contacts. 
+• Freshmarketer charges a $15 flat license  fee as well as a price based on the  number of contact records. For example,  the list price for 5000 contacts is $100.  Volume-based discounts are available.  
+• SMS/ MMS campaigns incur no extra  charge, but WhatsApp campaigns incur a  20% additional fee.  
+• Freshmarketer offers complimentary  onboarding assistance to all paid  subscribers. Post-go-live support is  available at no additional cost for 3  months. 
+• Paid onboarding packages are available  for organizations with more complex  needs. All paid packages include a  dedicated project team comprised  of an engagement manager and  
+a product specialist. The specific  package recommended is based on the  complexity of the client's requirements,  the size of the organization and the level  of configuration assistance desired. 
+• Freshworks offers customer support  through self-serve channels, email,  phone and chat outreach. These support  services are handled by a team of  product experts and are offered to all  trial and paying customers.  
+• Freshworks also offers Premium support  services. Enterprise customers usually  prefer these services, but they are  available to any customer. Premium  services include 24 x 7 availability,  accelerated response times, continual  reply cadence, a dedicated Technical  Account Manager, access to a support  escalation line and an escalation matrix.  Premium support customers also receive  a quarterly technical review and a  monthly health check.  
+(c) 2025 Third Door Media(r), a Semrush company 45 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Intuit Mailchimp supports mid-market marketers and SMBs across all verticals, but  
+mostly in the ecommerce, retail services and professional services sectors. 
+Intuit Mailchimp 
+405 N Angier Ave. NE,  
+Atlanta, GA 30308 
+mailchimp.com 
+Key customers 
+Gaston Luga 
+Meowbox 
+Club Soda 
+Gear Patrol 
+PERC Coffee 
+SheEdits  
+Earl of East 
+Key executives 
+Rania Succar, SVP and General  Manager, Intuit Mailchimp  
+Jack Tam, SVP and Chief  Technology Office, Intuit  Mailchimp  
+Michelle Taite, Chief Marketing  Officer, Intuit Mailchimp 
+Fay Kallel, VP and Chief Design  and Product Officer, Intuit  Mailchimp 
+Company overview 
+• Founded in 2001. 
+• 1,000+ employees. 
+• In 2021, Intuit acquired Mailchimp (now Intuit Mailchimp), enabling the company to  evolve as a comprehensive platform to supports small and mid-market businesses  beyond email marketing. This acquisition brought Mailchimp into the Intuit Suite. 
+• Additionally, Intuit Mailchimp has enhanced its platform through strategic acquisitions  and investments. The company bought Sawa in 2019 and Inspector 6 in 2020,  integrating their advanced AI technologies and laying the foundation for Intuit's current  suite of AI tools, including Intuit Assist and revenue intelligence. 
+• Intuit Mailchimp is an AI-powered email and marketing automation platform dedicated  to helping businesses build genuine connections with the right customers, deliver  the right message at the right time across channels, and automate and optimize their  marketing efforts. 
+Product overview 
+• Intuit Mailchimp is a comprehensive marketing platform designed to assist businesses  in enhancing their brand presence, engaging with their audience and increasing sales.  The platform features a user-friendly interface that enables users to create, automate  and manage email campaigns, social media advertisements, and landing pages without  requiring technical skills. Key functionalities include revenue intelligence, audience  segmentation, text generation and customer journey builder, which facilitate the  customization of marketing materials through pre-designed templates and drag-and drop capabilities. 
+Use cases 
+• Audience segmentation: Intuit Mailchimp offers a feature that allows businesses  to identify key customer segments based on behavior or preferences. This enables  personalized messaging and targeted communication that reach the right customers at  the right time. 
+• Automated customer journeys: The platform allows for the automation of customer  journeys, such as welcoming new subscribers, reminding customers of abandoned carts  or re-engaging inactive users. This saves time and ensures consistent communication,  making it especially beneficial for small and medium-sized businesses operating with  limited marketing teams. 
+• Ecommerce integration: Intuit Mailchimp integrates with popular ecommerce platforms  such as Shopify and WooCommerce. This allows for sending product recommendations  and follow-up emails, further enhancing business revenue opportunities. 
+• Revenue intelligence: The platform's new product offerings incorporate predictive and  generative AI models, providing customers with revenue intelligence technology. By  combining QuickBooks and Mailchimp data, this feature predicts customers' conversion  rates and identifies untapped revenue opportunities in sales pipelines and marketing  funnels. Marketers can then quickly generate branded email and SMS content to target  these customers. 
+(c) 2025 Third Door Media(r), a Semrush company 46 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+• Multichannel marketing: Intuit  
+Mailchimp supports multichannel  
+marketing through social media, SMS,  
+landing pages and digital ads. This  
+allows for a comprehensive approach to  
+Collaboration and workflow  management 
+• Intuit Mailchimp enhances  
+organizational efficiency by facilitating  
+Intuit Mailchimp 
+405 N Angier Ave. NE,  Atlanta, GA 30308 mailchimp.com
+reaching and engaging customers across  various platforms. 
+Artificial intelligence and  machine learning 
+Intuit Mailchimp uses AI and machine  learning for the following purposes:  • To suggest next-best actions. 
+• To suggest content personalization. • To suggest customer journey design. • For automatic campaign optimization. • For lead and account scoring/ 
+prioritization. 
+• To generate creative for email  
+campaigns. 
+• To personalize landing pages on the fly. Analytics and reporting 
+• Features include tracking open and click  rates, conversion tracking and customer  journey analytics. 
+• A/B testing analytics and integration  with Google Analytics are supported. • UTM parameter tracking and automated  email analytics further refine insights. • Custom analytics options allow for  tailored reports based on specific  metrics and KPIs. 
+• Email analytics and audience analytics  dashboards provide performance  measurement and trend identification. 
+• Custom reports can be created  and campaign performance can be  compared. 
+• ROI can be assessed to inform data driven decisions. 
+• Notifications inform users with push  notifications such as campaign previews,  sales summaries and audience growth  updates. Order notifications, including  confirmations and shipping updates, are  supported. Users can customize their  notification preferences for frequency  and content. 
+comprehensive team collaboration.  Users can invite team members, assign  roles and manage campaigns collectively. 
+• The software includes features for  streamlined project sharing, enabling  team members to access and update  email campaigns and audience segments.  Intuit Mailchimp also integrates with  third-party tools like Asana and Trello to  extend its task management capabilities. 
+• Additionally, Mailchimp's activity logs  track updates to ensure teams remain  informed. Its commenting and feedback  features promote effective collaboration  on campaigns and templates, ultimately  streamlining operations and simplifying  task management. 
+Third-party integrations 
+• Intuit Mailchimp integrates with  various solutions to improve marketing  automation, email marketing and  
+revenue intelligence.  
+• The connection with QuickBooks allows  users to utilize financial data through tools  like Intuit Assist and revenue intelligence  technology, enabling AI-driven insights  that assist in optimizing marketing  
+strategies and enhancing the sales pipeline. • The software supports key native  integrations with platforms such as  Shopify and BigCommerce, which  facilitate the synchronization of  
+customer and product data. 
+• Additionally, integrations with Wix  and Squarespace Commerce connect  website and commerce data, while  Zapier enables connectivity with a wide  range of web services. 
+• WooCommerce and Buy with Prime are  included to automate marketing tasks,  and integrations with Square and Stripe  help consolidate customer data.  
+• Furthermore, enhancements like Playable  Video Content and Canva improve email  campaigns, while LinkedIn integration  aids in lead-generation efforts. 
+(c) 2025 Third Door Media(r), a Semrush company 47 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Pricing and support 
+• An annual contract is not required. 
+• A free trial or other pre-purchase testing  
+is available. 
+• Intuit Mailchimp offers four subscription  
+Intuit Mailchimp 
+Premium plan users. Premium plan users  also have access to screen sharing with  support agents through the Glance app.  
+• Intuit Mailchimp provides personalized  onboarding for all users. Standard  plans include a one-time consultation,  
+405 N Angier Ave. NE,  Atlanta, GA 30308 mailchimp.com
+plans: free, essentials ($13/month),  standard ($20/month) and premium  ($350/month). The standard plan is  the most popular among customers,  but selections may vary depending on  an organization's specific marketing  requirements. 
+• Intuit Mailchimp offers integration and  ongoing support at no extra cost. All  users can access 24/7 email and live chat  support, with phone support available  during business hours for Standard and  
+while Premium plans offer up to four  onboarding consultations. New users  on paid Marketing plans can choose  between Assisted Onboarding or  Dedicated Onboarding. New free  account users receive 30 days of email  support.  
+• Intuit Mailchimp also connects users  with a global network of freelancers and  marketing agencies that can provide  additional expertise and support. 
+(c) 2025 Third Door Media(r), a Semrush company 48 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• Mid-market and enterprise companies in verticals such as agencies, CPG, financial  
+Marigold 
+11 Lea Ave. 
+Nashville, TN 37210 
+meetmarigold.com 
+Products profiled 
+Cheetah Digital, Campaign  Monitor, Sailthru 
+Key customers 
+Refinery29 
+Fleet Feet 
+Business Insider 
+Donatos 
+SmartBox 
+Rent the Runway 
+Key executives 
+Mike Gordon,  
+Chief Executive Officer 
+Micki Howl,  
+Chief Revenue Officer 
+Lisa Mayr, Chief Financial Officer 
+Iain Short, Chief Product Officer,  Enterprise
+services, franchises, higher education, media and publishing, non-profits, professional  services, restaurants, retail and travel and hospitality. 
+Company overview 
+• Founded in 2017. 
+• 1,200 employees. 
+• Marigold provides software solutions aimed at assisting marketers in developing enduring  relationships with their customers to enhance lifetime customer value. Founded in  Nashville, Tennessee, as CM Group, Marigold encompasses a range of messaging and  loyalty solutions, which include Campaign Monitor, Cheetah Digital, Emma, Liveclicker,  Sailthru, Selligent, and Vuture. The company serves various industries globally. 
+Product overview 
+• Marigold offers a suite of marketing solutions designed to enhance engagement  and personalization for marketers. Campaign Monitor enables the quick setup of  email and SMS campaigns through streamlined workflows. Cheetah Digital provides  enterprise-level capabilities with advanced technology and strategic services for  personalized messaging driven by AI. Emma supports higher education institutions,  franchises, non-profits and distributed businesses in crafting and scaling branded email  campaigns. Marigold Grow focuses on collecting zero- and first-party data through  engaging campaigns to address personalization challenges. Liveclicker enhances  email interactivity and personalization using real-time campaign data. Marigold  Loyalty facilitates the creation of personalized loyalty programs that foster customer  relationships and increase lifetime value. Finally, Sailthru orchestrates automated cross channel experiences with comprehensive customer profiles, while Selligent integrates  data sets and utilizes automation for scalable personalized marketing. 
+Use cases 
+• Customer acquisition: Marigold helps brands acquire new contacts and continuously  enriches existing customer data by capturing and refining data about their interests,  behaviors and purchase history.  
+• Engagement: Marigold enables marketers to engage with customers via omnichannel  messaging solutions. Marketers can respond to evolving customer needs by using rich  customer data to create and deliver timely personalized messages and experiences  about the products, services and content their customers care about. 
+• Loyalty: Marigold helps marketers identify loyal customers and build deeper  relationships with them beyond their transactions. Marketers can incentivize customers  and provide customized experiences aimed at building brand loyalty and reducing churn. 
+Artificial intelligence and machine learning 
+Marigold's software utilizes AI and ML to suggest next-best actions, to suggest content  personalization, for automatic campaign optimization, to generate content, to personalize  landing pages on-the-fly and for timezone-aware send-time optimization. Additionally, AI  and ML are utilized for projecting open rate, smart preheader padding, smart A/B testing,  bot click awareness, smart Facebook audience sync and predictive audiences. 
+(c) 2025 Third Door Media(r), a Semrush company 49 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Analytics and reporting 
+• Analytics and reporting tools track  
+customer interactions across channels  
+specific permissions, clarifying roles and  responsibilities for each project. 
+• The software includes task assignment  
+Marigold 
+11 Lea Ave. 
+Nashville, TN 37210 meetmarigold.com
+(email, push notifications, in-app),  providing insights into user behavior and  engagement. 
+• User behavior analytics monitor key  metrics like session frequency, retention  rates, and channel engagement. Features  include funnels for user journeys and  cohort analysis. 
+• Campaign performance tracking  measures effectiveness through metrics  such as open rates and conversions.  Supports A/B testing and multi-channel  attribution. 
+• Real Activity Detection identifies  genuine opens and clicks, ensuring the  accuracy of real-time analytics and  eliminating non-human activity from  various functions. 
+• Revenue and ROI tracking connects  customer engagement to purchases and  return on investment. Allows definition  of custom KPIs like average order value. 
+• Custom reports and dashboards can  be created and scheduled, tailoring  reporting to specific needs. 
+• Real-time notifications via email or push  keep marketers informed about KPIs,  message failures, and VIP user activity. 
+• Predictive analytics use machine  learning to determine optimal send  times, assess purchase likelihood, and  predict potential unsubscribes. 
+• Journey orchestration analytics  provide insights into user paths, optimal  communication cadence, and content  influence on conversion events. 
+Collaboration and workflow  management 
+• Marigold's account structure allows  multiple sub-accounts to operate  
+under a master administrative account,  promoting effective collaboration  among teams and clients while ensuring  strong control measures are in place.  Each team member can be assigned  
+and @mentioning features that  
+support real-time discussions within  the platform. Users can tag colleagues  directly within campaigns or assets,  which aids in creating quick feedback  loops and enhances collaboration  without the need to exit the interface. 
+• Built-in approval workflows enable  structured content reviews,  
+incorporating automated notifications  for necessary approvals. This  
+functionality streamlines the review  process and minimizes potential  
+bottlenecks. 
+• Administrators have the capability to  establish custom approval hierarchies,  allowing corporate teams to secure  certain elements of templates for brand  consistency. Meanwhile, local teams  can still customize content as needed,  ensuring flexibility in execution. 
+• Content sharing between sub-accounts  is supported, and franchisees can easily  opt in or out of campaigns with a single  click, aligning their participation with  local strategies. 
+• A centralized repository is available for  storing templates, schedules, and first party data, providing teams with access  to essential resources while adhering  to governance rules. This setup ensures  high-quality control and consistent  performance, even across smaller  franchise locations. 
+Third-party integrations 
+• Marigold provides multiple integration  options that facilitate connections to  various platforms, including Snowflake,  Salesforce CRM, Microsoft Dynamics  CRM, SugarCRM, Shopify, and Adobe  Commerce (Magento). 
+• Additional integrations encompass  customer relationship management  (CRM), point of sale (POS), inventory  management and analytics solutions. 
+(c) 2025 Third Door Media(r), a Semrush company 50 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Pricing and support 
+• An annual contract is required. 
+• A free trial or other pre-purchase testing  
+• Online help centers, in-app support  options and Marigold's support team are  available around the clock and around  
+Marigold 
+11 Lea Ave. 
+Nashville, TN 37210 meetmarigold.com
+is available. 
+• Marigold pricing is not publicly  disclosed. The cost varies depending  on the organization's size and specific  requirements, including send volumes,  sub-accounts, solution add-ons and  professional services.  
+• Marigold includes a free base level of  support and offers more comprehensive  support packages for an additional fee.  
+the globe to answer customer inquiries. • Marigold operates a Global Strategy and  Services team that can help customers  
+with strategic and technical advisory,  creative and design, assessments, audits  and roadmaps, loyalty program design,  analytics and insights. Several support  packages and dedicated options are  available. 
+(c) 2025 Third Door Media(r), a Semrush company 51 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Target customer 
+Oracle Marketing  
+2300 Oracle Way 
+Austin, TX 78741 
+T: 737-867-1000 
+www.oracle.com/cx/marketing/ automation 
+Product profiled 
+Oracle Eloqua 
+Key customers 
+Aon Cisco 
+Dow Jones  
+Mazda  
+Paciolan  
+Swisscom  
+Vertiv 
+Key executives 
+Rob Tarkoff, Executive Vice  President, and General Manager,  Oracle Advertising and CX 
+Thamina Christensen,  
+Head of Eloqua Product 
+Srishti Sofat, Senior Vice  
+President, Oracle Advertising  and CX 
+Katrina Gosek, Vice President,  Product Management, Oracle  Advertising and CX
+• Enterprise, mid-market or small businesses in B2B or B2B2C that require nurturing  / lead scoring for large considered purchases or long sales cycles. Industries include,  but are not limited to tech, manufacturing, financial services and insurance, travel and  transportation, consumer packaged goods, and media and communication. 
+Company overview 
+• Founded in 1977. 
+• 135,000 employees. 
+• Publicly traded (NYSE: ORCL). 
+• Oracle acquired Eloqua in December 2012. 
+• Oracle offers suites of integrated applications plus secure, autonomous infrastructure in  the Oracle Cloud. 
+Product overview 
+• Oracle Eloqua is a marketing automation solution for cross-channel campaign  orchestration that nurtures leads across each stage of the buying process. 
+Use cases 
+• Campaign orchestration. Create dynamic campaigns that intrigue buyers and adapt the  multi-touch experience based on a buyer's real-time activities. Marketers can create  optimized, personalized campaigns across email, display search, web, video, SMS, and  mobile with an easy-to-use, drag-n-drop campaign canvas, 
+• Segmentation and targeting. Target based on data with visual segment builder,  behavioral data and intent built in - plus dynamically update lists and automate  retargeting efforts 
+• Lead management and scoring. Leverage sophisticated, multi-dimensional lead scoring  to ensure the right leads and opportunities are routed to sales 
+• Sales and marketing alignment. Achieve sales and marketing alignment with unified  buyer intelligence to identify, 
+• prioritize, and track high-valued opportunities and top-tier accounts across the sales  cycle. Oracle Eloqua natively supports ABM, allowing marketers to better understand  and identify accounts, expand their footprint within those accounts, engage relevantly  with the right stakeholders and grow advocates for repeat sales. Tap into tools for sellers  and distributed marketing teams, and ensure seamless record and engagement behavior  data flow 
+• Data management and activation. Unify, manage and refresh large volumes of account,  contact and lead data and engagement 
+• Asset creation and management. Create compelling content quickly with visual asset  design editors, reusable content blocks, dynamic content and Generative AI content  creation. 
+• Marketing measurement and reporting. Measure marketing success and revenue  impact with built-in campaign and activity, campaign and account engagement  dashboards plus closed loop attribution reporting 
+• Advanced intelligence (classic and generative AI). Apply data science to observed  behaviors and adapt experiences to the learned preferences of each individual. Activate  contact/email fatigue analysis, send time optimization and account level engagement  scoring for precision marketing. Create optimal content for better outcomes using Gen  AI. 
+(c) 2025 Third Door Media(r), a Semrush company 52 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Artificial intelligence and  
+machine learning 
+Oracle Marketing  
+including updating lead scores, creating  new leads, and assigning tasks to sales for  follow-up actions like offering a demo. 
+2300 Oracle Way 
+Austin, TX 78741 
+T: 737-867-1000 
+www.oracle.com/cx/marketing/ automation
+• Oracle Eloqua employs AI and ML for the  following applications: 
+• To suggest next-best actions. 
+• To suggest content personalization • For automatic campaign  
+optimization 
+• For lead and account scoring/ 
+prioritization 
+Analytics and reporting 
+• Oracle Eloqua's marketing measurement  capabilities bring powerful out-of-the box and custom analytics and reporting,  powered by Oracle Business Intelligence,  to help marketers accurately track and  measure business impact. 
+• Eloqua's Account Engagement Dashboard  enables marketers to identify, target and  grow the most engaged accounts, with  insights into products of interest and level  of account engagement. 
+• Closed-loop reporting lets marketing  teams see how sales opportunity  
+revenue is attributed to marketing  campaigns, enabling users to analyze  overall campaign revenue performance  (ROI) to identify the best and worst performing campaigns. 
+Collaboration and workflow 
+• Oracle Eloqua provides asset creation  and management capabilities that enable  marketers to design emails, landing  pages, and forms while overseeing these  assets throughout their lifecycle. The  platform includes reusable content  blocks within the landing page and email  editors, allowing marketers to utilize pre approved marketing and brand elements  to meet their content demands efficiently. 
+• The Program Canvas feature in Oracle  Eloqua facilitates lead management,  encompassing lead routing and lead  scoring functionalities. It includes  
+"Listener Steps" that can respond to  changes in contact information, such as  lead scores, and execute various actions  based on the lead's status in the CRM,  
+• Additionally, the Program Canvas  supports the creation of lead-scoring  models, which enable marketers to define  the criteria for qualifying leads. This  functionality automates the qualification  process by incorporating sales input on  which leads are prioritized for follow-up  or closer tracking, thereby streamlining  the lead management workflow. 
+Third-party integrations 
+• Oracle Eloqua supports native bi directional integrations with Oracle  Sales, Oracle CRM On Demand,  
+Salesforce, and Microsoft Dynamics 365.  • Additional integrations are available  through a partner or Oracle Integration  Cloud Service for NetSuite, SugarCRM,  SAP CRM and Infor. In addition, REST  API is available to integrate with other  enterprise systems such as ERP, content  management and data warehouses. • The Oracle AppCloud provides access  to 500-plus app partners with over  700 integrations, including LinkedIn  Sales Navigator, Microsoft Outlook for  Sales Tools, WeChat, AddThis, Cvent,  Certain, Demandbase, Lattice, WebEx,  GoToWebinar, CloudWords, Pinterest,  LookBook HQ, SnapApp and LinkedIn. • Marketers can also leverage the Oracle  AppCloud Development Framework  to create apps to access third-party  data and content sources across the  enterprise. 
+Pricing and support 
+• Annual contract not required. Monthly  contracts offered. 
+• Oracle offers three pricing tiers based  on the number of users and database  contacts: Basic, Standard and Enterprise.  Specific pricing models are not publicly  disclosed. 
+• Add-on professional services are  available for companies that need  additional help onboarding or  
+customizing the software for their  business needs. 
+(c) 2025 Third Door Media(r), a Semrush company 53 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide 
+VENDOR PROFILES 
+Target customer 
+• High-growth companies to enterprise-level organizations across all industries, market  
+segments and geographies. 
+Company overview 
+Salesforce 
+415 Mission Street 
+San Francisco, CA 94105 T: (800) 667-6389 
+Salesforce.com  
+Product profiled  
+Salesforce Marketing Cloud  Account Engagement (formerly  Pardot) 
+Key customers 
+Grammarly  
+Southwest 
+NBC Universal  
+Mastercard 
+NI 
+Sika 
+Key executives 
+Stephen Hammond,  
+EVP and GM, Marketing Cloud  
+Nathan Maphet,  
+VP of Product Management,  
+Bobby Jania, Chief Marketing  Officer, Marketing Cloud 
+David Schmaier, President and  Chief Product Officer
+• Founded in 1999. 
+• 70,000 employees. 
+• Salesforce was founded in 1999; Marketing Cloud Account Engagement (formerly  Pardot) was founded in 2007 and acquired by Salesforce in 2013.  
+• Salesforce acquired Evergage Marketing Cloud Personalization in February 2020. In  2021, Salesforce acquired collaboration tool, Slack.  
+• Salesforce enables companies to connect with customers through a unified platform  that combines data, AI, CRM and trust. Salesforce Customer 360 is the company's vision  for helping customers with their digital transformations with data, analytics and agents.  With Customer 360 backed by the power of Data Cloud, all teams - marketing, sales,  service, commerce, IT and analytics - have a 360-degree view of customer data on an  integrated CRM platform.  
+• Salesforce has offices in more than 30 countries.  
+Product overview 
+• Salesforce Marketing Cloud Account Engagement is a B2B marketing automation  platform designed to align revenue teams, including marketing, sales and service,  through unified customer data and AI capabilities. The platform enables organizations to  utilize generative and predictive AI for generating leads, developing demand-generation  programs and implementing account-based marketing strategies. With native Data  Cloud integration, it allows for data harmonization from various sources, facilitating  personalized engagement based on comprehensive Customer 360 data.  
+Use cases 
+• Marketing, sales and service alignment. The software facilitates the integration of  marketing, sales, and service teams, promoting collaboration and ensuring that all  departments work towards common objectives. 
+• Demand generation campaigns and journeys. It supports the creation and execution  of campaigns designed to generate interest and engagement from potential customers,  guiding them through a defined journey, while also offering lead management tools for  tracking and nurturing leads throughout the sales process. 
+• Account-based and opportunity-based marketing. The software enables marketers to  tailor their strategies to specific accounts and capitalize on specific sales opportunities,  aligning efforts with the sales team's priorities. 
+• Lifecycle marketing (upsell/cross-sell) and adoption marketing. It provides  functionalities for engaging customers at various stages of their lifecycle, facilitating  strategies for upselling and cross-selling products or services, and promoting the  adoption of products among existing customers. 
+• Account relationship building and management. The platform supports the  development and maintenance of relationships with key accounts, ensuring ongoing  engagement and satisfaction. 
+• AI-driven sales alerts and insights. The software utilizes artificial intelligence to  generate alerts for sales teams and provides analytical tools that deliver insights to  refine strategies and improve performance. 
+• AI-generated marketing content and campaigns for sales. It employs AI to create  
+(c) 2025 Third Door Media(r), a Semrush company 54 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+marketing content and campaigns  
+specifically designed to support sales  
+initiatives, streamlining the content  
+creation process. 
+• AI-driven B2B marketing analytics  
+and attribution. The platform offers  
+• Following the launch of marketing  campaigns, Engagement History  dashboards, which are embedded within  CRM records, enable sales teams to  recognize buying signals. These insights  are accessible across leads, contacts,  
+Salesforce 
+415 Mission Street San Francisco, CA 94105 T: (800) 667-6389 
+Salesforce.com 
+analytics capabilities focused on B2B  marketing efforts, allowing marketers to  attribute success to specific campaigns  and understand their impact on overall  business performance. 
+Artificial intelligence and  machine learning 
+Marketing Cloud Account Engagement uses  AI and ML for the following purposes:  • To suggest next-best actions. 
+• To suggest content personalization. • To suggest customer journey design. • For automatic campaign optimization. • For lead and account scoring/ 
+prioritization. 
+• To generate content for email subject  lines, email copy, landing pages and form  pages. 
+Analytics and reporting 
+• Account Engagement B2B Marketing  Analytics offers marketing and sales  teams the ability to analyze customer  engagement dynamics through pre built dashboards. These dashboards  provide metrics on engagement  
+patterns, pipeline growth and the return  on investment for various marketing  initiatives, revealing insights about the  effectiveness of current engagement  strategies and content. 
+• By integrating with the B2BMA Account Based Marketing dashboard, marketers  can pinpoint key accounts for targeted  efforts. This tool allows them to identify  existing accounts within their database  while also assisting in the creation of an  ideal customer profile for targeting new  accounts. 
+• Equipped with performance insights and  targeting recommendations, marketing  teams can efficiently determine which  
+campaigns and audience segments to  prioritize for demand-generation efforts. 
+accounts and opportunities, allowing for  more informed sales strategies. 
+• As sales conversations develop,  marketing teams gain visibility into  ongoing deals and purchase histories,  facilitating targeted efforts for cross selling or upselling to key accounts. 
+Collaboration and workflow  management 
+• The integration between Slack and  Account Engagement facilitates  
+transparency among teams by enabling  marketing to promptly inform sales and  service departments when prospects  engage with high-value content. This  integration also offers recommendations  for next-best actions to take based on  prospect interactions. 
+• Engagement Studio is fully integrated  with Salesforce CRM workflows,  
+promoting collaboration between  marketing and sales teams in converting  leads into customers. 
+Third-party integrations 
+• Salesforce's AppExchange is a  
+marketplace for enterprise cloud  
+solutions, offering a range of applications  and consulting services that enhance  Salesforce functionality across various  sectors, including sales, marketing and  customer service. This platform provides  options from simple point solutions to  comprehensive automation applications. 
+• Key integrations available for marketers  include Zoom, which enables the  
+incorporation of webinars into marketing  workflows, and 6Sense alongside  Demandbase, which enhance account based marketing (ABM) capabilities.  Cvent enables modern event platform  capabilities, while major media networks  like Google, Facebook and LinkedIn  facilitate lead generation and capture.  
+(c) 2025 Third Door Media(r), a Semrush company 55 https://martech.org 
+MARTECH INTELLIGENCE REPORT: 
+Marketing Automation Platforms: A Marketer's Guide VENDOR PROFILES 
+Additionally, Qualified offers tools for  
+driving and capturing demand through  
+conversational marketing.  
+• Account Engagement administrators can  
+connect directly to Data Cloud, enabling  
+faster audience segmentation and  
+• Plus Edition: $2,750/month, up to  10,000 contacts (billed annually). • Advanced Edition: $4,400/month,  up to 10,000 contacts (billed  annually). 
+• Premium Edition: $15,000/month,  
+Salesforce 
+415 Mission Street San Francisco, CA 94105 T: (800) 667-6389 
+Salesforce.com 
+audience building through generative  AI, improving conversion rates with  targeted messaging and personalizing  advertising campaigns across multiple  channels. 
+Pricing and support 
+• An annual contract is required. • No free trial or other pre-purchase  testing is available. 
+• Four editions are available:  
+• Base editions include 10,000 or  75,000 contacts (depending on  
+the edition) and more contacts are  available at an additional cost. 
+• Growth Edition: $1,250/month, up  to 10,000 contacts (billed annually). 
+up to 75,000 contacts (billed  
+annually). 
+• All packages include access to a help and  training portal (Trailhead) as well as the  Trailblazer user community.  
+• The Standard Success Plan is included  with all Salesforce products and helps  customers achieve goals with self-guided  resources. Premier Support is included  with the Premium edition and available  at an additional cost for other editions  based on client requirements. Additional  resources with Premier Support include  expert coaching, specialized guidance,  24/7 technical phone support, and  business value/technical health reviews. 
+(c) 2025 Third Door Media(r), a Semrush company 56 https://martech.org 

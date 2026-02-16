@@ -1,0 +1,519 @@
+
+The Forrester Wave™:?Intent Data Providers For?B2B, Q1 2025
+
+
+
+
+
+
+
+
+
+The 15 Providers  That Matter Most And How They?
+Stack Up
+
+
+
+February  27, 2025?
+
+By Brett Kahnke with Cristina De Martini, Katie Vincent, Sara Sjoblom, Marissa Fritz
+
+
+
+
+
+
+Summary
+
+
+In our evaluation of intent data  providers for B2B, we identified the most significant ones?and researched, analyzed, and scored them. This report  shows  how each provider?measures up and helps  you select the right one for your needs.
+
+Additional resources are available in the online version of this report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 Forrester Research, Inc. All trademarks are property of their respective owners.?
+For more information, see the Citation Policy, contact citations@forrester.com, or call +1 866-367-7378.
+
+1
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+B2B Intent Providers Are Raising The Bar?
+With Rapidly Advancing Capabilities
+
+The rules of the game have  changed dramatically  since  our previous B2B intent?Forrester Wave™, published in 2023. Increased investment combined with rapid?advancement of technical  capabilities have  redefined what is considered on par for?several key evaluation criteria, while new capabilities are driving competition in areas?that were not even  on most roadmaps two years  ago. Advances in the LLMs that drive?generative AI (genAI) have  fueled  intent capture across over 150 languages and made it?possible to scale  insight capture from unstructured data  sources like audio and video?recordings. Improvements in identity resolution,  including advanced device  ID graphs,?are expanding capabilities to parse account-level intent signals  by contact persona. Our?report reflects  these market  changes as well as feedback from Forrester clients on the?importance of driving intent adoption to maximize their investments.
+
+With these advances in mind, B2B intent data  customers using this evaluation to inform?
+a purchase decision should:
+
+
+•?        Take a fresh look at available data across  geographies outside North America.?Most providers in this evaluation have  invested in increasing their intent offering in?EMEA, APAC, and LATAM. In addition  to increased signal capture in English, most?have introduced the capability to interpret signals  across six to 10 key languages,?with top performers leveraging AI-based translation to understand many times that?many.  While overall capture of non-English  intent is still typically less than 20% of?total signal volume, it has still contributed to significant growth in global data?capture.
+•?        Evaluate growing capabilities  for persona-level insight. While opted-in  contact- level intent is still rare in the market,  persona-level analysis and buying group?prediction are now among  the most hotly contested features. These capabilities?rely on mapping device  IDs, hashed emails, and other  anonymized persistent?identifiers to power  predictions of the individuals responsible  for account-level?signals. This does not typically include personally identifiable information (PII), but?top  performers can provide  insight into the likely size of the potential buying?group, as well as breakdowns of account-level intent by personas using predicted?job level and department.
+•?        Focus on providers with a business model built for your needs. Providers listed?represent four business models with differing strengths. Traditional data providers?offer third-party signals  as a standalone product.  Software  platforms offer signals?as part of a platform subscription while competing on their analytics  and activation
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+capabilities. Campaign execution firms generate signals  in support of marketing?services, rolling the cost into activation fees  or cost per lead. Walled gardens?collect signals  for specific industries directly from their own users on properties?like review sites or user communities with pricing similar to traditional data?providers.
+Evaluation Summary
+
+The Forrester Wave™ evaluation highlights Leaders, Strong Performers, and Contenders?(see Figures 1 and 2). We intend  this evaluation to be a starting point only and?encourage clients to view product evaluations and adapt the findings based on their?priorities using Forrester’s interactive vendor  comparison experience.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+
+
+
+Figure 1
+Forrester Wave™: Intent Data Providers For B2B, Q1 2025
+
+
+
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+
+
+
+Figure 2
+Forrester Wave™: Intent Data Providers For B2B Scorecard, Q1 2025
+
+
+
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+
+
+
+Leaders
+
+6sense
+
+6sense is a large platform provider  with differentiated analytics  and a growing partner?ecosystem that positions it as a central  player in the market.  While several competitors?are rapidly closing the gap, 6sense remains  among  the most innovative players  in the
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+market.
+
+
+•?        Strategy. With an analytics-first strategy, 6sense seeks to set itself apart from most?intent providers as your centralized source for marketing and sales  insights. In?addition to native keyword  intent, a unique  bring-your-own-data model easily?integrates competitor signals  into the core  6sense dataset, allowing clients to?maximize  the value of their total intent investment. Other tech platforms and data?providers prioritize integration with 6sense, providing an ecosystem advantage.?The intent-specific roadmap is a standout, suggesting continued staying power  as?an  innovator.
+•?        Capabilities. Top identity resolution and noise  filtering help power outstanding?intent reporting and insight generation. A high volume of signals  across a wide?range of keywords make 6sense an option for most industries. Detailed buying?cycle analysis tailored  to each  client offering allows precision targeting. A lack of?persona-based insights beyond captured first-party interactions is a rare below-par?score. Data capture combines a publisher network  with several smaller signal?sources, including a small walled garden presence.
+•?        Customer feedback. Customers continue to be impressed with the sophistication?and business value offered  across both marketing and sales  use cases, though?they suggest more data  transparency behind  predictive model scores. Several?references indicate  that new clients should  be prepared for a significant learning?curve in the early stages of implementation.
+•?        Forrester’s take. 6sense is a top-performing option for customers looking for?strong analytics  support and a centralized platform for marketing and sales insight?and activation.
+
+
+View 6sense’s detailed scorecard.
+
+TechTarget
+
+TechTarget (now called Informa TechTarget) is a technology-focused walled garden?provider with a differentiated offering of contact-level intent. The merger of TechTarget?and Informa Tech’s digital business brings significant new data  sources, including the?publisher and partner ecosystem of NetLine, a promising  recent entrant to the intent?market.
+
+•?        Strategy. The combined offerings of the merged company further cement?TechTarget’s leadership position  in multilevel intent insights against accounts,?buying groups,  and contacts. Its core  strategy revolves around industry-specific
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+intent signals  captured from a diverse collection  of owned properties, as well as?online and in-person event  activity. The company has improved the depth of its?account-level signals, a portion of which continue to be attributed to opted-in?contacts. A strong  roadmap includes  work to merge several newly combined?datasets.
+•?        Capabilities. Proprietary data  is the primary differentiator for any walled garden?provider. TechTarget builds on that strength with exceptional buying group?identification, expanded geographic coverage, strong  buying cycle analysis, and?in-depth reporting capabilities within the core  Priority Engine product. Customers?can add strong  persona-based analysis through an additional purchase of the?newly  acquired Intentive product.  A focus on specific industries (primarily?technology and healthcare) prior to the merger does limit the scope of keyword?coverage.
+•?        Customer feedback. Customers tell us that TechTarget has exceptional levels of?customer support and partnership. TechTarget is a Customer Favorite in this?evaluation.
+•?        Forrester’s take. TechTarget remains  the go-to provider  for contact-level intent?insights across the industries it serves and is a compelling choice  for those looking?to expand their intent capabilities globally.
+
+
+View TechTarget’s detailed scorecard.
+
+Intentsify
+
+Intentsify is a campaign execution firm with emerging platform capabilities, offering stiff?competition to the top players  despite entering the market  only six years  ago. It?continues to be well positioned to challenge established players  in the market.
+
+•?        Strategy. Intent is at the core  of Intentsify’s strategy (hence  the name), and it?shows. High-end  analytics, bespoke-for-everyone modeling,  and a significant?investment in R&D help drive differentiation.  The introduction of the Intentsify Orbit?identity graph in 2024 ranks among  the most significant innovations in the space?over the past two years, driving persona-based analysis and improved buying?group prediction. The roadmap of intent-specific features is impressive, though a?smaller  partner ecosystem than other  leaders is a primary area  for improvement.
+•?        Capabilities. Insight generation and persona-based analysis are standout?capabilities, making an upcharge for features powered by Intentsify Orbit a?worthwhile investment for most clients. Like other  Leaders competing on analytics,?Intentsify’s accuracy, noise  filtering, and identity resolution earned top scores.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+Strong growth in geographic coverage is among  the company’s most significant?improvements from our previous evaluation. On the other  hand, available  data?integrations lag peers. Data collection  is primarily bidstream, supplemented by a?B2B content site co-op, a content-sharing tool, and web crawling.
+•?        Customer feedback. Customers highlight Intentsify’s exceptional level of support?and their trust in the quality of its data  insights. They also point out that Intentsify’s?user interface is not yet at the level of top platform partners.
+•?        Forrester’s take. Intentsify is a compelling choice  for customers seeking a do-it- for-you campaign execution partner with high-end analytics  capabilities.
+
+
+View Intentsify’s detailed scorecard.
+
+Bombora
+
+Still the gold standard for account-level intent data  feeds, Bombora  is a traditional data?provider that maintains  its place  among  the Leaders on the strength of its exclusive co- op of B2B websites. While Bombora  data  is available  inside many competitor platforms,?this  evaluation focuses on the capabilities available  when purchasing from Bombora?directly.
+
+•?        Strategy. Bombora’s  partner-focused strategy allows clients to purchase intent?data through a direct relationship, which includes  expanded analytics capabilities,?or through simple data  feeds embedded inside most revenue marketing platforms?and competitive intent offerings. The company has recently focused on scaling?available signals, increasing its co-op size by about  20% and topic coverage by?
+13% over the past  18 months.
+
+•?        Capabilities. Bombora’s  B2B co-op is made up primarily of sites with exclusive?relationships, allowing for a highly unique,  future-proofed dataset. Broad keyword?coverage, expanded geographic reach,  and strong  buying cycle analysis are key?differentiators. The intent-specific reporting available  to direct customers is the?best in this evaluation, along with its ability to deliver data  to suit almost any use?case. An emphasis on account-level intent results  hinders  buying group prediction.
+•?        Customer feedback. Multiple customers cite the quality of Bombora’s  intent data?as the standard by which they measure their other  providers. They point that out?receiving Bombora  data  through a partnership does not offer the same features or?innovation that direct customers receive, and they would like to see a faster?process for evaluating and adding  topics.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+•?        Forrester’s take. The most recognized name  in the intent data  market  remains  a?
+trusted source for high-quality account-level signals  across almost any use case.
+
+
+View Bombora’s  detailed scorecard.
+
+Demandbase
+
+Demandbase is another large platform provider, competing primarily on data,?orchestration, and automation of go-to-market (GTM) processes. One key element of its?positioning is transparency, working to help customers understand how predictive?insights are generated. A tremendous volume of intent signals  and well-rounded?capabilities across the evaluation position  them as a top competitor in the space.
+
+•?        Strategy. Demandbase focuses on maximizing its platform capabilities for?orchestration and automation of marketing and sales  activity as its primary?differentiator. An outstanding ecosystem of data  and software partners?complements its orchestration strategy. The company’s roadmap for intent?development is impressive, and its focus on driving customer adoption earned a?top score.
+•?        Capabilities. Demandbase collects  one of the largest  signal volumes  in the?evaluation, relying primarily on bidstream to drive extensive keyword  coverage. It?offers highly accurate identity resolution capabilities to match those signals to?accounts. Exceptional  data  integration and delivery options  support its positioning?as a full GTM orchestration partner, offering simple connections to most common?revenue technology.
+•?        Customer feedback. Customers praise  Demandbase for the ease of integration?into existing processes and technology and the depth of activation functionality.?They suggest the company could do more to integrate intent insights with other?key data  types  they offer.
+•?        Forrester’s take. Demandbase is built for customers seeking a serious marketing?and sales  execution platform with a depth of intent coverage and strong?complementary data  offerings to support most industries.
+
+
+View Demandbase’s detailed scorecard.
+
+ZoomInfo
+
+ZoomInfo is a major GTM platform player, leveraging its origins as a traditional data?provider to position  its proprietary data  offerings as a competitive differentiator across?its broad  suite of software.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+•?        Strategy. ZoomInfo’s strategy and roadmap are heavily focused on harnessing the?emerging capabilities of AI for data  collection,  analysis, and activation. This?impressive development plan is made possible through the largest  R&D?
+investment of any provider  in this evaluation. An extensive ecosystem of partners?is a suitable complement to its strategic advantage as one of the most entrenched?data providers in B2B.
+•?        Capabilities. A diverse set of collection  methodologies is a standout capability,?ranging from traditional web activity capture to collection  from proprietary?freemium software offerings and human  outreach. While a heavy mix of bidstream?reduces the overall uniqueness of signal, clients highly value the relatively smaller?set of signals  collected through means that no other  provider offers. In recent?years, ZoomInfo has shown  a focus on data  compliance and future-proofing?collection, while identity resolution and data  integration are as advanced as you?would  expect from a top data  company.
+•?        Customer feedback. Customers are most complimentary of ZoomInfo’s?comprehensive data  offerings and ability to make that data  actionable, especially?for sales.  They see room to grow in the company’s customer success capabilities,?noting a too-heavy focus on upsell that reduces the impact of an otherwise?impressive adoption program.
+•?        Forrester’s take. ZoomInfo offers strong  intent capabilities across most industries.?Given the company’s data  and software footprint, existing customers may overlook?its intent capabilities, representing untapped potential to take a closer look at what?they may be missing.
+
+
+    View ZoomInfo’s detailed scorecard. Strong Performers Madison Logic
+
+Madison Logic is a campaign execution firm leveraging a significant investment in intent?data as a differentiated offering for clients. A favorable pricing strategy for data access?makes the company a competitive option for clients otherwise considering more?traditional data  providers.
+
+•?        Strategy. Madison Logic’s intent strategy focuses on supporting white-glove?marketing services, but clients investing  in campaign execution can also access?the  company’s substantial intent data  feed  for their own internal use at no?additional cost. This differentiated pricing strategy is intended to encourage
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+further campaign investment. The company also presents a robust customer?adoption program with account-based marketing (ABM) certification  that includes?best practices for leveraging intent signals.
+•?        Capabilities. Madison Logic is remarkably consistent across its current intent?offering, demonstrating on-par capabilities nearly throughout. Data integration?options are above par, particularly when compared with other  campaign execution?peers. It has doubled the size of its available  intent dataset over the past two?
+years. It collects  a large majority of signals  through a network  of over 2,000?
+partner sites.
+
+•?        Customer feedback. Madison Logic receives outstanding feedback for its full- service  support and ability to make collaborative recommendations to improve?campaign performance. Customers also appreciate the lack of separate platform?and data  fees.
+•?        Forrester’s take. Companies considering a do-it-for-you campaign execution?provider will likely find surprising  value across other  use cases thanks to Madison?Logic’s disruptive  intent pricing.
+
+
+View Madison Logic’s detailed scorecard.
+
+Data Axle
+
+Data Axle has a nearly 50-year history as a traditional data  provider  — the company?rebranded from its previous name,  Infogroup, in 2020. Despite this background, it is?primarily positioned as a campaign execution firm in the intent market.
+
+•?        Strategy. Data Axle goes to market  as a services company, designing and?executing largely bespoke ABM and lead generation campaigns on behalf of?clients. Its extensive partner ecosystem for both data  capture and marketing?activation is a particular strength. Its adoption program is less developed than?those of its closest peers, in part due  to the do-it-for-you nature  of the company’s?intent data  services.
+•?        Capabilities. Data Axle maintains  an individual identity graph,  making it a rare data?provider that plays in both B2B and B2C markets. It successfully leverages this?database of individuals to supplement its capabilities for buying group prediction.?This comes at a cost, however, as its most differentiated capabilities are largely?limited to North America. The company offers strong  identity resolution and data?compliance policies befitting its core  business as a major comprehensive data?provider. An array of collection  methodologies across a business co-op, partner?networks, bidstream, licensed data, and its own campaign exhaust create a
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+diverse set of signal types.
+
+•?        Customer feedback. Customers praise  the quality of data  available  and the?performance of Data Axle’s marketing services but describe its intent reporting as?more manual than most peers.
+•?        Forrester’s take. Data Axle’s data  and campaign services present an intriguing?option for companies looking for a more direct means to identify the likely buying?group driving account-level intent signals, particularly in North America.
+
+
+View Data Axle’s detailed scorecard.
+
+Anteriad
+
+Anteriad is a full-service marketing execution partner that builds highly customized?target databases with a privacy-first approach. Intent is one key element within these?larger datasets, used to help create and activate audiences as part of a broader sales?and marketing data  strategy.
+
+•?        Strategy. Anteriad has made compliant data  collection  a strategic focus and?differentiator, taking more conservative approaches to capturing web browsing?activity than most peers. Its acquisition of global sales  support provider BNZSA in?
+2023 has allowed  it to supplement more traditional signal capture techniques with?
+compliant data  through direct human  interaction in 26 languages.
+
+•?        Capabilities. Data compliance and future-proofed collection methodologies?received top scores, along with robust  capabilities for data integration and delivery?that are competitive with leading  traditional data  providers. The offering lacks?detailed buying cycle or persona-based analysis, and the overall intent dataset?lacks a high percentage of signals  that are likely to be unique. Anteriad launched?international intent in 2024. While customers took note  of the promising  data?quality outside North America, the overall volume of signals collected in other?regions is not yet on par with peers.
+•?        Customer feedback. Customers describe Anteriad’s execution as highly targeted,?and multiple references praise  both its transparency and affordability. The most?common ask is for improvements to its platform to offer greater data access,?reporting, and visibility.
+•?        Forrester’s take. Customers looking for highly customized, targeted approaches?to marketing and sales  campaign execution should  consider Anteriad, particularly?those with a highly privacy-conscious corporate culture.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+View Anteriad’s detailed scorecard.
+
+Dun & Bradstreet
+
+Dun & Bradstreet is a traditional data  provider  that offers D&B Buyer Intent either  as a?standalone data  product or delivered inside one of several software platforms, such as?Rev.Up ABX and Rev.Up ABX for Sales.
+
+•?        Strategy. Dun & Bradstreet pursues a comprehensive data  provider  strategy, with?intent data  offered  as a complement to its full suite of company, contact, financial,?and  technographic data  products. The breadth and depth of data  types that can?be combined within its tools supports this vision. The lack of clear focus and?prioritization of intent among  this broad  product set is reflected in below-par?scores for innovation  and roadmap.
+•?        Capabilities. Dun & Bradstreet offers outstanding data  compliance across all its?data  products. On-par capabilities for reporting, insight generation, and data?integration assume clients are leveraging D&B Buyer Intent inside one of the?available platform products. The company does not currently offer persona-based?analysis. It sources intent data  through a large partner publisher network,  data  co- ops, and other  licensed sources, though the relative breakdown of these signal?types is unclear,  resulting  in a below-par score for uniqueness of signals.
+•?        Customer feedback. Customers praise  Dun & Bradstreet for the quality and?variety of data  available, noting its capacity  to serve  as their primary data  provider?across data  types  and its ability to blend  those data  types  smoothly inside its?platforms. Dun & Bradstreet did not provide  reference customers for this?evaluation.
+•?        Forrester’s take. Dun & Bradstreet’s intent is best  positioned as an added value?
+for clients with an existing D&B relationship, particularly those using or considering?
+the company’s CDP offering or one of its execution platforms.
+
+
+View Dun & Bradstreet’s detailed scorecard.
+
+RollWorks
+
+RollWorks is a platform provider  offering intent in support of its core  capability around?digital advertising. Competitive pricing and simplicity of purpose are its primary selling?points.
+
+•?        Strategy. RollWorks’ strategic vision for intent data  is limited to its impact on?
+campaign execution and digital ads in particular. A focus on simplicity contributes
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+to a less detailed future roadmap than peers. The highlight of its strategy is a?highly competitive pricing model, offering a flat platform fee with no data  caps, no?limits on marketing seats, and five sales  insights seats included.  The platform fee?also incorporates Bombora  data, with an unusually large number of topics?included in the base price.
+•?        Capabilities. Aside from the embedded Bombora  data, RollWorks’ own keyword?intent dataset is almost entirely bidstream, which offers a reasonable volume but?lacks a source for significantly unique  signals. Buying cycle analysis and buying?group prediction are on par with the market,  though the platform does not offer?persona-based analysis. Uniqueness of signals, noise  filter capabilities, reporting,?and integration currently lag other  platform providers in this evaluation.
+•?        Customer feedback. Customers repeatedly highlight the ease of use in leveraging?RollWorks’  intent for their advertising. They would like to see continued platform?development, especially improved reporting and analytics  capabilities.
+•?        Forrester’s take. RollWorks offers a simple, effective, and affordable intent data?option for customers with a need for ad platform capabilities, especially if they?have the internal analytics  skills to take advantage of the available  intent feed for?other  use cases.
+
+
+View RollWork’s detailed scorecard.
+
+Contenders
+
+G2
+
+G2 is a walled garden provider  of software-focused intent generated from its owned?review sites. Positioned as a complementary provider, G2 partners with most platform?players to deliver intent inside those products; its most direct competitors are other?walled garden offerings.
+
+•?        Strategy. G2 sees itself evolving into a data  company, providing key insights to?drive demand generation, product positioning,  and market  intelligence. AI?experimentation is more focused on ease of use to boost user activity (and signal?volume)  than to change the way intent is collected or activated. Receiving on-par?strategy scores across the board,  its vision, roadmap, and partner strategy are all?well aligned  to its go-to-market strategy as a complementary partner to most other?providers in this evaluation.
+•?        Capabilities. The nature  of G2’s focused industry offering of insights collected?
+from software reviews  makes it difficult to achieve an on-par score for criteria such
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+as signal volume, keyword  coverage, or collection  methodologies. On the flip side,?its offering achieved top scores for uniqueness of signal and strong data?integration and delivery options.  The lack of persona-based analysis and buying?group prediction appear to be a conscious decision to offer most content without?requiring opt-in consent.
+•?        Customer feedback. G2’s reference customer, as well as other  current customers?interviewed, leverage G2 as a secondary provider, supplementing their primary?intent  stream.  They appreciate G2’s ability to offer highly specific insights versus?its competitors and the availability of later-stage buying signals. G2 provided only?one  reference customer for this evaluation.
+•?        Forrester’s take. G2 is well positioned as a value-add intent source for software?
+companies and likely already  offers an integration to your primary provider.
+
+
+View G2’s detailed scorecard.
+
+DemandScience
+
+DemandScience is a campaign execution firm that recently  announced a merger with?Terminus, an ABM platform provider. The combined offering will blend?DemandScience’s proprietary intent data  offering with expanded platform execution?capabilities.
+
+•?        Strategy. DemandScience historically placed less emphasis on platform?investment than peers, focusing  instead on a strategy of highly customized,?customer-specific intent to drive campaigns. That vision has now changed to?include stronger platform capabilities and a larger, integrated dataset. This?strategy earned on-par scores for vision and roadmap but lacks a clear path for?innovation  in the near  term. The current  partner ecosystem and adoption?programs lag campaign execution peers. A recent decision to simplify outcome- based pricing and eliminate  the platform fee is an intriguing change of pace for a?company that will be competing as a platform player.
+•?        Capabilities. DemandScience’s previous platform is less developed than most?peers due  to its focus on do-it-for-you demand generation services. Lagging?scores across several related criteria such as reporting, data integration, and?buying cycle analysis may be addressed by its coming roadmap. The company?currently offers persona-based analysis. Intent signals  are primarily bidstream,?supported by publisher co-op data. The size and uniqueness of this dataset still?lags peers, but the combined intent feed  will warrant reevaluation.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+•?        Customer feedback. Customers appreciate DemandScience’s customer service?approach and describe the company as an affordable option that produces solid?ROI.
+•?        Forrester’s take. While the potential of the combined company is yet to be seen,?DemandScience is currently a competitively  priced  option for companies seeking?strong return from an intent-based revenue marketing partner.
+
+
+View DemandScience’s detailed scorecard.
+
+TrustRadius
+
+TrustRadius  is a walled garden provider  of intent gathered from its own software review?site.  TrustRadius  focuses on a familiar strategy among  tech-focused walled gardens,?providing a hard-to-find  set of complementary signals  as your secondary or tertiary?provider.
+
+•?        Strategy. TrustRadius  focuses its strategic efforts on driving traffic to its review?pages, branding itself as the most trusted software review site in the market. This?creates strategic hesitation around data  collection  techniques that may feel?intrusive to users,  though its lack of focus on innovation  is at odds  with a?significant  contribution from intent products to the company’s revenue. While its?intent-specific strategy is not highly differentiated from peers, it does offer a well- developed partner ecosystem and solid adoption support.
+•?        Capabilities. TrustRadius  offers a no-frills intent product focused on delivering?detailed activity data  at the account level to clients. A highly unique signal set and?future-proofed collection  techniques earned high scores, though criteria focused?on signal volume, coverage, and analytics  capabilities are below par.
+•?        Customer feedback. Customers value TrustRadius’ exclusive  signals  and intel on?competitive evaluation and note  its strong  customer service.  Most do not consider?TrustRadius to be a direct competitor to their primary intent providers. TrustRadius?did not provide  reference customers for this evaluation.
+•?        Forrester’s take. TrustRadius  provides valuable  insights for software companies?that can afford to invest in multiple sources of intent signals, particularly for those?considered with comparison shopping behaviors among their prospects or?existing  customers.
+
+
+View TrustRadius’ detailed scorecard.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+Spiceworks  Ziff Davis
+
+Spiceworks Ziff Davis (SWZD) operates in a hybrid model: part campaign execution firm?and part walled garden. The company captures exclusive  signals  from a variety of?owned properties, though most signals  come  from more traditional sources.
+
+•?        Strategy. SWZD has an interesting strategic approach to intent, combined with a?logical roadmap, but a lack of prioritization and investment to date  has kept the?offering from fully realizing its potential.  The company received below-par scores?for partner ecosystem, adoption, and a somewhat opaque pricing strategy. SWZD?brings a promising  story into the Wave evaluation, but execution against that?strategy to date  has been incomplete.
+•?        Capabilities. The most impactful element of the company’s current  offering is the?diversity of the collection  methodologies it employs.  The bulk of the data comes?from the bidstream, but proprietary signals  are captured from an impressive range?of owned properties, including the Spiceworks Community, Spiceworks News and?Insights, Spiceworks Cloud Help Desk, PCMag, and Mashable. The dataset now?includes a significant volume of data  from recently  acquired CNET properties,?though this work was not completed in time to be reflected in data coverage?scores. With other  planned product enhancements not yet complete, however,?scores still lagged across multiple categories related to analytics  and reporting,?data compliance, and integrations.
+•?        Customer feedback. Customer references point out that while SWZD still has work?to do to fully productize its offering, the insights available  are impressive, and the?service and support are strong.  Only one of SWZD’s reference customers?responded to Forrester’s outreach for this evaluation.
+•?        Forrester’s take. SWZD offers an enticing  mix of intent signal types  that will be?valuable to tech-focused clients with the internal marketing and analytics?capabilities to fully act on them.
+
+
+View Spiceworks Ziff Davis’ detailed scorecard.
+
+Evaluation Overview
+
+We evaluated providers against three  categories:
+
+
+•?        Current offering. Each provider’s position  on the vertical axis of the Forrester?
+Wave graphic  indicates the strength of its current  offering.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+•?        Strategy. Placement on the horizontal  axis indicates the strength of the providers’?
+strategies, including elements such as vision and innovation.
+
+•?        Customer feedback. A halo on a provider’s marker indicates above-average?customer feedback relative to the other  evaluated providers. A double halo?indicates outstanding customer feedback: We consider the provider  to be a?Customer Favorite. As part of this evaluation, we speak with up to three customers?of each  provider. We also consider customer input from our previous research.
+
+Vendor Inclusion Criteria
+
+Each of the providers we included in this assessment has:
+
+
+•?        Second- or third-party proprietary intent data. Providers  must demonstrate their?own  proprietary means of collecting  either  second- or third-party intent signals that?are made available  to all intent clients. This does not include signals  captured on?behalf of clients for their exclusive  use. Forrester did not include pure data?aggregators or resellers that don’t also offer their own proprietary data. We gave?preference for inclusion toward  providers that add a significant volume of?proprietary intent signals  to the market.
+•?        Substantial intent data revenue.  The provider  has at least $10 million in annual?revenue from customers leveraging its intent data  offerings in the past four?quarters.
+•?        Mindshare among Forrester’s enterprise  clients. Forrester clients frequently?mention the offering as one they are considering or shortlisting  prior to a?purchase. We have  heard about  the provider’s intent offering from our clients in?the form of inquiries, advisories, consulting engagements, and other interactions?over the past  12 months.  Other providers frequently  mention  this provider  as a?competitor in the market.
+
+Other Notable Vendors
+
+The Forrester Wave evaluation is an assessment of the top providers in the market; it?doesn’t  represent the entire  vendor  landscape. You’ll find more information about this?market and additional  providers that Forrester considers to be notable for enterprise?clients in our corresponding report: The Intent Data Providers  For B2B Landscape, Q3?
+2024.
+
+B2B intent data  customers may be familiar with or considering the following providers,?
+which appeared in our 2023 Wave, but which we did not evaluate in this report:
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+•?        Foundry. The intent product we evaluated in 2023 is no longer  generally available?for  sale; it’s now offered  exclusively as a benefit  to members of Foundry’s partner?network.
+•?        PharosIQ (formerly MRP). MRP announced a merger with CONTENTgine in 2024,?repositioning the combined organization as pharosIQ,  a broader marketing?services firm that does not position  itself to compete as a full-service intent data?provider.
+Supplemental Material
+
+The Forrester Wave Methodology
+
+A Forrester Wave is a guide  for buyers  considering their purchasing options  in a?technology marketplace. To offer an equitable process for all participants, Forrester?follows The Forrester Wave™ Methodology to evaluate participating vendors.
+
+In our review, we conduct primary research to develop a list of vendors to consider for?the evaluation. From that initial pool of vendors, we narrow our final list based on the?inclusion criteria. We then gather details  of product and strategy through a detailed?questionnaire, demos and briefings, and interviews  with customers (vendors may?provide up to three  reference customers; we also consider feedback from other?customers we’ve spoken with). We use those inputs, along with the analyst’s?experience and expertise in the marketplace, to score vendors, using a relative rating?system that compares each  vendor  against the others in the evaluation.
+
+We include the publishing  date  (quarter  and year) clearly in the title of each Forrester?Wave report. We evaluated the vendors participating in this Forrester Wave using?materials they provided to us by December 6, 2024 and did not allow additional?information after that point. We encourage readers to evaluate how the market  and?vendor offerings change over time.
+
+In accordance with our vendor  review policy, Forrester asks  vendors to review our?findings  prior to publishing  to check  for accuracy. We score vendors that met our?defined inclusion criteria but declined to participate in or contributed only partially to?the  evaluation in accordance with our vendor  participation policy and publish their?positioning along with those of the participating vendors.
+
+Dun & Bradstreet and TrustRadius  declined to participate in the full Forrester Wave?evaluation process. For vendors that are not full participants, Forrester uses primary?and  secondary research in its analysis. For example, we might use public information,?data gathered via briefings, and independently sourced customer interviews  to score
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+the vendor.  We may ask the vendor  for an abbreviated briefing and/or  to provide?
+reference customers. We may also rely on estimates to score vendors.
+
+Integrity Policy
+
+We conduct all our research, including Forrester Wave evaluations, in accordance with?
+the integrity policy posted on our website.
+
+Forrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.
+For more information, see the Terms Of Use Policy and Ways To Share  Research.
+
+
+
+
+We help business and technology leaders  use?
+customer  obsession to accelerate growth.
+
+
+
+
+
+
+
+Obsessed With Customer Obsession
+
+At Forrester, customer obsession is at the core  of everything we do. We’re on your?
+side and by your side to help you become more customer obsessed.
+
+
+
+Research
+
+Accelerate your impact on the?market with a proven  path to?growth.
+
+•?        Customer and market?
+dynamics
+
+•?        Curated tools and?
+frameworks
+
+•?        Objective advice
+
+•?        Hands-on guidance
+
+Learn more.
+
+Consulting
+
+Implement  modern strategies?
+that align and empower teams.
+
+•?        In-depth strategic projects
+
+•?        Webinars,  speeches, and?
+workshops
+
+•?        Custom  content
+
+Learn more.
+
+Events
+
+Develop  fresh perspectives, draw?inspiration from leaders, and?network with peers.
+
+•?        Thought  leadership,?
+frameworks, and models
+
+•?        One-on-ones with peers?
+and analysts
+
+•?        In-person and virtual?
+experiences
+
+Learn more.
+
+
+
+
+
+
+Contact Us
+
+Contact  Forrester at www.forrester.com/contactus. For information on hard-copy or electronic?reprints, please contact your Account Team or reprints@forrester.com. We offer quantity?discounts and special  pricing for academic and nonprofit institutions.
+Forrester Research, Inc., 60 Acorn Park Drive, Cambridge, MA 02140 USA Tel: +1 617-613-6000  | Fax: +1 617-613-5000  | forrester.com
+
+
+
+
+
+
+
+
+
+

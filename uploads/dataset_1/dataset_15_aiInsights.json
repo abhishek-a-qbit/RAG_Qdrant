@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "15_aiInsights",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:26.967372"
+      }
+    ]
+  },
+  "data": {
+    "aiPositioning": {
+      "aiRole": "core",
+      "positioningText": "AI serves as the foundational technology powering every major platform capability through proprietary 6AI engine"
+    },
+    "aiLabel": {
+      "primaryLabel": "AI-Powered Revenue Intelligence",
+      "confidence": "high"
+    },
+    "businessImpact": {
+      "categories": [
+        "Predictive Analytics",
+        "Automation",
+        "Intelligence"
+      ],
+      "summary": "AI drives account prioritization, campaign optimization, and seller productivity"
+    },
+    "aiTypes": [
+      "Predictive Analytics",
+      "Generative AI",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "aiWhereItShowsUp": [
+      "6AI proprietary AI engine powers predictive modeling and account scoring",
+      "AI Email Agents automate personalized outreach and meeting booking",
+      "Sales Copilot delivers AI-driven account prioritization and research",
+      "Generative AI capabilities for ad creative and content generation",
+      "AI-powered noise filtering and identity resolution for signal accuracy"
+    ],
+    "trustAndControls": {
+      "transparency": "Model explainability with confidence scores",
+      "controls": [
+        "User governance",
+        "Prediction transparency"
+      ]
+    },
+    "summary2Para": {
+      "para1": "Artificial intelligence serves as the foundational technology powering every major platform capability. The proprietary 6AI engine processes massive data volumes, identifies patterns humans couldn't spot manually, and automates decisions that previously required expert judgment.",
+      "para2": "AI capabilities span predictive modeling, autonomous email agents, sales copilot assistance, generative content creation, and intelligent workflow automation. These features work together to transform raw signals into actionable intelligence that drives revenue outcomes."
+    }
+  }
+}

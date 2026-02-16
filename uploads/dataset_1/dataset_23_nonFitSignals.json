@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "23_nonFitSignals",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:07:12.889397"
+      }
+    ]
+  },
+  "data": [
+    {
+      "summary": "The wealth of data can sometimes be a little dense at first: it takes a little time to get used to all the features. More customization of certain alerts would be useful, notably to avoid duplicates or further refine relevance. Nothing blocking, but a few UX improvements would make the experience even smoother.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "I have not found really anything that I dislike about the intelligence of the system at this time.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Like other contact acquisition tools, you cannot trust the data completely. I have had to supplement 6Sense by manual prospecting with LinkedIn. It's also frustrating that we cannot track intent down to the specific contact, but I understand from a data privacy perspective.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "I find the contact data coverage and accuracy to be more limited compared to other tools like ZoomInfo. The user interface can feel less intuitive, which makes it harder to find the right contacts or insights quickly. The platform can sometimes feel overly complex for basic prospecting needs, requiring more clicks to get to actionable information.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "There\u2019s a learning curve, especially for teams new to ABM or predictive tools. Some of the functionality, like segments and journeys, can be difficult to fully leverage without heavy support or training.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "The interface can feel a bit complex at first, especially during implementation. There are many features to explore, so it takes time to become fully confident using everything. However, once set up, the overall experience is efficient and valuable.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Sometimes the platform can feel a bit complex and takes time to fully understand. The user interface isn\u2019t always intuitive, especially for new users. Also, some of the data syncs or integrations can lag or require extra troubleshooting.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "The buyer stage predictions are extremely valuable, but at times they can be off for niche industries or very small target segments. More transparency into how those stages are calculated would help us fine-tune our targeting.",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Give me more leads!; Sometimes hard to navigate at the start; Sometimes prospects wouldn't know what I was talking about",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Reporting; Logging in without SSO is a huge pain; Contact info isn't the greatest for our industries",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Data enrichment; Account matching; Analytics",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "UI Interface - Its way too dull and boring; Data load time is so slow that at times it doesnt feel productive at all; Make it more user friendly; Reporting and Dashboard needs to be enhanced by adding multiple functionalities for performing calculations at detailed level",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Analytics Tracking; Lower-funnel conversion opportunity; Broader retargeting scopes outside of traffic",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "UI is not friendly; Support is a bit slow; Training material is not that great",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Sometimes there are general 6sense notifications that are not the most helpful, more quality would be great; 6sense can be delayed on notifications sometimes, instant notifications when someone clicks on a website link would be cool; more insight into the specific terms being searched by a prospect would help too",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "Workflows need a lot of work; Contact enrichment for international language; Overall international setup",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "6sense Display Ads Performance. Hard to track impact and have found we don't perform very well; Contact-Based Lists Instead of just Account-Based Lists; Better matching to Google Ads",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    },
+    {
+      "summary": "updates earlier in the morning; more reliable data",
+      "evidence": [
+        "Reviews"
+      ],
+      "mentionCount": 1,
+      "sourceType": "Reviews"
+    }
+  ]
+}

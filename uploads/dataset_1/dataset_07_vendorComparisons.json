@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "7_vendorComparisons",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:39.026744"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "vc_001",
+      "competitorName": "terminus comparison",
+      "comparisonTitle": "6sense vs terminus comparison",
+      "comparisonDimensions": [],
+      "claims": [],
+      "linkedCapabilityIds": [],
+      "source": {
+        "type": "SEO_keywords"
+      }
+    },
+    {
+      "id": "vc_002",
+      "competitorName": "rollworks",
+      "comparisonTitle": "6sense vs rollworks",
+      "comparisonDimensions": [],
+      "claims": [],
+      "linkedCapabilityIds": [],
+      "source": {
+        "type": "SEO_keywords"
+      }
+    },
+    {
+      "id": "vc_003",
+      "competitorName": "demandbase",
+      "comparisonTitle": "6sense vs demandbase",
+      "comparisonDimensions": [],
+      "claims": [],
+      "linkedCapabilityIds": [],
+      "source": {
+        "type": "SEO_keywords"
+      }
+    },
+    {
+      "id": "vc_004",
+      "competitorName": "demandbase comparison",
+      "comparisonTitle": "6sense vs demandbase comparison",
+      "comparisonDimensions": [],
+      "claims": [],
+      "linkedCapabilityIds": [],
+      "source": {
+        "type": "SEO_keywords"
+      }
+    },
+    {
+      "id": "vc_005",
+      "competitorName": "zoominfo",
+      "comparisonTitle": "6sense vs zoominfo",
+      "comparisonDimensions": [],
+      "claims": [],
+      "linkedCapabilityIds": [],
+      "source": {
+        "type": "SEO_keywords"
+      }
+    }
+  ]
+}

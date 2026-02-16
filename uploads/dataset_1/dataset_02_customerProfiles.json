@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "2_customerProfiles",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:16.668880",
+        "reason": "Final schema-compliant dataset"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "cust_001",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Business Services",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/business-services"
+      ]
+    },
+    {
+      "id": "cust_002",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Financial Services",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/financial-services"
+      ]
+    },
+    {
+      "id": "cust_003",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Manufacturing",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/manufacturing"
+      ]
+    },
+    {
+      "id": "cust_004",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Technology",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/technology"
+      ]
+    },
+    {
+      "id": "cust_005",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Transportation Logistics",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/transportation-logistics"
+      ]
+    },
+    {
+      "id": "cust_006",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": "Marketing Ideas",
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/solutions/manufacturing/marketing-ideas"
+      ]
+    },
+    {
+      "id": "cust_007",
+      "companyName": "Customer Stories",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories"
+      ]
+    },
+    {
+      "id": "cust_008",
+      "companyName": "6sense",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/reltio-saves-1098-hours-of-bdr-time-with-6senses-ai-email-assistant"
+      ]
+    },
+    {
+      "id": "cust_009",
+      "companyName": "How Sumo Logic Amps Up Enterprise Sales with 6sense Insights",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/how-sumo-logic-amps-up-enterprise-sales-with-6sense-insights"
+      ]
+    },
+    {
+      "id": "cust_010",
+      "companyName": "Revolutionizing ABX Strategy",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/revolutionizing-abx-strategy-jaggaers-journey-with-6sense-and-2x"
+      ]
+    },
+    {
+      "id": "cust_011",
+      "companyName": "Sage Transforms Their Go",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/sage-transforms-their-go-to-market-strategy-with-6sense"
+      ]
+    },
+    {
+      "id": "cust_012",
+      "companyName": "6sense Increases FullStory's Net",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/6sense-increases-fullstorys-net-new-opportunities-by-27-in-one-quarter"
+      ]
+    },
+    {
+      "id": "cust_013",
+      "companyName": "Ivanti Drives Engagement and Increases Win Rates by 154% with 6sense",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/ivanti-drives-engagement-and-increases-win-rates-by-154-with-6sense"
+      ]
+    },
+    {
+      "id": "cust_014",
+      "companyName": "KBX Logistics Sees 318% More Pipeline in Just One Quarter with 6sense",
+      "companyDomain": null,
+      "isNamedCustomer": true,
+      "industry": null,
+      "segment": null,
+      "region": null,
+      "country": null,
+      "rolesInvolved": [],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "https://6sense.com/customer-stories/kbx-logistics-sees-318-more-pipeline-in-just-one-quarter-with-6sense"
+      ]
+    },
+    {
+      "id": "cust_015",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Corporate Sales Development"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_016",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Business Development Representative"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_017",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Account Development Executive"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_018",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Sales development representative"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_019",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Associate Account Executive"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_020",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Outboud Business Development Representative"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_021",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Sr Manager - Digital Marketing, Programs"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_022",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Senior Manager, Integrated Campaigns"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_023",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "VP, Digital Marketing"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_024",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Global Account-Based Marketing Manager"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_025",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Enterprise (> 1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "PPC leader"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_026",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Senior RevOps Analyst"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_027",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Global Campaign and Account Based Marketing Manager"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_028",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Small-Business (50 or fewer emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "MarTech and Automation Team Lead"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_029",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "Mid-Market (51-1000 emp.)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "Sr, manager marketing operations"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "G2"
+      ]
+    },
+    {
+      "id": "cust_030",
+      "companyName": null,
+      "companyDomain": null,
+      "isNamedCustomer": false,
+      "industry": null,
+      "segment": "SOCi (201-500 employees)",
+      "region": null,
+      "country": null,
+      "rolesInvolved": [
+        "AE in Sales"
+      ],
+      "mentionedFeatures": [],
+      "metrics": [],
+      "quotes": [],
+      "isNewsWin": false,
+      "sources": [
+        "TrustRadius"
+      ]
+    }
+  ]
+}

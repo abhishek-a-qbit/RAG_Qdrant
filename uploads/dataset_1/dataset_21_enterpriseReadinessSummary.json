@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "21_enterpriseReadinessSummary",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:07:12.886682"
+      }
+    ]
+  },
+  "data": {
+    "summary": "Enterprise-scale platform with native integrations to major CRM/MAP platforms, multi-channel orchestration capabilities, and comprehensive support resources including partner ecosystem and customer community",
+    "inputs": [
+      "securityCompliance",
+      "integrations",
+      "vendorCapabilities",
+      "supportResources"
+    ]
+  }
+}

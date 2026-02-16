@@ -1,0 +1,762 @@
+﻿B2B Martech Vendor Spotlight Report 
+Account-Based Marketing 
+26 
+leading 
+ABM vendors profiled and  rated!
+2023 
+B2BMARKETING.NET 
+Introduction 
+About the Martech Vendor  Spotlight Report series 
+It’s hard to imagine the world of B2B marketing without martech. It has    
+been one of the primary drivers of transformation in the profession for  
+almost two decades, and continues to accelerate in terms of scope and  
+consequently potential. But the explosion in the number of vendors  
+leads to a bewildering array of products and solutions for even the  
+most technologically proficient marketers – it’s already a complex  
+environment, and it’s progressively becoming harder and harder to  
+assess what’s available and (more important still) what’s most relevant for  
+specific needs and use cases. That’s precisely the problem that we’ve  
+tried to address in launching this series. 
+Joel Harrison  Editor-in-chief at B2B Marketing 
+Each report will zero in a particular technology category or use case  area and assess the vendors within it based on a selection of carefully  chosen set of criteria. Why are we examining the vendors rather than  
+technologies themselves, you might reasonably ask? Surely it’s the  product that you’re actually buying, and should therefore need to know  about? Well, it’s been long understood by technology analysts such as  Peter O’Neill, the author of this report, that it’s the vision of the vendor  itself, plus its ethos and ways of working that are most critical to success  in the implementation of martech on a strategic basis. 
+No matter how seductive or exciting the functionality, marketers are  not just buying kit – they are buying into a long term partnership, which  requires two way alignment and commitment. The insights in this report  will give potential buyers an unrivalled view of the solutions in this  key category, and as such will be an invaluable resource in a potential  purchase process. I hope it helps you make a better, more informed  decision about tech for your future ABM needs and enables you to  manage your ongoing marketing transformation.  
+Page 1 Martech Vendor Spotlight Report: Account-Based Marketing
+Contents 
+1. ABM market background and context 3-4 2. Assessment criteria 5 3. Enhanced vendor profiles 6-16 4. A-Z standard vendor profiles 18-39 5. MVS ABM tracker 40 6. Analyst Bio 41 7. Other reports in MVS series 42 8. About B2B Marketing and Propolis 43 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 2
+ABM market background and context 
+ABM has been a long-established marketing/sales methodology at business services companies,  where success depends so much on personal empathy and the relationship. The trend towards digital  marketing, tooled by technology advances in website and general data analytics, now encourages  almost all B2B businesses to adopt an ABM strategy based on the collection of behavioral and profile  data about individual buying decision makers.  
+The shift to more digital marketing channels has been accompanied by the adoption of more customer centric or even personalized content marketing; and a definite shift to more marketing programs based  upon the needs of accounts as opposed to individual contacts. In parallel, because of the spread of  ecommerce preferences into B2B buying, there has also been a tectonic shift of the selling motion itself  in many B2B businesses, away from the sales organization to digital programs. 
+  
+Page 3 Martech Vendor Spotlight Report: Account-Based Marketing
+During the COVID-19 disruption, those companies who did not have an established account-based  marketing (ABM) strategy found that they were not quick enough to pick up changes in the behavior and  preferences of their target customers. So, there is a clear reaction across many B2B sectors to planning  new investments in ABM technologies such as predictive analytics, advertizing retargeting and account-profiling. 
+The most-early adopters of ABM, and therefore the most experienced practitioners, are to be found in  the services and software industries. But now these technologies can also be found in the B2B financial  services and healthcare companies and increasingly, across the manufacturing sectors.
+ABM data programs can then be used to support one  
+or more of the following business processes: 
+• Post localized contextual content marketing programs to profiled visitors. 
+• Send personalized/specific digital marketing content to individual prospects. 
+• Capture prospects who may have left the website unsatisfied by re-targeting.  
+• Gather and calculate “propensity to buy” data (per company or prospect) 
+and provide this data to sellers.  
+• Collate individual digital behavior into an aggregation across a buying team to provide more guidance to marketing and sales. 
+ABM is first and foremost a strategy. It first needs to be agreed as such across the company with the  necessary organization and processes set up. And it is then implemented across all aspects of marketing  and sales, including digital marketing where the technology described in this report can be applied.  
+Adoption of ABM is an important signal of marketing and sales alignment. Sales works on accounts - lead  generation at a contact level is a neophyte marketing output and considered essentially useless by sales. 
+The Martech Vendor Spotlight for Account-Based Marketing (ABM) is a broad mix of vendors with a wide  variety of claims: data collection and analytics, targeted advertizing, marketing campaign orchestration,  enabling intelligent engagement, and even sales enablement. ABM is a purely B2B imperative – many  people would even say B2B marketing is ABM. But others would promote account-based marketing and  selling. 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 4 
+Assessment criteria 
+In addition to providing useful information about the vendors in this landscape, this report will also  include an analysis and assessment of each vendor based upon four important criteria. These criteria  are critically important to potential buyer teams when evaluating and shortlisting vendors. The stress  being on CUSTOMER SUCCESS more than individual product features. These are the criteria: 
+› Market Momentum Here, we have assessed how well a vendor helps prospective buyers to  understand the solution offering and how it fits into their environment. Vendors scoring highly  in this category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors.  
+› Customer Focus Almost all software solutions are now delivered as a service and the most  successful SaaS vendors are those who help their clients on an ongoing basis, not just in response  to support calls. They invest heavily in customer success resources, including dedicated staffing and management attention, as well as information and training around the solution.  
+› Price vs Value As with any business investment, marketing executives need to be assured that the  investments they make in technology are providing an appropriate payback. At the minimum,  vendors can help their clients calculate the return-on-investment after a period. More mature SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success The true test of a business partnership is the commitment from a vendor to supporting the integration of their system with whatever the client has in place already. This attention to integration detail results not only in a smoother overall system, with no media breaks, but also ideal user adoption and application longevity.  
+Our scoring is based upon general desk research, background interviews with B2B marketers and a website review by an experienced industry analyst. We have also interviewed the vendors in this  report and their replies and data provided will inform the scores we allocate in the vendor profile. We score each criterion as Strong, Good, Medium, or Low.  
+Page 5 Martech Vendor Spotlight Report: Account-Based Marketing
+Enhanced vendor profiles
+1. Act-on 
+2. Expandi 
+3. TechTarget 
+4. Trust Radius 
+5. MRP 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 6 
+1. Vendor:    
+PROFILE:
+Founded in 2008 and based in Portland, OR, USA, Act-On has more than 4,000 customers globally. It continues  to be a favored vendor to replace failed first-generation lead management projects. It helps clients mature from  email marketing, through multichannel campaigning, to ultimately become “Adaptive Marketing Pros” with  complete processes incorporating sales and marketing. 
+Act-On focuses its messaging on the insurance and financial services, business services, manufacturing, and  high-tech sectors. For those target markets, the vendor deploys sales playbooks and industry-specific agencies.  It also has dedicated content marketing and events for each industry. 
+› Market Momentum 
+Act-On sells directly from its offices in the US and UK, plus indirectly through nearly 100  partners, including 20 in EMEA. As well as a direct sales programs, Act-On leverages  
+the partner ecosystems of leading players of adjacent markets like Microsoft, NetSuite,  Zendesk Sell, and SugarCRM. It also has some lucrative white-label distribution  agreements in specific industries. 
+› Customer Focus 
+The vendor enjoys a high 95% customer retention rate with a customer success team that  is just as large as their sales team. The company has over 170 employees and has been in  business for over 12 years now. It is probably the only vendor left focused solely on marketing  automation platforms and most of its customers use it for their ABM programs.  
+› Price vs Value 
+Act-On is unique as a SaaS vendor due to its active contacts pricing model. Active contacts  are the number of contacts a client engages within a given month and not the size of their  contact database which is the case with other solutions. Typically, the number of active  contacts is 40-50% of the total database each month, so the fact that Act-On fees are based  on the volume of active contacts fits makes the Price vs Value ratio more reasonable. 
+› Implementation Success 
+Act-On has a strong team of knowledgeable pre-sales consultants plus several  implementation partners. The vendor maintains a customer community where customers  can share ideas with each other while the website also includes extensive other educational  and community resources. 
+GOOD STRONG 
+STRONG GOOD 
+Page 7 Martech Vendor Spotlight Report: Account-Based Marketing 
+  
+
+Interview with Jeff Day, SVP of Marketing Act-On, conducted by  Peter O’Neill, lead analyst at B2B Marketing and Propolis.
+PON: Jeff, please describe your vision of B2B marketing today and how it will develop in the future. 
+JD: Well, marketers have been buying technology for many years now and there has been a phase of  consolidation to suite of applications offered by the big five martech vendors who have been on acquisition  sprees. Now, customers are complaining about too much complexity and a shortage of skills to run the stuff,  leading to a limit on how much teams can get done. I believe that will drive a swing of the pendulum back to  best of breed solutions. We see AI becoming an integral part of all future marketing automation solutions. We  call it AI-driven everything because we are embedding AI technology directly into all our products – we do  not offer a separate AI module like others do. I think that AI functions like chatbots will become ubiquitous, a  critically important channel of communication for the future.  
+Overall, I believe we will see the volume of outreach (email, social, calls) from B2B brands decrease-- because, let’s face it, we all get way too much today--but through AI the outreach will be higher quality, more  personalized, targeted, and timely. 
+PON: That would imply that ABM will change in the future as well. Is that true? 
+JD: We have been helping our marketing automation clients do account-based analysis, monitoring and  tracking for years now. Most of them also want us to pass sales intelligence from those systems directly into  the CRM or sales enablement system. So, clearly, ABM is more than just marketing. I am anticipating a merge  of ABM and marketing automation capabilities, and probably platforms, where the combined data, intent  signals, AI, and sales engagement processes will provide a more holistic view of engaged customers and  unified outreach across channels. 
+PON: What are the most important ABM use cases that you see among your client base? 
+JD: I would point to these four. Although they may just sound like B2B marketing basics, our ABM programs  in the Act-On platform have improved each of the processes. One is the classic of attracting net new  accounts, we help in targeting and interest generation. Then there is nurturing a pipeline of prospects.  An important marketing use case for our clients is empowering sales to leverage the knowledge we have  collected about target accounts and buying behavior. Lastly, the process of engagement with clients:  onboarding, collaboration, loyalty programs. 
+PON: If Act-On is popular for one thing, it is their attention to customer success. How do you achieve that? 
+JD: You are right. It has always been a strategic focus for our company. Our customer success teams are  well staffed with various skills to help clients leverage our software in the best possible manner. We have a  stream of customer success playbooks covering many different customer journeys and these maintained and  updated constantly to ensure that every client can learn from all other clients. The other programs like our  community and educational content support these activities. 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 8 
+2. Vendor:  
+PROFILE: 
+Established in 2000 as a full-service marketing agency serving the tech industry from 30 offices around the  world, Expandi is now well underway to becoming one of the most capable ABM data and software providers  for all B2B sectors. Expandi Group mainly operates in the market with the following brands: Expandi Match,  Expandi Agency, Cyance, AccountInsight and Session Media. In summer 2023, Expandi added the Jabmo  brand to its portfolio, having acquired the software assets from that company, which had gone into liquidation. 
+Originally founded in 2014 in Paris, France, Jabmo is an account-based analytics, account-based advertizing,  social advertizing and email marketing platform. The core enabling technology is the Account Data Platform  (ADP) which maps both 1st and 3rd party data sources to accounts/sub-accounts/organizations/contacts. The  new Expandi Jabmo ABM platform, available since December 1st, now allows companies to engage audiences  via the following channels: display advertizing and retargeting, social advertizing, content syndication, web  personalization, email all in one place. 
+› Market Momentum 
+Expandi is probably now the largest B2B Demand Generation Agency in EMEA focused  
+on the IT Sector with over 300 experienced marketeers. It delivers local and global  marketing programs, engaging over 500K prospects each year, through its own consulting  organization plus an extensive network of business and agency partners. 
+› Customer Focus 
+Unlike most B2B marketing agencies, Expandi handles every aspect of a multi-channel  campaign in-house, helping clients to define and implement their B2B marketing strategies  - ranging from strategic advice, target definition, content design and creation and campaign  delivery. It has invested highly in customer success resources with dedicated staffing and  executive management attention. 
+› Price vs Value 
+The Expandi value proposition is ‘Platforms built for Europe by Europeans.’ Its solutions are based on European needs (i.e. multi-language capabilities / semantic reading) and  constraints (i.e. GDPR). The vendor helps its clients to measure the return-on-investment for its projects on a routine basis.  
+› Implementation Success 
+One of their clients has written this: “The REACT model made sense for us from the beginning. If we could activate our 38 key accounts and create leads for the salespeople to follow up, we  had achieved our goal. Account based marketing will certainly be part of our strategy.“ 
+STRONG STRONG GOOD 
+STRONG 
+Page 9 Martech Vendor Spotlight Report: Account-Based Marketing 
+  
+
+Interview with Raffaele Apostoliti, CEO Expandi Group, conducted by Peter O’Neill, lead analyst at B2B Marketing and Propolis.
+PON: Well, Raffaele, I suppose the purchase of the Jabmo software product now rounds out and completes  your ABM offering to your clients. 
+RA: Perhaps so, our goal is to be one of the top ABM data and software providers in the market. We started  our transformation in 2021, acquiring AccountInsight, which had been awarded Best Emerging Technology  by your colleagues at B2B Marketing. They did programmatic advertizing and owned the largest database of  IP addresses in Europe. In 2022, we added Cyance, the leaders in Europe for Intent data. We acquired the  Jabmo assets this year after it had gone into liquidation as a company. I know that you’ve been writing about  them for quite a while, but your colleagues at Gartner, in December 2022, also had them in the Gartner  Magic Quadrant for ABM. We also have Expandi Match, our own B2B database developed since 2015 in house, the largest today in Europe covering 10 employees+.  
+I am not sure if it is the end of our journey. There are some interesting functions and vendors out there that we  might want to take advantage of and expand even further. 
+PON: The Jabmo customer base was mostly manufacturing and life sciences, which is complementary to  your broad client base in tech.  
+RA: True. The Jabmo customers had their contracts cancelled of course when the company stopped  operating. We are now working on recruiting as many as possible as new Expandi clients. Also, there is great  potential in leveraging Jabmo for our existing clients.  
+PON: How do you see B2B marketing as a discipline in 2023 and into the future? 
+RA: Well, B2B marketing is now well and truly digital. The three most important skills and capabilities now  needed for B2B marketing success are 1) comprehensive data and data analytics; 2) a great application of  technology in-house; and 3) digital marketing that which is granular, persona-based and includes hyper targeting. This is not only a challenge for B2B marketers but also their agencies -- half of our clients are  actually B2B agencies who need assistance and back up for their B2B services.  
+We ourselves only do ABM related services. We have service practices in digital analytics, digital advertizing,  marketing services such as search, and ABM consulting.  
+PON: What makes you different, perhaps even unique, as an ABM provider? 
+RA: We are European and we know European markets best of all. The European business world is so  different than the North American. Languages, currencies, regulations around compliance and GPDR, even  general customer and buyer behavior. That is all so challenging for an American vendor. 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 10 
+3. Vendor:  
+PROFILE: 
+TechTarget was founded in 1999, spun out of United Communications Group (UCG) with the founding “big  idea” that IT professionals are highly specialized and need high-quality, in-depth, fiercely independent content  to help in critical purchase decisions. Over time, it realized it surfaces real buyers’ journeys and began to offer a  lead generation service. Then, it built a rich account and prospect-level purchase-intent insight and data-driven  solution. The vendor has nearly 1,000 employees across North America, EMEA, LATAM and APAC.  
+TechTarget’s core ABM product, Priority Engine™, has real tech-purchasing intent data from over 30 million  technology buyers who have opted-in to the database: data used by over 3,000 companies in the financial  service, healthcare and tech sectors. In late 2020, it acquired BrightTALK, a webinar and virtual events provider  and in 2021, it acquired Enterprise Strategy Group, a research and consulting group creating strategic  marketing/sales content for tech companies, and Xtelligent Healthcare Media, a healthcare media/marketing  services company. TechTarget is now a true end-to-end ABM provider with global scale: GTM strategy, content (short-form, long-form, digital, custom)/message development, targeting/demand identification, fit/selection, account and prospect level intent, engagement, multi-channel execution, services/support and reporting/measurement. 
+› Market Momentum 
+TechTarget has, historically, strong relationships with both medium-sized and enterprise tech  vendors, as well as marketing agencies that serve that sector. Its comprehensive suite of data 
+driven offerings to help clients successfully plan, execute, manage and measure all aspects of  ABM has enabled it to grow into the healthcare and business services sectors as well.  
+› Customer Focus 
+The vendor’s dedicated customer success organization is almost as large as their sales and  business development department and is responsible for onboarding, are very focused  on renewals, and are also concerned with maximizing the lifetime value of its customers.  TechTarget won a CODiE Award for Customer Success Team of the Year in 2022 and it collects  customer satisfaction data periodically.  
+› Price vs Value 
+TechTarget proprietary intent data delivers insights at both account level and contact level to  provide full visibility into total buying teams at target accounts. That, plus the managed ABM  services provided by the vendor, helps customers to achieve breakthrough outcomes. The  vendor routinely assists clients to monitor their project ROI. It also offers several case studies  researched by external companies on its website. 
+› Implementation Success 
+The TechTarget customer success management team works on onboarding, training,  managing ROI, while the products/product ops manages in-tool user support, including  integration of their system with whatever the client has in place already.  
+STRONG STRONG GOOD GOOD 
+Page 11 Martech Vendor Spotlight Report: Account-Based Marketing 
+  
+
+Interview with John Steinert, CMO TechTarget, conducted by  Peter O’Neill, lead analyst at B2B Marketing and Propolis.
+PON: Hi there John, please could you describe your vision of B2B marketing and how your organization  helps clients to excel? 
+JS: I believe that to be optimally effective in this digital world, B2B marketing needs to be a continuous  activity to the same targets. The challenge there is that that can feel expensive when compared to the  alternatives. So, with our clients, we look for ways to create a continuous capability or presence within the  marketplace. Intertwined with this, of course, is the concept of optimized effectiveness. In most existing  martech stacks, this is very hard to do because tools and measures are so hard to reconcile. We help by  looking at it from a “jobs to be done” approach, both from what the marketer needs to get done (and the  best tools for that) and what the buyers need to get done and what’s most useful and necessary to them. We  help clients to find a synergy of the marketers’ KPIs and the buyers’ KPIs. 
+At TechTarget, as a business model, we’re hugely invested in providing original editorial and analyst content  to the buyers. Our goal is to create spaces that aid decision making. And this is largely what clients come to  us for and what we work with them to emulate. 
+PON: So how do you see the future of ABM in that concept? 
+JS: Firstly, we think that it is more about ABM plus ABS (account-based selling). If we are to extend that  thinking out a step further, it has both pre- and post-sales implications, it has GTM implications, and that this  thinking include product/feature and solution thinking. ABM is really a misnomer; it was great for building  up interest in developing such a strategy but now we are seeing more a programmatic intertwining of CX  concepts and a greater digital transformation across buying and selling.  
+PON: What are the most important ABM use cases that you support with your solutions? 
+JS: I’ll give you two simple examples. For marketing, it is about “relevant availability and jobs to be done  relevance” – placement and context. For sales side, it is about helpfulness – strong relevance in time and  content against individual and buying group needs. 
+PON: So how do you scope and plan your resources to help clients achieve that relevance and be successful  at ABM? 
+JS: We see customer success is our core business and so we provide managed services across the board to  help our customers across the entire GTM spectrum.  
+First is our continued commitment to first party editorial content and audience building and member ‘jobs to  be done” on which our business model is built. Second is prospect-level intent data and our Priority Engine  platform, as well as by extension some of our advanced intent-derived leads products. Third is our approach  to webinars, etc., which again is audience-needs focused … our BrightTALK.com is very different from a  simple webinar platform idea for that very reason. And lastly, our Enterprise Strategy Group (ESG) research  and analyst division, which is unlike, say Gartner or Forester, which tend to be focused more broadly on  the vendor landscape as a whole. The bulk of ESG’s efforts focus specifically on working strategically with  individual clients to help them reach their GTM market objectives. 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 12 
+4. Vendor:  
+PROFILE: 
+Trust Radius is first and foremost a customer review site about software technology solutions and its goal is to be  the most trusted buyer decisioning platform in the software industry. The vendor now markets the intent signals  it collects from the review-site user base as an account-based marketing intent solution, focused very much on  producing high-quality late-stage buyer intent.  
+With TrustRadius’ second-party, downstream intent data, clients can gain access to accounts that are actively  researching their own and their competitors’ products. 
+› Market Momentum 
+The vendor has around 200 customers in the technology sector and has grown by some 40% over the past years. TrustRadius sees that the current economy has made tech buyers  
+more risk averse and is perpetuating their need for self-serve. They want more insider  product information upfront supported by clear ROI and customer proof. The vendors who  align their GTM strategies to buyer expectations will grow and set the foundation for success. 
+› Customer Focus 
+TrustRadius knows the industry and the customers they are serving extremely well. Their  customer success organization is actually larger than the sales team and it deploys over 20 different playbooks to ensure its clients are able to optimize their use of TrustRadius. 
+› Price vs Value 
+The vendor reports an average ROI across their customer base of over 500% with a payback  period of 90 days. It has value management experts within the sales team and there are several  customer testimonials attesting to ROI including statements like: “we salvaged three renewals  by contacting customers who were ready to churn and helping them resolve their issues”; “we found three new enterprise opportunities in three weeks with intent data” and “two alerts  in Gainsight from intent data resulted in a net retention of 122%”.  
+› Implementation Success 
+TrustRadius has a strong team of knowledgeable pre-sales consultants plus several  implementation partners. The intent signals found by TrustRadius can be easily integrated into CRM, ABM, and paid media channels, helping clients to find in-market buyers, close more deals, decrease churn, and raise revenue per customer. The vendor maintains a customer community where customers can share ideas with each other while the website also includes extensive other educational and community resources. 
+GOOD STRONG 
+STRONG GOOD 
+Page 13 Martech Vendor Spotlight Report: Account-Based Marketing 
+  
+
+Interview with Allyson Havener, Senior VP of Marketing and Community,  conducted by Peter O’Neill, lead analyst at B2B Marketing and Propolis.
+PON: Describe your vision of B2B marketing and how you help your clients to excel 
+AH: We see four major elements of modern B2B marketing that we address directly. One is building trust  and credibility. Trust is a fundamental element in B2B transactions. TrustRadius, as a decisioning platform,  enables businesses to build credibility by providing a space for users to share their experiences with various  products and services. Reviews positive, neutral, or negative contribute to building trust among potential  buyers. The second is considering peer recommendations or the customer voice -- B2B buyers often seek  recommendations from peers and industry experts. This peer-to-peer validation can significantly influence  purchase decisions and enhance the reputation of the products or services being reviewed. Satisfied  customers can share their positive experiences, creating a pool of advocates who can amplify the brand’s  message and contribute to word-of-mouth marketing. TrustRadius customers can scale these efforts and use  customer voice capture in reviews across their marketing and sales channels.  
+Thirdly, TrustRadius can serve as a valuable resource for businesses looking to make informed decisions.  Clients can compare different solutions, read about real-world use cases, and understand the strengths and  weaknesses of various products. This information helps businesses make decisions aligned with their specific  needs and goals. Lastly, we provide buyer intelligence. Knowing when buyers are in-market whether they are  researching your product or your competitors’ is crucial for B2B go-to-market. Being able to focus bottom funnel marketing campaigns and sales efforts towards buyers ready to make a purchase creates efficiencies in  pipeline generation and deal cycles. TrustRadius provides this type of intelligence to their customers so they  can find and engage in-market buyers and ultimately grow market share. 
+PON: What is your understanding of the future of account-based marketing? 
+AH: For ABM to be successful in the future, marketing needs to continue to align with sales and target  accounts, messaging, and timing of campaigns. Campaigns will need to be integrated, multichannel, and  AI will be crucial to personalize outreach at scale to break into these target accounts. But brands need to not  forget the top of the funnel activities to continually nurture accounts especially when they are not in-market.  These “passive” buyers will eventually realize they have a problem and then start researching solutions. You  must make sure your brand is trusted and top of mind. 
+PON: How do you scope and plan your resources to ensure customer success? 
+AH: Our CSM team is extremely consultative. In addition to our countless materials for customers to self learn with, our CSMs help clients optimize their campaigns with the buyer intelligence from our site, as  well as customer voice and proof points from the review. Our tools also help marketing and sales teams  align on which accounts to prioritize because they are in-market actively researching. Having the data and  customer generated content like reviews/quotes from the reviews is extremely powerful to attract their  target audience.  
+Martech Vendor Spotlight Report: Account-Based Marketing Page 14 
+5. Vendor:  
+PROFILE: 
+Originally founded in Philadelphia, USA in 2002, MRP is now part of First Derivatives PLC, which is why its  website is mrpfd.com. The vendor operates in 100+ countries and 20+ languages with 750 employees based in  10 global offices. It has over 1100 customers, mainly large enterprises in the technology, finance and healthcare  verticals, with 35% of them outside the US. 
+The FD Technologies is a group of data-driven businesses that unlock the value of insight, hindsight and  foresight to drive organisations forward. The Group comprises KX, which provides software to accelerate AI driven innovation; First Derivative, providing consulting services which drive digital transformation in financial  services and capital markets; and MRP, which provides technology-enabled services for enterprise demand  generation. FD Technologies operates from 14 locations across Europe, North America and Asia Pacific, and  employs 2,800 people worldwide.  
+› Market Momentum 
+MRP has an extensive team of knowledgeable sales engineers to help clients understand  
+how to leverage its offerings. It also has several business partners. From early buying stages  to stimulate awareness and brand familiarity, to driving specific actions to propel demand  generation, MRP helps client to prioritize those accounts and contacts that have the highest  propensity to engage and convert.  
+› Customer Focus 
+The vendor has a dedicated Customer Success organisation with outstanding executive  management attention. MRP also offers full creative, content and sales enablement services  to clients on an ongoing basis including some 400 MRP staff who are equipped with  predictive analytics and intent data to do telesales for clients. organizations.  
+› Price vs Value 
+MRP equips B2B organizations with a wide breadth of buyer intelligence and demand required  to deliver meaningful buyer engagements, cost-effectively driving engagement and revenue  globally and at scale. The vendor helps its clients to measure ROI on a routine basis. 
+› Implementation Success 
+MRP clients are partnered with a Customer Experience specialist throughout the entire  relationship. The Customer Success team works on onboarding, training, managing ROI,  as well as integration of their system with whatever the client has in place already. 
+MEDIUM STRONG 
+MEDIUM GOOD 
+Page 15 Martech Vendor Spotlight Report: Account-Based Marketing 
+  
+
+Interview with Michael McGoldrick, Vice-President Corporate Marketing,  conducted by Peter O’Neill, lead analyst at B2B Marketing and Propolis.
+PON: Hello Michael, please begin by describing MRP’s vision of the B2B marketing discipline. What  challenges do you see your clients facing? 
+NM: Over the past two decades most organizations have amassed a myriad of marketing technologies and  intent solutions that rarely work together well or provide a single view of their market, and now closely resemble  a martech black hole that nobody in their organization can manage. One of the main reasons for this is that  when marketers adopt the “best-of-breed” approach to construct their tech stack, they often find themselves  compelled to divert their focus from marketing to product management. We help our clients cut down on  complex tech stacks to build sustainable, high-impact demand generation programs. Our solution suite is  powered by account intelligence that aggregates downstream sources of intent and translates them into real  actionable recommendations – helping out clients to generate demand that aligns to their strategic priorities. 
+PON: I distinctly remember our conversation when I was a Forrester Research Director back in 2015,  discussing the blog I had written about the cacophony of ABM vendors. Even then, we found common ground  regarding our definitions of ABM. How do you see ABM developing over the next years? 
+NM: I remember it too. You strongly advocated that marketers did not need to purchase software for ABM,  just improve their strategy. ABM as a category needs a “rebrand” of sorts; Over the past 15 years or more,  we’ve allowed ABM and intent data vendors to be the ones who shaped and defined the category (We  accept some of this responsibility!). Their definition was largely centered around showcasing the capabilities  of their technologies. The sequence was not initiated by defining ABM as a strategic concept first and then  developing the technology to support it; instead, the technology outpaced the concept. Because ABM isn’t  a technology, it also shouldn’t be a category line item in a budget. Spend on ABM should spread across  supporting techs, with companies only spending money on technologies they need for a competitive  advantage. And while you still need technology to run ABM, every company’s GTM strategy is unique to  them and the technologies may vary, you can still do ABM without the bells and whistles of many of today’s  platforms. Fueled by account intelligence, MRP has the ability to deliver personalized and contextually relevant  messaging to our clients’ target accounts, across digital and non-digital channels, powering their ability to  accelerate bottom of funnel engagement while building top of funnel strategy – without the requirement of a  platform subscription. 
+PON: Impressive. What are the most typical ABM use cases where MRP has been most successful? 
+NM: We see these four scenarios the most in our client engagements: first and foremost, many of our clients  rely on us for net new acquisition. We provide the account intelligence that isolates brand opportunities while  delivering highly targeted buying center engagements, like content syndication, direct mail, advertising, and  outbound calling. Another scenario is the challenge of account renewal and account retention in recurring  revenue businesses. MRP can help clients to trigger engagements designed to help in contract renewals  (and then deliver campaigns and nurturing activities to ensure that renewal signature). Lastly, we address the  important objective of account expansion; We can trigger an engagement designed to alert a sales rep for  client overages, or generate engagement that targets new buying centers in adjacent organizations or new  business units or geographies.  
+Martech Vendor Spotlight Report: Account-Based Marketing Page 16 
+A-Z standard vendor profiles
+1. Anteriad 2. Blueconic 3. Bombora 
+VENDORS 
+12. Marketo (Adobe) 
+13. Madison Logic 
+14. Rollworks 
+4. Demandbase 5. Dun & Bradstreet 6. Highspot 
+7. Hubspot 
+8. Integrate 
+9. Intentsify 
+10. Leadspace 
+11. Linkedin Sales Navigator 
+15. Salesforce 16. Salesloft 17. Seismic 18. 6sense 
+19. Showpad 20. Terminus 21. ZoomInfo 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 18
+1. Vendor: Anteriad 
+PROFILE: 
+Established in 2000 as MeritDirect in New York, the company rebranded to Anteriad in 2022 after acquiring  Compass Data Solutions, 180byTwo, and True Influence within a span of two years. Anteriad is a full-funnel  marketing solutions provider, offering B2B data and intent solutions to drive demand, generate leads, and  improve pipeline results. The Anteriad ABM Solution supports clients’ account selection, ideal customer  profiles (ICP) and total addressable market (TAM) creation, account and contact resolution, account scoring,  digital audience creation, and omnichannel execution through to post-campaign account-level reporting. The  Anteriad Marketing Cloud allows customers to combine 1st party data with Anteriad Data, track intent, segment  audiences, and activate omnichannel campaigns.  
+In April 2023, the company acquired Spanish vendor BNZSA, a provider of international-focused B2B demand  generation solutions in Europe, delivering qualified, sales-ready prospects to 50+ multi-national enterprise  clients. BNZSA serves a top-tier list of tech company clients, including Oracle, SAP, Acer, Dell, Fujitsu. Clients  now have access to the combined company’s global scale and reach, as well as highly relevant local expertise in  global markets, with an ability to execute campaigns in 26 languages.  
+› Market Momentum 
+With the addition of BNZSA services, clients are now benefiting from the combined  
+company’s global scale and reach, as well as highly relevant local expertise in global markets,  with an ability to execute campaigns in 26 languages. With over 20 years of experience in  data management, privacy and cleanliness, the vendor is trusted by over 1,600 marketers to  drive results with in-depth, actionable data. 
+› Customer Focus 
+The vendor’s customer success organization is much larger than the sales development  department and is focused on optimizing the customer lifetime value. The dedicated customer success team leverages 4 different playbooks to address various repeatable  processes. Anteriad surveys their customers more than once per year.  
+› Price vs Value 
+Anteriad helps their clients to measure ROI on a regular basis. Campaign managers and client-contracted BDR/SDRs are measured on campaign metrics (e.g. CTR, leads, sales).  The vendor has value management experts in the consulting/service organization. 
+› Implementation Success 
+The vendor has a large consulting organization and its managed services department ensures all clients engage with the programs and platform to hit their KPI.  
+STRONG STRONG 
+STRONG GOOD 
+Page 19 Martech Vendor Spotlight Report: Account-Based Marketing
+2. Vendor: BlueConic 
+PROFILE: 
+Founded in 2010, and now with over 170 employees in North America and Europe, BlueConic has customers  across all sectors including retail, e-commerce, CPG, media/publishing, FSI, telco, hospitality/travel. Over  350 customers worldwide access the software via a marketer-orientated user interface to collect and oversee  profile data that is unified, actionable, and meets marketing needs. While BlueConic primarily works with B2C  customers, many of the B2B organizations they work with use ABM strategies to provide account-level data  aggregation, segmentation, and personalized marketing capabilities. 
+BlueConic profiles recognize and respect an individual’s preference and behaviors across channels to build  better individualized experiences and continue to foster loyalty and earn trust. Consent is a core attribute  of unified profiles stored in BlueConic. The vendor talks of “liberating your data”. Marketers orchestrate  individualized experiences that benefit both customers and the business itself in every stage of the customer  lifecycle. Marketers can activate account data across channels and platforms to create mutually beneficial  customer experiences. As a SaaS-solution hosted on Amazon Web Services (AWS), customers can choose  between European or U.S.-based AWS zones to host their BlueConic tenant. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are those who help their clients on an ongoing basis, not just in response to support calls. They invest heavily in customer success resources including dedicated staffing and  management attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+GOOD STRONG 
+MEDIUM MEDIUM 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 20 
+3. Vendor: Bombora 
+PROFILE: 
+Founded in 2016 in New York, Bombora was one of the originators of the intent data industry. It operates as data service, providing intent data captured from an exclusive portfolio of B2B websites, including  many publishers. Its data is available for direct purchase through a network of delivery partners or licensing  arrangements with many of the leading ABM vendors. Its company surge methodology has become the de facto  industry standard for noise filtering, and the portfolio of more than 5,000 sites is a differentiator due to the exclusivity agreements negotiated with 87% of those sites. 
+Bombora is account-based by design, its data focuses exclusively on accounts. It also does not capture signals in languages other than English. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+GOOD GOOD 
+GOOD GOOD 
+The vendor didn’t provide additional information to enhance this profile.
+Page 21 Martech Vendor Spotlight Report: Account-Based Marketing 
+4. Vendor: Demandbase 
+PROFILE: 
+Founded in 2006 in San Francisco, Demandbase offers an end-to-end ABM platform that helps B2B marketers  identify, engage, close and measure progress against best-fit accounts. After acquiring Engagio, another ABM  vendor in 2020, Demandbase has 330 employees and some 800 customers ranging from mid-sized companies  to enterprises such as Accenture, Adobe, DocuSign, GE, and Salesforce, with 40% of its customer base being  outside of the US.  
+The vendor positions itself as a one-stop-shop for all things ABM; based on a data platform to identify internet  behavior with a patented identification technology, augmented by AI, plus the orchestration platform provided  by Engagio. The combined product is called Demandbase One. B2B marketers can identify accounts, manage  audiences across campaigns, integrate account information from a CRM system and measure their ABM success  based on pipeline and revenue information. Demandbase offers a set of solution modules: ABM Solution, The  Platform; Targeting, Engagement, and Conversion. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+STRONG STRONG 
+GOOD STRONG 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 22 
+5. Vendor: Dun & Bradstreet 
+PROFILE: 
+The Dun & Bradstreet Data Cloud offers a comprehensive business data and analytical insights to power today’s  most crucial business needs. Some 90% of the Fortune 500, and companies of all sizes around the world, rely  on Dun & Bradstreet to help grow and protect their businesses. 
+D&B Rev.Up™ ABX is an open, comprehensive ABM platform that can help identify prospects, segment  audiences, engage across channels and optimize campaigns to increase ROI. With D&B Rev.Up ABX you can: 
+› Identify accounts visiting your website. 
+› Segment audiences using first- and third-party data. 
+› Simplify multi- and omni-channel activations. 
+› Connect data across your entire MarTech and SalesTech stacks. 
+› Easily measure and optimize performance. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+MEDIUM MEDIUM 
+LOW 
+MEDIUM 
+The vendor didn’t provide additional information to enhance this profile.
+Page 23 Martech Vendor Spotlight Report: Account-Based Marketing 
+6. Vendor: Highspot 
+PROFILE: 
+Highspot was founded in 2012 in Seattle and has over 1,000 employees and five global offices. It has over 900  customers (80% in North America) with over 550,000 licensed end-users, including companies such as Aetna,  Cardinal Health, DocuSign, Okta, Randstad, Siemens, and Yahoo. Highspot offers a modern SaaS platform with  content, training, coaching, and analytics, to increase sales productivity. It empowers sellers with tools to make  
+every buyer interaction engaging, as well as insights into buyer activity. Deep integrations with the most popular  CRM systems ensure all prospect information is available in a single interface. 
+The truth is that ABM is not all about marketing; successful ABM requires work in both marketing AND sales.  Sales enablement software allows you to align both teams, giving them a united platform to communicate, share  content and best practices, and analyze the effectiveness of engagement within the target accounts. Highspot is  one of the few sales enablement vendors that understand this and help their clients to support an ABM strategy. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+STRONG STRONG 
+GOOD STRONG 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 24 
+7. Vendor: Hubspot 
+PROFILE: 
+Still managed by the founders, Hubspot is the most successful provider of marketing software software to  small-medium businesses (10-2,000 employees) with close to 130,000 customers in 120 countries. Originally  providing a feature-rich marketing hub solution, Hubspot now offers marketing, service and sales software suites  plus a content management system and an operations center. It has expanded its product and sales coverage  to all company sizes – Hubspot now has over 8,000 enterprise customers. Hubspot sells 70% directly and 30%  through business partners around the world (46% of their business is outside the US). This includes cross-selling,  with 30% of their customers now with two suites and 5% with all three.  
+Hubspot customers set up an ABM strategy using the provided workflow templates to define ideal customer  profiles and identify good-fit target accounts. They then set up default properties to tag accounts and buying  roles. Marketing and sales can use common tools that unite them around the same data. The system offers an account overview sidebar, an ABM playbook for sales reps, and a native integration to LinkedIn Sales Navigator accounts. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+STRONG GOOD 
+STRONG GOOD 
+The vendor didn’t provide additional information to enhance this profile.
+Page 25 Martech Vendor Spotlight Report: Account-Based Marketing 
+8. Vendor: Integrate 
+PROFILE: 
+Founded in 2010 in Phoenix, Arizona, Integrate offers a cross-channel demand management SaaS platform for enterprise B2B demand and marketing operations teams. Integrate’s features include the ability to accelerate speed-to-business value through integrations, deliver 100% marketable and compliant leads with  trusted governance, and provide AI-powered insights to enhance and expedite smart decision-making.  
+Integrate connects, governs, and measures marketing campaigns across demand channels. This enables  marketers to launch cross-channel buyer experiences, ensure data integrity, measure the impact of their  programs, and inform the next best investments. Integrate works with high-growth and enterprise organizations like Salesforce, Microsoft, Akamai, and Pluralsight to power their B2B marketing strategies. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+MEDIUM GOOD 
+LOW 
+MEDIUM 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 26 
+9. Vendor: Intentsify 
+PROFILE: 
+Founded in 2018 in Boston, Massachusetts, Intentsify is a campaign execution firm that also offers data  subscriptions similar to a traditional data provider. Its intent data is captured primarily through bidstream data  collected across an extensive network of publisher sites. The vendor has offices in Boston and London and  currently only offers English-only capture of intent signals.  
+Through efficient delivery and implementation of proprietary, next-generation precision intent data, potential  buyer companies are identified that exhibit research behaviors directly related to the client’s business solutions.  The vendor’s Intelligence Activation Platform shows where buyers are in the purchasing process, reveals the  issues they care about most, and empowers clients to engage them quickly and effectively. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+GOOD MEDIUM 
+MEDIUM MEDIUM 
+The vendor didn’t provide additional information to enhance this profile.
+Martech Vendor Spotlight Report: Account-Based Marketing Page 27 
+10. Vendor: Leadspace 
+PROFILE: 
+Founded in 2007 in San Francisco, Leadspace claims to take the guesswork out of B2B revenue generation for  companies like Microsoft, Salesforce and Gong. It does this by helping them to target the fewest number of  companies with the highest odds of closeable business. The Leadspace Drive Platform™ is fuelled by the best  B2B profiles in the industry — more than 200M companies and 600M people. Revenue Radar™ applies four signal AI targeting to narrow the target by focusing on companies with a 2X, 6X or even 12X chance of closing.  
+More than 25 thousand sales and marketing professionals use the Drive platform to build and operationalize  their total addressable market (TAM), identify their ideal customer profile (ICP) and optimize their campaigns  with fit, intent and persona models. Sales and marketing teams use Leadspace to give them a competitive edge  so they know who their best customers are, understand their whitespace opportunities, and can dramatically  improve the effectiveness of their sales and marketing programs. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+STRONG GOOD 
+MEDIUM GOOD 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 28 
+11. Vendor: LinkedIn 
+PROFILE: 
+Founded in 2002 in Sunnyvale, California, LinkedIn is now a subsidiary of Microsoft. The vendor offers a  professional networking site that allows members to create business connections, search for jobs and find  potential clients. As such, LinkedIn has become a major B2B publisher, an ad platform, and a must-have for  B2B advertisers. With more than 800 million members sharing professional profile data through the platform,  LinkedIn can target very large and precise B2B audiences and content.  
+LinkedIn’s strategy includes integrations with a selective list of partners for extending audience reach and other  capabilities to a wide range of B2B advertisers, publishers, and agencies. LinkedIn’s strategy also includes  providing targetable business content onsite and through the LinkedIn Audience Network — a curated set of  high-quality publishers with reserved inventory. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+STRONG GOOD 
+GOOD MEDIUM 
+The vendor didn’t provide additional information to enhance this profile.
+Page 29 Martech Vendor Spotlight Report: Account-Based Marketing 
+12. Vendor: Marketo 
+PROFILE: 
+Marketo was acquired by Adobe in 2018 and has been fully integrated into Adobe. Recognizing the strength  of its brand, Adobe has maintained the Marketo Engage product name and allows the organization a level of  autonomy. Its customer base is over 5,000, mainly mid to enterprise-size businesses (100-1,000 users) in the  high-tech, professional services, and financial services sectors. Marketo Engage is sold direct and indirect  through the Adobe sales organization. There is a large community of experienced Marketo users that tend to  promote the software as they move from company to company. We estimate that Marketo Engage has added  another 30% to its customer base since 2018. 
+The Marketo Engage SaaS-based solution supports inbound marketing, lead management, ABM, social  marketing, event management, marketing ROI reporting, and analytics. Its vision is to support “Account-based  experiences” (ABX): coordinated customer experiences focused on the lifetime value of a specific account as  part of a larger, holistic and continuous customer relationship. The vendor partners with dozens of software  vendors to round out the ABM offering. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+STRONG STRONG 
+MEDIUM GOOD 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 30 
+13. Vendor: Madison Logic
+PROFILE: 
+Founded in 2005 and headquartered in New York, USA, Madison Logic is a global provider of ABM platform  solution. The company empowers the largest and fastest-growing companies to convert their best accounts  faster with a data-led approach to drive higher account engagement and accelerate conversion across the  sales cycle. 
+Madison Logic’s ABM solution unifies the four primary B2B channels—content syndication, display advertizing,  social advertizing with LinkedIn, and now CTV—into a centralized platform that enables enterprise B2B  marketers to activate multi-channel ABM campaigns and achieve comprehensive visibility into program  performance. Leveraging ML Insights, which combines three independent signals into a single intent score,  marketers can more easily determine which accounts to engage, the key personas within these accounts, and  the content most likely to drive account engagement and pipeline impact. Through a more targeted data driven, multi-channel ABM approach with Madison Logic, its clients report a 32% lift in engagement, a 28%  faster sales cycle, and a 17% increase in pipeline. 
+› Market Momentum 
+Madison Logic has an extensive team of knowledgeable sales and business development  engineers to help clients understand how to leverage its offerings. It also has several business  
+partners. In Spring 2023, its ABM Success Series Executive Forums brought hundreds  of leading marketing executives together in person to discuss their work and learn best  practices in ABM.  
+› Customer Focus 
+The vendor has a dedicated customer success organization including executive management  attention. This organization, offering comprehensive services at no cost, includes Customer  Success Manager, Implementation Manager, Onboarding Manager, and Solution Consultants,  providing personalized support throughout the project lifecycle. Its 109% net revenue  retention is built upon proactive engagement, customer success management, and customer centric marketing initiatives. 
+› Price vs Value 
+Madison Logic helps its clients to measure the ROI routinely and has several value  management experts in the consulting/service organization. The vendor reports that the average ROI metric across its customer base is over 500%. 
+› Implementation Success 
+The vendor provides Custom Insights Reporting where the team offers deep analytics and reporting, presenting industry-specific insights, intent lookback reports, and  intent data clusters. These tools are designed to uncover new opportunities, providing  actionable insights that allow for effective targeting of campaigns. 
+GOOD GOOD 
+GOOD GOOD 
+Page 31 Martech Vendor Spotlight Report: Account-Based Marketing 
+14. Vendor: Rollworks 
+PROFILE: 
+Founded in 2017 in San Francisco, Rollworks is the B2B division of the marketing technology company NextRoll.  Rollworks goes to market as an ABM platform, and its roots are in ad retargeting. The vendor’s strategy is to  leverage its in-house CDP, DSP, open APIs, and its 2019 acquisition of Growlabs to deliver advertizing to known  and anonymous B2B audiences. It is a good utility for B2B marketers who use advertizing in combination with  marketing platforms like HubSpot, Marketo, or Pardot. 
+Through 2022, Rollworks continually enhanced its offering with these highlights: Creating a new standard in  intent data with the debut of Keyword Intent; deeper CRM integrations with the launch of RollWorks Journey  Events for HubSpot® and Journey Events for Salesforce; launch of Sales Insights for HubSpot (it now has over  
+500 HubSpot Integration Installs, 150% more than the nearest ABM competitor); plus several advertizing  innovations with Account List Builder, Pixel Assistant, and Site Traffic Revealer.  
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile.
+STRONG GOOD 
+MEDIUM GOOD 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 32 
+15. Vendor: Salesforce 
+PROFILE: 
+Founded in 1999 in San Francisco, Salesforce is a California-based enterprise software company that offers  solutions including CRM, marketing automation and other applications, all positioned as “cloud computing  software”. The vendor presents its Sales Cloud as an intelligent ABM dashboard which unites sales and  marketing organizations on “the world’s smartest CRM”. In combination with Salesforce’s artificial intelligence  technology, branded as Einstein, the Sales Cloud can focus a sales team on the most high-value targets. 
+Using predictive lead scoring, clients get intelligent insights built on machine learning to discover which  accounts are most likely to close. Powerful matching rules automatically connect leads and contacts to the right  account. Through integration with external data partners, it can also extend and enrich your customer profiles.  Plus, clients can target lookalike accounts that are similar to their best customers so they can reach new audiences at scale. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+MEDIUM MEDIUM 
+LOW 
+MEDIUM 
+The vendor didn’t provide additional information to enhance this profile.
+Page 33 Martech Vendor Spotlight Report: Account-Based Marketing 
+16. Vendor: Salesloft
+PROFILE: 
+Salesloft helps sellers to generate pipeline, manage deals, engage with customers, optimize activities and  performance and even align with marketing programs. With over 1,000 employees in the US, UK, Singapore,  and Mexico, the vendor supports over 2,500 companies, mainly cloud software firms. The solution enables  sellers to plan and execute their sales calls and playbooks, providing analysis and actionable feedback on  the conversations. It also helps sellers and sales leaders manage deals, address deal gaps, and forecast more  accurately. 
+The Salesloft software is designed to enhance account-based marketing strategies with over a dozen practical  features to help keep teams agile and focused on selling, while providing a white-glove sales experience to  named top-tier accounts. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile. 
+MEDIUM STRONG 
+MEDIUM GOOD 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 34 
+17. Vendor: Seismic 
+PROFILE: 
+Founded 2010 in San Diego, Seismic has over 1,500 employees in offices across North America, Europe, and  Australia and a customer base of over 2,200 companies. The vendor offers the Seismic Enablement Cloud, a  unified platform providing customer-facing teams with the right skills, content, tools, and insights to effectively  engage customers and drive growth. It manages and delivers content for its clients across 13 data centers around  the world and supports 15 languages. It markets to the tech, FSI, healthcare, manufacturing, and life sciences  sectors with solution scenarios for marketing, sales, sales enablement and even buyers. 
+Seismic defines ABM as: “A strategy enhanced and made scalable by process and technology that spans nearly  all disciplines of sales and marketing and enables those teams to be hyper-relevant and hyper-personalized to the  right prospects at the right time.” And recognizes that a successful ABM strategy requires a deep understanding  of how it affects sales and marketing, a framework for implementation, and a strategy for measuring results. The  vendor provides guidelines and consulting resources to support ABM-centered sales enablement. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are those who help their clients on an ongoing basis, not just in response to support calls. They invest heavily in customer success resources including dedicated staffing and  management attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also ideal user adoption and application longevity. 
+STRONG STRONG 
+GOOD STRONG 
+The vendor didn’t provide additional information to enhance this profile.
+Page 35 Martech Vendor Spotlight Report: Account-Based Marketing 
+18. Vendor: 6sense
+PROFILE: 
+Founded in 2013 and headquartered in San Francisco, 6sense Insights, Inc has over 2000 customers primarily  in the tech sector, from small software vendors up to the largest enterprises. Purely a SaaS business with over  1400 employees, it has a customer retention ratio of over 90% and boasts consistent quarterly growth while  maintaining industry-leading values in business success indicators like customer acquisition cost and gross  margins.  
+The 6sense value proposition is that its Revenue AI platform, with two primary offerings, Revenue AI for  Marketing and Revenue AI for Sales, enables those teams to easily uncover in-market signals (i.e. intent to buy)  for accounts and all relevant buyer personas; prioritize the right leads and contacts to contact; and orchestrate  engagement across channels and buyers. 6sense’s proprietary intent network identifies accounts and personas  within the “Dark FunneTM,” where buyers are researching anonymously, and then the platform makes patented  time-based predictions about which accounts are “in market” to make a purchase. 6sense has native display  advertizing and GPT-powered email capabilities, and integrates with an ecosystem of partners for cross-channel  engagement, including marketing email, personalization, content marketing, and direct mail. 
+› Market Momentum 
+6sense has enjoyed a growth rate of over 200% in each of the last four years. They are  
+successful with B2B companies in the technology, business/professional services, financial  services, transportation & logistics, manufacturing and healthcare & life sciences sectors. Even with this high growth rate, the vendor is able to record a high net retention rate of 120%. 
+› Customer Focus 
+The vendor’s customer success organization is almost as large as their sales and business  development department and is primarily responsible for optimizing the customer lifetime  value. The dedicated customer success team leverages 20 different playbooks including their  “Sense-Making” 6sense methodology, which is designed to position customers for quick  wins. 6sense collects customer satisfaction data on an ongoing basis and maintains a customer  community where customers can share ideas. 
+› Price vs Value 
+The 6sense platform has built-in ROI reporting available on-demand through its self-service  interface. Additionally, the vendor has a dedicated business value team providing ROI  estimates during the customer evaluation/sales process, and then working with customers to  validate their value on a quarterly basis. 
+› Implementation Success 
+To enable their field teams go deeper into a customers’ value story, the vendor has built an  internal reporting engine designed to monitor customer’s health and performance. This reporting system is built directly on top of 6sense’s product and customer-specific data sets to produce standardized health monitoring and key value reports.  
+STRONG STRONG 
+STRONG STRONG 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 36 
+19. Vendor: Showpad 
+PROFILE: 
+Showpad, founded in 2011 in Belgium, now has over 400 employees in their headquarters in Ghent and  Chicago, plus offices in London, Munich, San Francisco, and Wroclaw. It has over 1,200 customers in 50  countries, mostly enterprises including GE Healthcare, Bridgestone, Honeywell, and Merck. Its Unified Sales  Enablement Platform combines sales content delivery and sales training and coaching. Showpad R&D is quite  decentral and therefore diverse, with 15 teams in four locations, enabling a rapid response to customer demand  for innovation and enhancements on a global basis. 
+The truth is that ABM is not all about marketing; successful ABM requires work in both marketing AND sales.  Sales enablement software allows you to align both teams, giving them a united platform to communicate, share  content and best practices, and analyse the effectiveness of engagement within the target accounts. Showpad is  one of the few sales enablement vendors that understand this and help their clients to support an ABM strategy. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  solution offering and how it fits into their environment. Vendors scoring highly in this  
+category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are those who help their clients on an ongoing basis, not just in response to support calls. They invest heavily in customer success resources including dedicated staffing and  management attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also ideal user adoption and application longevity. 
+MEDIUM GOOD 
+MEDIUM GOOD 
+The vendor didn’t provide additional information to enhance this profile.
+Page 37 Martech Vendor Spotlight Report: Account-Based Marketing 
+20. Vendor: Terminus
+PROFILE: 
+Founded in 2014 in Atlanta, Georgia, USA, Terminus offers an ABM platform for revenue growth, empowering  marketers to drive revenue impact for a sustainable growth advantage. The vendor has over 1,000 customers  including Gainsight, Roche, and Dow Jones, using the Terminus software for first-party data, advertizing  programs and multi-channel engagement with target accounts.  
+The Terminus advertizing solution, called the Engagement Hub is built on top of a standalone Terminus B2B  customer data platform (CDP) and proprietary integration with The Trade Desk. The Terminus CDP enables B2B  audience identification, segmentation, and identity resolution and the software supports cross-channel breadth  and inventory discovery plus activations across display, video, connected television (CTV), audio, LinkedIn,  email, and native.  
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+The vendor didn’t provide additional information to enhance this profile. 
+GOOD GOOD 
+MEDIUM STRONG 
+Martech Vendor Spotlight Report: Account-Based Marketing Page 38 
+21. Vendor: ZoomInfo
+PROFILE: 
+ZoomInfo is a US-based cloud platform that offers solutions such as sales automation, cross-channel advertizing  and data management for sales and marketing teams. Its headquarters is in Vancouver, Washington and it is  owned by DiscoverOrg, LLC since Feb 2019. ZoomInfo is a large traditional data provider that also goes to  market with an ABM platform subscription model leveraging its MarketingOS and SalesOS products. Its data  is primarily sourced from the bidstream, combined with publisher co-op data, licensed signals from other  providers, and its proprietary human-verified project offering Scoops. ZoomInfo has a very a large market  footprint of clients and an extensive partner ecosystem.  
+ZoomInfo is a good fit for organizations in search of a broad-based standalone intent data feed supported by  an extensive offering of related B2B sales and marketing data. The vendor’s MarketingOS platform, with intent  included in the platform subscription, also means it is a significant player in the ABM platform market. 
+› Market Momentum 
+Here, we have assessed how well a vendor helps prospective buyers to understand the  
+solution offering and how it fits into their environment. Vendors scoring highly in this  category will have an extensive team, or a network of business partners, of knowledgeable  pre-sales consultants or advisors. 
+› Customer Focus 
+Almost all software is now delivered as-a-service and the most successful SaaS vendors are  those who help their clients on an ongoing basis, not just in response to support calls. They  invest heavily in customer success resources including dedicated staffing and management  attention as well as information and training around the solution. 
+› Price vs Value 
+As with any business investment, marketing executives need to be assured that the investments  they make in technology are providing an appropriate payback. At the minimum, vendors  can help their clients calculate the return-on-investment after a period of time. More mature  SaaS vendors are now providing value management consulting and processes for a more  continuous evaluation. 
+› Implementation Success 
+The true test of a business partnership is the commitment from a vendor to supporting the  integration of their system with whatever the client has in place already. This attention to  integration detail results not only in a smoother overall system, with no media breaks, but also  ideal user adoption and application longevity. 
+STRONG GOOD 
+MEDIUM STRONG 
+The vendor didn’t provide additional information to enhance this profile. 
+Page 39 Martech Vendor Spotlight Report: Account-Based Marketing 
+MVS ABM tracker 
+Market 
+momentum 
+Customer focus 
+Price vs value 
+Implementation  success 
+Provided 
+info requested
+Act-on 
+Anteriad 
+BlueConic 
+Bombora 
+Demandbase 
+Dun & 
+Bradsheet 
+Expandi 
+(Jabmo) 
+Highspot 
+Hubspot 
+Integrate 
+Intensify 
+Leadspace 
+LinkedIn Sales Navigator 
+Marketo 
+(Adobe) 
+Madison Logic MRP 
+Rollworks 
+Salesforce 
+Salesloft 
+Seismic 
+6sense 
+Showpad 
+Tech Target 
+(Priority Engine) Terminus 
+Trust Radius ZoomInfo 
+Good 
+	Strong 
+	Strong 
+	Good
+	Strong 
+	Strong 
+	Strong 
+	Good
+	Good 
+	Strong 
+	Medium 
+	Medium
+	Good 
+	Good 
+	Good 
+	Good
+	Strong 
+	Strong 
+	Good 
+	Strong
+	Medium 
+	Medium 
+	Low 
+	Medium
+	Strong 
+	Strong 
+	Good 
+	Strong
+	Strong 
+	Strong 
+	Good 
+	Strong
+	Strong 
+	Good 
+	Strong 
+	Good
+	Medium 
+	Good 
+	Low 
+	Medium
+	Good 
+	Medium 
+	Medium 
+	Medium
+	Strong 
+	Good 
+	Medium 
+	Good
+	Strong 
+	Good 
+	Good 
+	Medium
+	Strong 
+	Strong 
+	Medium 
+	Good
+	Good 
+	Good 
+	Good 
+	Good
+	Medium 
+	Strong 
+	Medium 
+	Good
+	Strong 
+	Good 
+	Medium 
+	Good
+	Medium 
+	Medium 
+	Low 
+	Medium
+	Medium 
+	Strong 
+	Medium 
+	Good
+	Strong 
+	Strong 
+	Good 
+	Strong
+	Strong 
+	Strong 
+	Strong 
+	Strong
+	Medium 
+	Good 
+	Medium 
+	Good
+	Strong 
+	Strong 
+	Good 
+	Good
+	Good 
+	Good 
+	Medium 
+	Strong
+	Good 
+	Strong 
+	Strong 
+	Good
+	Strong 
+	Good 
+	Medium 
+	Strong
+	
+
+
+
+Martech Vendor Spotlight Report: Account-Based Marketing Page 40 
+Analyst Bio 
+Author: Peter O’Neill    
+Lead Analyst 
+B2B Marketing Propolis 
+Peter O’Neill is a marketing and IT industry veteran with over 40 years of experience in advising vendor  and end-user clients and performing research-based consulting, combining strong research capabilities  with comparative vendor assessments and actionable advice. 
+He is most known for his 12 years of service at Forrester Research as industry analyst, leading up to  2017 where, most recently, he managed Forrester’s research on B2B Marketing organization, process  and automation topics as research director. Prior to joining Forrester, he worked at META Group and  Gartner Group.  
+Since 2018, he continues to work as an industry analyst, collaborating with Research In Action GmbH,  and with the B2B Marketing organization in London. He also writes and curates marketing content on  an ongoing basis for several marketing automation software clients.  
+With Research In Action, he runs global surveys of 1500 marketing practitioners to get their assessments  of vendors in various marketing process automation areas, adds his assessment and then publishes  Vendor Selection Matrix reports based on the users’ ratings. Topics like lead management, band  content management, web experience management, sales engagement, channel enablement, ABM,  and CDP are covered in the Vendor Selection Matrix reports. 
+With B2B Marketing, he contributes “Premium Research” reports throughout the year which focus on  organization and process more than technology. This includes topics like marketing operations, ABM,  brand and content management, execution and campaigns, data strategy and insights, customer  experience and strategy and evolution.  
+Prior to his time as industry analyst, Peter had worked for 20 years at Hewlett- Packard in Germany and  the USA. He worked in product marketing, field marketing, sales, and corporate marketing.  
+Peter is a frequent speaker at major industry events and regularly quoted in key press publications about  marketing. He lives in Germany but works worldwide. 
+Page 41 Martech Vendor Spotlight Report: Account-Based Marketing
+Other reports in MVS series 
+Marketing Operations 
+Customer Data Management Digital Customer Experience
+About B2B Marketing and Propolis 
+Established in 2004, B2B Marketing is now the number one go-to resource for B2B marketers across the globe. 
+Right from the start, we had a clear mission: to provide  marketers at business brands with the intelligence, tools  and inspiration they need to grow and succeed – as both  individuals and businesses. 
+Unlike B2C, we focus on building relationships between  businesses, strengthening connections within the B2B  marketing community and putting marketers at the centre of the businesses they work for. We believe that every  company has a unique story to tell, and we are committed to helping them communicate that story in the most impactful way possible. 
+Ultimately, we exist as a partner to a business, leveraging our community intelligence to help marketers make informed decisions and achieve their marketing goals. We are committed to providing the B2B community with  the tools and resources they need to succeed in today’s  competitive marketplace, and to fostering a culture of  learning and innovation that drives long-term success for everyone involved. 
+We’re proud to serve as the focus point for the B2B marketing sector, enabling marketers and  leaders to transform their marketing. 
+Our products: 
+Page 43 Martech Vendor Spotlight Report: Account-Based Marketing
+For further information on how to partner on the Marketing Technology Landscape Report, contact: 
+B2B Marketing UK 
+Mitch Hole 
+Head of media,  
+B2B Marketing 
++44 (0) 20 7014 4932 
+mitch.hole@b2bmarketing.net 
+B2B Marketing 
+Westgate House 
+9 Holborn 
+London 
+EC1N 2LL 
+info@b2bmarketing.net 
+b2bmarketing.net

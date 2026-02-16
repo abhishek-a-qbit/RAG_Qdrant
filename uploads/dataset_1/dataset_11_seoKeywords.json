@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "11_seoKeywords",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:58.624819"
+      }
+    ]
+  },
+  "data": [
+    {
+      "term": "6sense",
+      "canonicalTerm": "6sense",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P1"
+    },
+    {
+      "term": "6sense revenue ai",
+      "canonicalTerm": "6sense revenue ai",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P1"
+    },
+    {
+      "term": "account-based marketing",
+      "canonicalTerm": "account-based marketing",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P1"
+    },
+    {
+      "term": "ABM platform",
+      "canonicalTerm": "abm platform",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P1"
+    },
+    {
+      "term": "intent data",
+      "canonicalTerm": "intent data",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P1"
+    },
+    {
+      "term": "buyer intent",
+      "canonicalTerm": "buyer intent",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P2"
+    },
+    {
+      "term": "predictive analytics",
+      "canonicalTerm": "predictive analytics",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P2"
+    },
+    {
+      "term": "B2B sales intelligence",
+      "canonicalTerm": "b2b sales intelligence",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P2"
+    },
+    {
+      "term": "revenue intelligence",
+      "canonicalTerm": "revenue intelligence",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P2"
+    },
+    {
+      "term": "demandbase alternative",
+      "canonicalTerm": "demandbase alternative",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P2"
+    },
+    {
+      "term": "zoominfo vs 6sense",
+      "canonicalTerm": "zoominfo vs 6sense",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "commercial",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P3"
+    },
+    {
+      "term": "6sense pricing",
+      "canonicalTerm": "6sense pricing",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "commercial",
+      "funnelStage": "late",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P3"
+    },
+    {
+      "term": "6sense reviews",
+      "canonicalTerm": "6sense reviews",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "mid",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P3"
+    },
+    {
+      "term": "ABM software",
+      "canonicalTerm": "abm software",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P3"
+    },
+    {
+      "term": "sales intelligence platform",
+      "canonicalTerm": "sales intelligence platform",
+      "variants": [],
+      "sources": [
+        "6sense_SEO_keywords.txt"
+      ],
+      "intent": "informational",
+      "funnelStage": "early",
+      "topicTags": [
+        "ABM",
+        "Intent Data",
+        "Sales Intelligence"
+      ],
+      "priority": "P3"
+    }
+  ]
+}

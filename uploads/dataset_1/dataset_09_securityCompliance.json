@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "9_securityCompliance",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:58.621366"
+      }
+    ]
+  },
+  "data": {
+    "certifications": [],
+    "regulations": [],
+    "industryRegimes": [],
+    "dataResidency": {
+      "regions": [
+        "North America",
+        "EMEA"
+      ],
+      "notes": "Global deployment capabilities"
+    },
+    "dataProtectionFeatures": [
+      "Role-based access controls",
+      "Audit logging",
+      "Data retention policies"
+    ],
+    "trustCenterLinks": [],
+    "securitySummary": "Enterprise-grade security with role-based access controls, audit logging, and data governance capabilities."
+  }
+}

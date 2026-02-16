@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "10_faqItems",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:05:58.622956"
+      }
+    ]
+  },
+  "data": [
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/sales-intelligence",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is sales intelligence software?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/sales-intelligence",
+      "rawPhrases": []
+    },
+    {
+      "question": "Does 6sense have contact data for sellers?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/sales-intelligence",
+      "rawPhrases": []
+    },
+    {
+      "question": "Why use sales intelligence software?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/sales-intelligence",
+      "rawPhrases": []
+    },
+    {
+      "question": "How does a sales intelligence tool work with your CRM?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/sales-intelligence",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently Asked Questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is intent data?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is B2B buyer intent data?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are buyer intent signals?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is first-party intent data?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is second-party intent data?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is third-party intent data?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "Does 6sense have global coverage?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/intent-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently Asked Questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/b2b-buyer-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are the benefits of a company research tool?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/b2b-buyer-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are the benefits of a professional contact directory?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/b2b-buyer-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "How many business profiles are in the company database?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/b2b-buyer-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "How many individual profiles are in the contact directory?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/b2b-buyer-data",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/account-matching",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is account matching?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/account-matching",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is lead-to-account matching?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/account-matching",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/predictive-analytics",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are predictive analytics in marketing?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/predictive-analytics",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are predictive analytics for sales?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/predictive-analytics",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are examples of predictive marketing analytics?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/predictive-analytics",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are examples of predictive sales analytics?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/predictive-analytics",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently Asked Questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/email-agent",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is an AI Email Agent?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/email-agent",
+      "rawPhrases": []
+    },
+    {
+      "question": "How is AI used in email marketing?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/email-agent",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently Asked Questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/advertising",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is B2B advertising?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/advertising",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is B2B programmatic advertising?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/advertising",
+      "rawPhrases": []
+    },
+    {
+      "question": "What ad networks can I use with 6sense digital advertising?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/advertising",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/audience-builder",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is audience building?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/audience-builder",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is dynamic audience targeting?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/audience-builder",
+      "rawPhrases": []
+    },
+    {
+      "question": "What is audience intelligence?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/audience-builder",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "Do I have to be a 6sense customer to use Smart Form Fill?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "What marketing automation platforms (MAPs) can be integrated?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are the input parameters for Smart Form Fill?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "How do I get IP-based firmographics enrichment?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "How do I get email-based people enrichment?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/form-conversion-optimization",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently asked questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/account-prioritization",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are prioritization dashboards?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/account-prioritization",
+      "rawPhrases": []
+    },
+    {
+      "question": "What data is included in the dashboards?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/account-prioritization",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are predictive analytics for sales?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/account-prioritization",
+      "rawPhrases": []
+    },
+    {
+      "question": "Frequently Asked Questions",
+      "answer": "",
+      "sourceUrl": "https://6sense.com/platform/company-people-search",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are the benefits of a company research tool?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/company-people-search",
+      "rawPhrases": []
+    },
+    {
+      "question": "What are the benefits of a professional contact directory?",
+      "answer": "add",
+      "sourceUrl": "https://6sense.com/platform/company-people-search",
+      "rawPhrases": []
+    }
+  ]
+}

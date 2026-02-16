@@ -1,0 +1,35 @@
+ISV domain	Partner Domain	Partner Category	Type
+6sense.com	salesassembly.com		Partnership
+6sense.com	pathfactory.com	Content Marketing	Partnership
+6sense.com	folloze.com	Account Based Marketing	Partnership
+6sense.com	reachdesk.com	Print Software and Services	Partnership
+6sense.com	trustradius.com	Marketing Data Intelligence	Partnership
+6sense.com	hushly.com	Lead Generation	Partnership
+6sense.com	peerspot.com	Marketing Data Intelligence	Partnership
+6sense.com	verticaliq.com	Social Media Marketing	Partnership
+6sense.com	metadata.io	Account Based Marketing	Partnership
+6sense.com	postal.com	Customer Experience Management	Partnership
+6sense.com	reactful.com		Partnership
+6sense.com	cleanshelf.com		Partnership
+6sense.com	qualified.com	Conversational Marketing	Partnership
+6sense.com	fullcircleinsights.com	Marketing Attribution	Partnership
+6sense.com	alyce.com	Marketing Automation	Partnership
+6sense.com	intellimize.com		Partnership
+6sense.com	printfection.com	Print Software and Services	Partnership
+6sense.com	trendemon.com	Marketing Data Intelligence	Partnership
+6sense.com	outreach.io	Sales Engagement	Partnership
+6sense.com	hockeystack.com	Digital Analytics	Partnership
+6sense.com	marketlinc.com		Native
+6sense.com	crooze.com	Digital Asset Management	Native
+6sense.com	demandmatrix.com		Native
+6sense.com	conversica.com	Conversational Marketing	Native
+6sense.com	leandata.com	Account Based Marketing	Native
+6sense.com	okta.com	Digital Signature	Native
+6sense.com	salesloft.com	"Sales Engagement,Conversational Marketing"	Native
+6sense.com	contentsquare.com	Digital Experience Platform	Native
+6sense.com	sendoso.com	Marketing Automation	Native
+6sense.com	kameleoon.com	Conversion Rate Optimization	Native
+6sense.com	integrate.com	"Event Management,Account Based Marketing"	Native
+6sense.com	pipedrive.com	CRM	Native
+6sense.com	channelape.com	E-Commerce Software	Native
+6sense.com	salesvue.com	Sales Engagement	Native

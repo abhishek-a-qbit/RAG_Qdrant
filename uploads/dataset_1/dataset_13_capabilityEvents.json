@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "canonicalProductName": "6sense Revenue AI",
+    "vendorDomain": "6sense.com",
+    "datasetId": "13_capabilityEvents",
+    "schemaVersion": "1.1",
+    "status": "LOCKED",
+    "generatedAt": "2025-12-28",
+    "trademarkMap": {
+      "6sense": "6sense\u00ae",
+      "Signalverse": "Signalverse\u2122",
+      "6AI": "6AI\u2122",
+      "6sense Revenue AI": "6sense Revenue AI\u2122"
+    },
+    "lockHistory": [
+      {
+        "step": 5,
+        "action": "LOCKED",
+        "timestamp": "2025-12-28T14:06:26.964255"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "evt_001",
+      "description": "Launched AI Email Agents for automated account engagement",
+      "relatedCapabilityIds": [],
+      "evidenceSources": [
+        "vendor_json"
+      ],
+      "isLegacyContrast": false
+    },
+    {
+      "id": "evt_002",
+      "description": "Introduced Sales Copilot for seller productivity",
+      "relatedCapabilityIds": [],
+      "evidenceSources": [
+        "vendor_json"
+      ],
+      "isLegacyContrast": false
+    },
+    {
+      "id": "evt_003",
+      "description": "Released Intelligent Workflows Engine for omnichannel orchestration",
+      "relatedCapabilityIds": [],
+      "evidenceSources": [
+        "vendor_json"
+      ],
+      "isLegacyContrast": false
+    },
+    {
+      "id": "evt_004",
+      "description": "Enhanced Signalverse data processing to 1 trillion signals daily",
+      "relatedCapabilityIds": [],
+      "evidenceSources": [
+        "vendor_json"
+      ],
+      "isLegacyContrast": false
+    }
+  ]
+}

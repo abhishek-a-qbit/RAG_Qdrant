@@ -1,0 +1,320 @@
+﻿Licensed for Distribution 
+Magic Quadrant for Account Based Marketing Platforms 
+11 November 2024 - ID G00805068 - 43 min read 
+By Jenifer Silverstein, Ray Pun, and 3 more 
+B2B marketers use account-based marketing to acquire new business, grow revenue from existing customers and collaborate with sales. This research helps demand generation leaders evaluate ABM platforms to enable better decision making, improve engagement across accounts and deliver measurable value. 
+Market Deinition/Description 
+Gartner deines account-based marketing (ABM) platforms as software that enables B2B marketing and sales teams to run ABM programs at scale, including account discovery and selection, planning, engagement, and reporting. Platforms enable the creation of target account lists by unifying irst- and third-party data. In addition, platforms may engage audiences by activating channels such as display advertising, social advertising, email and sales engagement using a mix of native capabilities and integrations. 
+ABM platforms help B2B marketers and sellers to create a set of target accounts and engage buying team members with relevant outreach and content to help buyers explore and evaluate their solutions. To support this effort, ABM platforms offer capabilities to engage audiences by activating channels such as: 
+Display advertising and retargeting 
+Social advertising 
+Email
+Personalized webpages 
+Sales engagement 
+Common use cases include: 
+New account acquisition: This scenario involves coordinating marketing and sales efforts to identify and pursue new accounts by leveraging account data and insights, such as irmographics, technographics and buying intent. It also entails creating effective, relevant account-based marketing programs designed to engage buying teams across channels to generate demand and revenue. 
+Account retention: This scenario focuses on harnessing existing customer data (e.g., purchase history, renewal status, product usage, customer health and intent) to identify accounts that require proactive marketing and sales outreach. Speciically, customer marketing campaigns are designed to increase account engagement by reinforcing value statements with the goal of customer retention. 
+Account expansion: This scenario focuses on harnessing existing customer data (e.g., purchase history, renewal status, product usage, customer health and intent) and predictive analytics to identify customer growth opportunities where marketing and sales can develop outreach campaigns across channels to upsell or cross-sell additional products and services. 
+Mandatory Features 
+At a minimum, the mandatory features of ABM platforms include: 
+Discovery, creation and management of target account lists and audiences by unifying irst and third-party data. 
+Account-level intent data (proprietary and/or licensed from a third party) to understand buyer interest and behavior, with at least one native intent data source included with the platform license. 
+Native user experience for orchestrating and managing display advertising campaigns. 
+Journey orchestration and campaign activation across multiple channels, such as social media or search engines, and engagement channels, such as email or website
+personalization, to drive engagement and progression in the buyer’s journey. 
+Account measurement and analytics to quantify performance across channels, campaigns and programs. 
+Common Features 
+Common capabilities of ABM platforms include: 
+Sales alerts and insights based on account-level actions and engagement, triggering timely and relevant sales interactions. 
+Integrations with complementary marketing and sales technology, such as CRM or sales force automation platforms, B2B marketing automation platforms, marketing analytics platforms, and sales engagement tools. 
+Predictive analytics, such as ideal customer proile it or propensity to buy models, and recommendations for next best actions. 
+Attribution modeling to understand the inluence of multiple channels in driving buyer engagement. 
+Account data, such as irmographics, technographics and psychographics, and account insights to support the creation of account plans.
+Magic Quadrant 
+Figure 1: Magic Quadrant for Account-Based Marketing Platforms 
+  
+Vendor Strengths and Cautions 
+6sense 
+6sense is a Leader in this Magic Quadrant. The 6sense Revenue AI platform helps sales, marketing and supporting operations teams run ABM programs by using AI-driven predictive models. Its operations are focused in North America, with additional presence in the Europe, Middle East and Africa (EMEA) and Asia/Paciic (APAC) regions. Its customers span in size, with
+the majority being small to midmarket, primarily in the technology vertical (i.e., IT software, service and hardware providers). 6sense’s roadmap includes people-based audiences for targeting across channels supported natively and via integrations and automated audience segmentation, advanced journey and revenue analytics, new GenAI-enabled features for sales activities, AI-based ad optimization, and enhancements for 6sense’s GenAI-written Conversational Email. 
+Strengths 
+Company growth: 6sense has achieved signiicant growth over the past year, performing above average across vendors in this report for both percentage and absolute revenue, as well as customer growth. Fueling this growth is 6sense’s high market awareness, as indicated by Gartner’s site search analytics and inquiry volume. 
+Thought leadership and communities: In addition to a dedicated research and thought leadership team that produces educational content, 6sense holds an annual lagship conference, as well as events for both chief marketing oicers and business development representative leaders, and has over 20 local user groups. 6sense also provides certiications for customers and noncustomers, and platform users can access 6sense’s online community for further support and resources. 
+Sales alerts and insights: The platform supports multiple delivery methods and alert categories, such as new priority accounts, recent web visits, and other engagement activities and intent signals. With necessary licensing, marketing or sales users can set up alerts, which include AI-driven next best actions for contacts, with explanations such as the engagement or signal that triggered a suggested action. 
+Cautions 
+Product packaging: 6sense’s portfolio is packaged as two primary product offerings for marketers and sellers — Revenue AI for Marketing and Revenue AI for Sales, respectively — each with several optional allowances and add-on modules. Obtaining complete capabilities across both marketing and sales requires additional licensing for the orchestrations, Conversational Email and predictive capabilities. 
+Attribution modeling: Although 6sense customers can see overall ad campaign inluence on pipeline and revenue, 6sense lacks traditional attribution modeling (such as irst touch, last
+touch and multitouch) to support channel optimization. This limits marketers’ ability to understand the inluence of multiple marketing-led or sales-led channels in generating pipeline and revenue outcomes. 
+Vertical strategy: 6sense has a higher portion of its customer base within the technology industry (i.e., IT software, service and hardware providers) than other vendors evaluated in this research. Because the platform’s capabilities are not built toward speciic industry needs, marketers seeking industry-speciic support for use cases beyond the technology vertical should evaluate 6sense’s capabilities and roadmap to ensure it. 
+Demandbase 
+Demandbase is a Leader in this Magic Quadrant. Its Demandbase One platform provides a comprehensive and integrated solution for ABM programs, including sales alerts and insights. It also offers advanced options for advertising, such as personalized display ads and connected TV. Its operations are focused mostly in North America, and its clients range in size from small or midsize to enterprise companies in technology, business services, manufacturing and 
+inancial services. Demandbase’s roadmap includes using GenAI to create account engagement summaries and talking points for sellers, a new AI scoring model to identify upsell/cross-sell opportunities, and native LinkedIn ad campaign creation and reporting. 
+Strengths 
+Digital advertising: Demandbase provides a comprehensive worklow and advanced options for orchestrating display and video advertising campaigns, including media planning, audience targeting, ad personalization and performance reporting. The B2B-speciic demand-side platform leverages AI to optimize ad campaigns for outcomes such as increased website engagement or higher intent and awareness. 
+Thought leadership: Demandbase offers a robust thought leadership program to engage buyers, users and inluencers via in-person and virtual events. It also offers content such as a new book from its chief marketing oicer (CMO) about achieving sales and marketing alignment, infographics and podcasts, as well as vibrant customer communities with learning and networking opportunities. 
+Customer experience: Reviewers on Gartner Peer Insights report positive customer experiences, citing achievement of business outcomes. Demandbase’s success teams are
+composed of customer success managers, implementation managers, growth account directors and advertising campaign strategists (if applicable), as well as a supporting team of technical support agents, ABM strategists and technical consultants. 
+Cautions 
+Focus on enterprise complexity: Demandbase has shifted its product and go-to-market (GTM) strategy to focus on enterprise-class companies with complex use cases, such as multiple product lines, geographies or business units. Organizations should evaluate whether their company size and needs match the advanced use cases supported by Demandbase. 
+Geographic strategy: Relative to other vendors in this research, Demandbase has a lower number of employees and customers who are based outside of North America. Buyers should evaluate whether Demandbase can support their regional teams located in EMEA and APAC countries. 
+Sales alerts and insights: Demandbase’s sales insights focus on providing a prioritized account list based on engagement, intent and news events, in addition to identifying the buying groups that should be the focus of outreach and sales engagement activities. However, these recommendations do not indicate a speciic action to be taken, and sellers must rely on their own experience to decide how to best engage buyers.
+Dun & Bradstreet 
+Dun & Bradstreet (D&B) is a Visionary in this Magic Quadrant. Its Rev.Up ABX suite consists of ads, web, sales and email that sit on top of the D&B Customer Data Platform and D&B Data Cloud foundation. Its operations are focused on direct selling in North America and Europe, and its clients tend to be midsize or large enterprises across a variety of industries. Recently added functions are improved matching for anonymous visitors, additional connectors to other sales and martech, and enhanced segment and buyer journey analysis. The roadmap includes enhancements to segments and attribution; GenAI-generated insights, recommendations and talking points for sales reps; and GenAI insights and recommendations on advertising campaigns. 
+Strengths 
+Vertical coverage: Rev.Up ABX is sold across a variety of industries in addition to technology, including manufacturing, business services, inancial services, wholesale, media and telecommunications. The diverse customer base highlights the product’s ability to support multiple industries. 
+Demonstrated results: D&B’s case studies demonstrate that customers have achieved ROI and increased reach, engagement, conversion and/or pipeline. D&B’s strong customer success team, with dedicated support per module and global 24/7 support, contributes to these successes. 
+Access to data cloud: Supported by the company’s heritage in company business data, the Rev.Up ABX product is integrated with the D&B Data Cloud, providing marketers with access to robust third-party customer data to support audience selection across industries and geographies. 
+Cautions 
+Customer retention and growth: The Rev.Up ABX platform has experienced lower customer retention and customer growth rates than platforms from other vendors. One reason may be D&B’s transition to focus growth efforts for the platform on large enterprises in inancial services and B2B services. 
+Sales alerts and insights: Sales alerts use predeined talking points, set up by marketing, that are based on attributes such as irmographics, intent data or engagement. However, the alerts do not provide speciic next best actions, as seen with other platforms. 
+Partner strategy: D&B operates a direct sales strategy in North America, so there are no formalized implementation partners operating in this key market. Marketers should assess their needs and prepare to work with Dun & Bradstreet’s customer service team.
+Expandi Group 
+Expandi Group is a Niche Player in this Magic Quadrant. The company acquired the Jabmo platform in 2023 and has integrated it with other Expandi platforms, such as Cyance for third party intent data and AccountInsight for display advertising. It offers a modular ABM platform, with base capabilities including website tracking and personalization, audience management, LinkedIn integration, and reporting, along with add-on capabilities. Its operations are mainly 
+based in EMEA, and its clients are mainly midsize organizations in the technology, healthcare and manufacturing industries. Its roadmap includes sales alerts and insights coniguration by sales managers, as well as AI-driven advertising optimization options. 
+Strengths 
+Intent data: Third-party intent data is available from multiple sources, such as bidstream and social media activity, and by geographic location that can be used for account targeting. Further, the platform suggests “look alike” intent keywords that it predicts are relevant based on current keyword selections, and it has a contact center to validate intent signals. 
+Pricing and packaging: Expandi prices the Jabmo platform lower than average across the vendors in this research, with modular pricing for lexibility. This pricing and packaging structure is most likely suitable for its midmarket company focus. 
+Clear segment focus: Expandi shows a clear value proposition and focus on midmarket companies or enterprise accounts that are at the start of their ABM journey. These segments are sensitive to price and require a solution that is quick and easy to implement, with or without managed services. 
+Cautions 
+Marketing automation integration: Jabmo is the only platform evaluated in this research that does not support a direct integration to marketing automation platforms. This may limit marketers’ ability to automatically send audiences to marketing automation tools and activate email channels — in particular for lead nurturing. 
+Partner strategy: Expandi does not have a network of sales and support partners across regions to support Jabmo implementations. Marketers considering Jabmo should be prepared to work with Expandi’s services team rather than with a preferred provider. 
+Postacquisition issues: The product’s long-term viability may be affected by postacquisition issues as Expandi rebuilds Jabmo’s customer base (after some preacquisition customer attrition) and integrates Jabmo with other assets within its organization. Marketers considering Jabmo should inquire about growth and roadmap plans.
+N.Rich 
+N.Rich is a Niche Player in this Magic Quadrant. Its N.Rich product offers a simpliied set of easy-to-use, cost-effective ABM capabilities. Its operations are headquartered in Finland, and most of its marketing focus is in Europe and APAC, though it is expanding into North America. Clients tend to be fast-growing midmarket or enterprise organizations across industries, including manufacturing, inancial services and healthcare. N.Rich’s roadmap includes additional analytics for tracking buyer journey progression — allowing users to focus on areas with the most potential — and also includes seller alerts. It has also planned marketing impact and performance reports and is extending its GenAI ad assistant to include a conigurable knowledge base. 
+Strengths 
+Vertical coverage: Although still a relatively small company, N.Rich has acquired customers in other industries beyond technology, including manufacturing, inancial services, healthcare, telecommunications and business services. Marketers from outside of the technology industry may beneit from N.Rich’s experiences in supporting these other verticals. 
+Rapid time to value: N.Rich provides an easy-to-use application that addresses the primary needs of its target customers, predominantly midmarket companies in Europe and increasingly in North America. This focus and simplicity allows for a rapid implementation time and rapid time to value. 
+Data privacy options: Based in Europe, N.Rich takes particular care with General Data Protection Regulation (GDPR) compliance and its customers’ data. It provides two regional data centers, with multiple site centers per region, which allows customers to select the most relevant data centers and maintain data sovereignty. 
+Cautions 
+Company resources: N.Rich is the smallest company in terms of both revenue and headcount included in this research, limiting its go-to-market, customer support and partnering capabilities. Competing in an established market like North America, against several well-known competitors with signiicant resources to innovate and execute, may prove challenging.
+Sales alerts and insights: N.Rich users can send weekly email alerts to sales representatives surfacing priority accounts and past engagement. However, the platform does not offer a portal for sales users, and no guidance or speciic recommendations are made. 
+Limited innovation: Many of the roadmap items appear to be addressing product weaknesses and adding functionality that is already available in competing platforms, relecting the relative immaturity of the product. Marketers will need to evaluate N.Rich’s capabilities and roadmap carefully to determine compatibility with key requirements and use cases. 
+RollWorks 
+RollWorks, a division of NextRoll, is a Visionary in this Magic Quadrant. Its ABM platform provides target account identiication, display advertising and measurement via a self-service user experience. Its operations are focused mostly in North America, and its customers represent a mix of small and midmarket companies in technology, business services and manufacturing. RollWorks’ roadmap includes next best action recommendations for contacts, a self-serve connected TV experience, and an AI assistant for building and managing ad campaigns. 
+Strengths 
+Campaign management: RollWorks provides an intuitive, self-service interface for managing display, LinkedIn and Facebook ad campaigns, with managed services support offered. In addition, advanced capabilities support dynamic ad personalization based on the company or contact, and GenAI enables the creation of ad copy and call-to-action text based on the marketer’s brand. 
+Indirect channel strategy: Some 180 agency partners support prospects and customers with sales and services, and RollWorks is a leading partner in the HubSpot partner ecosystem, with nearly 1,000 installations of the RollWorks ABM app. This partner network provides marketers with multiple support and implementation options before and after purchase of the platform. 
+Multilanguage user experience: Beyond English, the user experience offers six languages. Users can specify a preferred language without affecting the language for other teammates under the same accounts.
+Cautions 
+Customer growth: RollWorks experienced below-average customer growth from 2022 to 2023 compared with other vendors evaluated in this research, most likely due to economic headwinds affecting its target market of small and midmarket companies. 
+Geographic strategy: RollWorks’ primary focus is U.S. companies, and the majority of its sales and customer success teams are U.S.-based. Support may be limited in other regions or countries. 
+Sales alerts and insights: Sales insights focus on identifying contacts who should be the focus of outreach and sales engagement activities. However, these recommendations do not indicate a speciic action to be taken. Sellers must rely on their own experience to decide how to best engage buyers. 
+Terminus 
+Terminus is a Niche Player in this Magic Quadrant. Its platform is mainly focused on providing native multichannel advertising experiences, including display, retargeting, social, audio and video. Additional channels include website personalization, AI-supported chat and dynamic email signatures. Its operations are focused in North America, and its clients tend to span company sizes and are mainly in technology and business services. Terminus’ roadmap includes: new advanced ad formats and channels such as Meta and interactive connected TV; AI-powered predictive trends, in-app recommendations and account intelligence; and the ability to create custom funnel stages. 
+Strengths 
+Advertising fraud prevention: Terminus reports that it maintains low ad fraud rates through the implementation of third-party tracking pixels, stringent brand safety measures and precise targeting. This ensures improved ad campaign reach, better ROI and increased transparency for marketers to justify investments. 
+Advanced advertising formats: Terminus offers the ability to serve native ads to engage audiences through sponsored content that blends in with the look and feel of the target website or application. Additionally, Terminus provides video, connected TV and audio ads.
+Competitive pricing: Terminus offers its ABM software solution at a competitive price. That, combined with its high score on Gartner Peer Insights for service and support, makes it a cost-effective choice, especially for small and midsize businesses. 
+Cautions 
+Market responsiveness: Terminus’ roadmap lacks signiicant innovation in GenAI, which is an emerging trend observed in ABM platforms evaluated in this research. Marketers seeking to accelerate their ABM efforts through GenAI should evaluate Terminus’ roadmap in this area. 
+Customer growth: Terminus has observed below-average customer growth from 2022 to 2023 compared with other vendors evaluated in this research. 
+Vertical strategy: The majority of Terminus’ customer base comes from the technology and business services industry vertical. Other major industries are either unrepresented or make up a small percentage of Terminus’ client base. 
+ZoomInfo 
+ZoomInfo is a Leader in this Magic Quadrant. As part of a suite, the ZoomInfo Marketing platform is focused mainly on proprietary company, contact and intent data, and it supports multichannel engagement via integrated worklows with the ZoomInfo Sales product. Further, it supports AI-enabled capabilities such as recommended next best actions for sales via its ZoomInfo Copilot product. Its operations are centered in North America, EMEA and Asia, and it is focused across industries, including inancial services, insurance, telecommunications, real estate and healthcare/life sciences. ZoomInfo’s roadmap includes intent signal modeling — to predict opportunity creation — and expanded advertising, including support for personalization, video and connected TV. 
+Strengths 
+Market awareness: ZoomInfo cites a customer base of 35,000 companies across products, and Gartner’s site search analytics, along with growing inquiry volume for ZoomInfo’s Marketing product, indicate high awareness among our clients. This factor may help marketers who are evaluating the platform and seeking internal buy-in from sales leaders who are already familiar with ZoomInfo data.
+Onboarding and implementation: ZoomInfo’s Marketing product has a faster-than-average onboarding and implementation time frame compared with other vendors evaluated. For particularly complex implementations, all customers can access customer success resources for onboarding. 
+Integrations: In addition to CRM and marketing automation platforms, the Marketing product integrates with applications, including sales engagement platforms, social advertising applications and third-party ad exchanges. This breadth of integrations can help marketers streamline their worklows and have a more comprehensive view of account activity. 
+Cautions 
+Implementation partners: ZoomInfo has a limited network of service partners for implementation and deployment of its Marketing product. Marketers with complex implementations should assess their needs and prepare to work with ZoomInfo’s customer service team. 
+Account measurement analytics: ZoomInfo’s Marketing product provides an Account Fit Score based on a customized ideal customer proile (ICP) deinition derived from CRM data and irmographics, but that lacks the ability to customize predictive AI modeling weightings. Further, the product’s in-market score is limited to signals based on intent and website and advertising engagement. 
+Product packaging: ZoomInfo packages its Marketing product separately from its Sales product, and offers its ZoomInfo Copilot product and other capabilities as add-ons with several optional allowances. Marketers evaluating ZoomInfo for their ABM programs should investigate which modules are needed to meet their requirements.
+Vendors Added and Dropped 
+We review and adjust our inclusion criteria for Magic Quadrants as markets change. As a result of these adjustments, the mix of vendors in any Magic Quadrant may change over time. A vendor's appearance in a Magic Quadrant one year and not the next does not necessarily indicate that we have changed our opinion of that vendor. It may be a relection of a change in the market and, therefore, changed evaluation criteria, or of a change of focus by that vendor. 
+Added 
+Expandi Group was added. 
+Dropped 
+Madison Logic and Triblio were dropped. 
+Inclusion Criteria 
+To qualify for inclusion, vendors needed to demonstrate that they met the following criteria as of 31 July 2024: 
+Proven ability to deliver ABM functionality, as deined below in theInclusion Criteria: Functionality section through a production platform that is offered through general availability (GA). 
+At least $10 million USD in 2023 calendar year revenue for the vendor’s ABM solution or a minimum of $5 million USD in 2023 calendar year revenue and 25% year-over-year growth versus 2022 for the vendor’s ABM solution. 
+At least 100 customers, not including pilot programs or free trials, that are using the vendor’s platform for ABM use cases. 
+A minimum of 30 customers that are new to the organization within the past 12 months, and which have successfully deployed the ABM platform in a productionenvironment. Or the vendor ranks among the top 15 for the Customer Interest Indicator (CII), as deined by Gartner: 
+CII was calculated using a weighted mix of internal and external inputs that relect Gartner client interest, vendor customer engagement and vendor customer sentiment from the past 12 months. 
+A successful deployment is deined as being able to show production capability of more than oneareafrom theInclusion Criteria: Functionality listed belowin the context of an ABM use case.
+A purpose-built, stand-alone ABM platform that does not have any prerequisite licensing dependencies on a CRM lead management orB2Bmarketing automation platform. Companies that provide ABM capabilities as add-on modules or features, but do not package these capabilities as a stand-alone offering are not eligible for inclusion in this research. 
+Functionality 
+Audiencemanagement. This capability enablesB2Bmarketers to unify account data by ingesting and activating their own irst-party data while bringing in and utilizing third-party data sourcesviastandard data connectors or, if necessary, APIs.This account datacan be used to discover, create andmanage target account segments and audiences for campaign orchestration and activation. 
+First-party data to be available in audience creation includes a minimum of three of the following types: 
+CRM or sales force automation (SFA) activity 
+Website activity (known and anonymous) 
+Marketing activity (which may include email, social media,contentand events) Product usage and adoption scores 
+Customer health scores 
+Accountor segmentplan data 
+In addition, third-party data that can be ingested and used to create audiences includes a minimum of two of the following types: 
+Firmographics 
+Technographics 
+Psychographics 
+Intent 
+Market intelligence
+Intent data. This capability helps marketers understand what an individual or company is likely to do or buy next, based on behavioral information collected about an individual’s or company’s online activities. ABM platforms offer proprietary intent data and/or integrate licensed third party intent data thatuses atopic or keywordtaxonomy for buyer intent. ABM platforms must include at least one native intent data source with the platform license. 
+Campaign management for display advertising. This capability enables marketers to plan, create, execute and measure display advertising campaigns across the open internet and mobile apps for reaching target accounts. Due to current market expectations, ABM platforms must provide a “native” UX for activating and managing display advertising campaigns. Native functionality enables users to complete campaign worklows, with a self-service UI in the product, without having to access and use a separate third-party application or managed services. 
+Multichannel journey orchestration. This capability enables marketers to orchestrate buying journeys and activate campaigns across multiple channels simultaneously to drive engagement and progression of complex buying journeys for buying teams in target accounts. ABM platforms must provide support for multiple channels via a mix of native capability and integrations for activating audiences to other systems and applications. Native capability enables users to complete campaign worklows, with a self-service UI in the product, without having to access and use a separate third-party application or managed services. 
+In contrast, integrations enable marketers to send audiences to another system or application for execution in a speciic channel. Beyond display advertising, at a minimum, ABM platforms should support journey orchestration with at least ive of the following channels: 
+Ad retargeting 
+Social advertising 
+Search engine advertising 
+Content syndication 
+Website personalization 
+Email
+Website chat 
+Direct mail/gifting 
+Sales engagement 
+Sales alerts and insights. This capability notiies sales teams about key account activity, providing prescriptive insights to further engagement with buyers. Sales alerts and insights may be delivered via email and integrations with tools for business communication, SFA or sales engagement. 
+Account measurement and analytics. This functionality includes reporting on website and channel-speciic engagement activity, providing marketers with insight about campaign lift and performance for target accounts. It also enables account-level engagement scoring across a range of marketing and sales touchpoints, comprising known and anonymous visits, which supports ABM activities from account selection through reporting and optimization. 
+Furthermore, there is increasing market expectation that vendors will offer AI-related technologies, such as machine learning (ML) frameworks and support for predictive analytics and/or recommendations. Accordingly, vendors should support at least one of the following advanced analytics capabilities: 
+Account journey analytics to track and analyze engagement by all stages of the customer journey or interaction channels, using at a minimum bidirectional data from CRM or SFA and B2B marketing automation systems. 
+Predictive analytics, such as ideal customer proile it or propensity to buy models and recommendations for next best actions. 
+Attribution modeling (rule-based or algorithmic-based that quantiies the inluence of multiple channels, campaignsor content on conversion events, such as opportunity creation or closed/won deals.
+Integrations with complementary marketing and sales technology. These include core SFA and marketing automation systems, as well as sales engagement systems, social advertising networks and conversational marketing tools. Vendors should support out-of-the-box, direct integration (via standard data connectors or APIs) with CRM or SFA tools and optionally may support direct integration with B2B marketing automation or lead management tools. 
+Additionally, ABM platforms should support out-of-the-box, direct integration (via standard data connectors or APIs) with at least three of the following categories of complementary tools: 
+Marketing analytics 
+Sales engagement 
+Social advertising 
+Third-party ad networks 
+Direct mail/gifting 
+Email and calendar 
+Content marketing 
+Conversational marketing 
+Customer data platforms 
+Digital asset management
+Evaluation Criteria 
+The evaluation criteria and weights describe the speciic characteristics and their relative importance that support Gartner’s view of the market. These criteria are used to comparatively evaluate ABM platform providers in this research. 
+Ability to Execute 
+Product or Service 
+This criterion refers to the vendor’s core goods and services that compete in and/or serve the deined market. This includes current product and service capabilities, quality, feature sets, skills and so on. This can be offered natively or through OEM agreements/partnerships as deined in the Market Deinition and detailed in the subcriteria. 
+We speciically look for: 
+Execution of the functionalities noted in the Functionality section 
+Evidence of a consistent product release/update cadence indicating the overall health of a vendor’s product delivery 
+Evidence of a meaningful and robust product roadmap that addresses market needs Overall Viability 
+This criterion refers to an assessment of the vendor’s overall inancial health, as well as the inancial and practical success of its business unit. This criterion examines the likelihood of the vendor to continue to offer and invest in its ABM platform, as well as its position in the vendor’s current product portfolio. 
+We speciically look for: 
+The health of the line of business offering ABM solutions, as evidenced by a consistent ability to generate revenue and growth in the ABM platform market 
+Customer and revenue retention rates 
+Sales Execution/Pricing 
+This criterion evaluates the vendor’s capabilities in all presales activities and the structure that supports them. It includes deal management, pricing and negotiation, presales support, and the overall effectiveness of the vendor’s sales channels. 
+We speciically look for: 
+The number of new customers acquired in the past year 
+Cost and pricing competitiveness as it relates to competitors with comparable capabilities, including: 
+The published list price of the vendor’s product 
+Any optional modules needed to meet the minimum product requirements deined above Annual maintenance fees (if any) 
+Any required services, training, implementation fees, customization or related services
+Customer satisfaction with contracting and negotiation processes 
+The support provided in helping prospects develop a business case and understand and estimate potential business outcomes, return on investment (ROI) or other economic metrics associated with the ABM solution 
+Market Responsiveness and Track Record 
+This criterion refers to the vendor’s ability to respond, change direction, be lexible and achieve competitive success as opportunities develop, competitors act, customer needs evolve and market dynamics change. This criterion also considers the vendor’s history of responsiveness to changing market demands. 
+We speciically look for: 
+A vendor’s success in creating and meeting a consistent demand for its product, measured in continuing client wins, adoption and usage among its installed base 
+Demonstrated investment of resources in product development in new areas directly related or adjacent to ABM platforms in response to market demand or need 
+Marketing Execution 
+This criterion considers the clarity, quality, creativity and eicacy of programs designed to deliver the vendor’s message to inluence the market, promote the vendor’s brand, increase awareness of products and establish a positive identiication in the minds of customers. This awareness and positioning can be driven by a combination of publicity, promotional activity, thought leadership, social media, referrals and sales activities. 
+We speciically look for: 
+The vendor’s ability to execute tactical and strategic marketing programs and campaigns that engage buyers, customers and inluencers 
+The vendor’s ability to create and extend its brand as an ABM platform vendor and visionary in the space 
+Gartner analysis, as measured by Gartner client interest, vendor customer engagement and vendor customer sentiment
+Customer Experience 
+This criterion considers the products, services and/or programs that enable the vendor’s customers to achieve anticipated results with the ABM platform evaluated. Speciically, this includes quality interactions by technical support or account support teams. This may also include ancillary tools, customer support programs, availability of user groups, service-level agreements and so forth. 
+We speciically look for: 
+The availability and viability of internal customer service and support capabilities, including support resources, customer success management, online customer communities, systems, policies and extent of global coverage 
+Accessibility of external resources, including partnerships with marketing agencies, consulting organizations and technology vendors 
+Demonstrated ability to help customers achieve positive business value, as well as drive sustained user adoption of a vendor’s ABM solution (or solutions) 
+The average time required and process for customers to onboard and implement the vendor’s ABM solution 
+Operations 
+This criterion evaluates the vendor’s ability to meet its stated goals and commitments. Factors include quality of the vendor’s organizational structure, skills, experiences, programs, systems and other vehicles that enable the vendor to operate effectively and eiciently. 
+We speciically look for: 
+The ability of the organization to meet goals and commitments 
+The quality of data privacy and data security policies, including location options for the storage of customers’ data and the ability of customers to select where data resides
+Table 1: Ability to Execute Evaluation Criteria 
+Evaluation Criteria Weighting Product or Service High Overall Viability High Sales Execution/Pricing Medium Market Responsiveness/Record Medium Marketing Execution Medium Customer Experience Medium Operations Low 
+Source: Gartner (November 2024) 
+Completeness of Vision 
+Market Understanding 
+This criterion considers the vendor’s ability to understand customer needs and translate them into products and services. We evaluate the vendor’s ability to listen, understand customer demands, and shape or enhance market changes with its added vision. 
+We speciically look for: 
+The vendor’s unique value proposition to the market 
+A comprehensive vision of external market forces (for example, B2B buying trends and changing regulatory landscape) 
+Alignment with customer objectives and use cases for acquisition, retention and expansion
+Marketing Strategy 
+This criterion evaluates the vendor’s ability to provide clear, differentiated messaging that is consistently communicated internally and externalized through social media, advertising, customer programs and positioning statements. 
+We speciically look for: 
+How effectively the vendor communicates and accentuates any unique functionality or value proposition 
+How effective the vendor is at reaching the buying center (or centers) for companies purchasing ABM solutions 
+How effectively the vendor conveys differentiation and vision via events, thought leadership programs and overall visibility 
+Sales Strategy 
+This criterion considers the vendor’s strategy for using appropriate networks — including direct and indirect sales, marketing, service, and communication — to sell its ABM platform. We also look at a vendor’s ability to extend the scope and depth of its market reach, expertise, technologies, services and customer base. 
+We speciically look for: 
+The vendor’s direct sales strategy and team structure (for example, account executives, sales development representatives [SDRs] and sales engineers) for engaging customer segments by size, region or industry 
+The vendor’s indirect channel strategy and the role of agencies and partners in the vendor’s sales process
+Offering (Product) Strategy 
+This criterion refers to the vendor’s approach to product development and delivery. We evaluate how well a vendor is able to emphasize market differentiation, functionality, methodology and features as they map to current and future requirements. 
+We speciically look for: 
+The vendor’s product vision relative to the capabilities noted above in the Functionality section 
+A consistent product release/update cadence indicating the overall health of the vendor’s ABM roadmap 
+Business Model 
+This criterion examines the design, logic and execution of the vendor’s business proposition to achieve continued success. 
+We speciically look for: 
+The overall design of the vendor’s business model, including its value proposition, customer segments and capabilities such as people, technology and data 
+The product license model (such as subscription versus one-time license fee) that effectively monetizes the value of the vendor’s ABM offering (or offerings) 
+Vertical/Industry Strategy 
+This criterion refers to the vendor’s strategy to direct resources (i.e., sales, product and development), skills and products to meet the speciic needs and use cases of individual market segments, including verticals. 
+We speciically look for: 
+A strategy that extends beyond technology companies, including software and service providers 
+The vendor’s ability to direct resources, skills and investment to meet the speciic needs of new market segments, users or vertical industry groups
+Innovation 
+This criterion evaluates the direct, related, complementary and synergistic layouts of resources, expertise or capital for investment, consolidation, or defensive or preemptive purposes. 
+We speciically look for investment of inancial, management or technology resources, expertise or capital in the following areas intended to expand the scope, capabilities or global 
+presence of the vendor and its products for its customers: 
+Product development in new areas directly related or adjacent to ABM Third-party and partner relationships 
+Mergers and acquisitions 
+Geographic Strategy 
+This criterion evaluates the vendor’s strategy to direct resources, skills and offerings to meet the speciic needs of geographies outside the “home” or native geography, either directly or through partners, channels and subsidiaries, as appropriate for that geography and market. 
+We speciically look for: 
+The number of employees allocated to different regions where the vendor has a sales/marketing and/or support presence 
+Tailoring of the vendor’s go-to-market or product strategy for regional differences The depth and scope of partners available in those regions 
+The languages available for the platform solution (including user interface and documentation) 
+The geographic distribution of customers using the platform 
+Table 2: Completeness of Vision Evaluation Criteria 
+Evaluation Criteria WeightingMarket Understanding High Marketing Strategy High Sales Strategy Medium 
+  
+  
+Evaluation Criteria WeightingOffering (Product) Strategy High 
+Business Model Low 
+Vertical/Industry Strategy Medium Innovation Medium Source: Gartner (November 2024) 
+Quadrant Descriptions 
+Leaders 
+Leaders demonstrate broad support for all ABM critical capabilities and consistently meet customer needs across the three core ABM use cases (new account acquisition, account 
+retention and account expansion). They have high market visibility, high market penetration,   
+strong market momentum, and a clear, long-term strategic vision and roadmap for growing their ABM platform business. Their customers report high levels of satisfaction and success with their implementations. Leaders also have initiated plans for geographic and industry expansion. 
+Challengers 
+Challengers offer solid core ABM functionality but may lack the breadth and depth of Leaders, particularly when it comes to audience activation across non-native channels and integrations with the martech and salestech ecosystem. Vendors in this quadrant may distinguish themselves for the level of support and customer success programs they offer to help customers realize value from ABM programs. They focus on established clients’ needs for ABM functions and strategic direction rather than on setting a visionary pace with noncustomer or competitive requirements. In addition, they may lack the marketing efforts, sales channels, 
+geographic presence, industry-speciic content or market awareness of the vendors in the Leaders quadrant. 
+Visionaries 
+Visionaries may set a strategic direction or demonstrate speciic innovative capabilities in one or more functional areas, such as intent data or sales alerts and insights, that the market will eventually adopt. Although Visionaries show promise in enabling ABM, they may have gaps in broader functionality requirements or may be lacking in some aspects of their service and support resources and/or business and partner ecosystems, which impairs their Ability to Execute. These gaps may limit their market presence and growth potential. 
+Niche Players 
+Niche Players provide a foundational set of ABM capabilities, typically to a narrow segment of the market. They may be focused on organizations of a particular size, speciic geographies or speciic industries. ABM platform vendors in this quadrant may lack the breadth and depth of ABM capabilities offered by Leaders. Similarly, customers of vendors in this quadrant may adopt ABM solutions for only a subset of their total capabilities (such as display advertising). Vendors in this quadrant also may lack execution potential (such as insuicient resources in a key area or an underdeveloped market strategy), resulting in more limited market visibility and market presence relative to vendors in other quadrants. 
+Context 
+This research is Gartner’s fourth ABM platform Magic Quadrant. It relects the growth of this product category and growing momentum for ABM programs by marketing and sales leaders. This Magic Quadrant focuses exclusively on stand-alone ABM solutions and does not include vendors that offer ABM capabilities as part of a B2B marketing automation or CRM lead management platform. Observations about vendors and their capabilities are valid as of publication of this research, noting that both vendors and the market continue to evolve. 
+To that end, as a B2B marketer responsible for leading ABM initiatives, you should:
+Study the evaluation criteria by which we determined each vendor’s Ability to Execute and Completeness of Vision. 
+Evaluate the vendors’ Strengths and Cautions. 
+Assess vendors in any of the four quadrants, with a focus on those that align with your requirements and goals. 
+Use this Magic Quadrant research in conjunction with our companion Critical Capabilities for Account-Based Marketing Platforms research, other publications related to ABM best practices and our analyst inquiry service.
+Readers should be careful not to ascribe their own deinitions of Completeness of Vision or Ability to Execute to this Magic Quadrant, which they often incorrectly map narrowly to product vision and market share, respectively. The Magic Quadrant methodology factors in a wide range of criteria in determining position, as shown by the extensive Evaluation Criteria section. 
+As you build your business case and requests for proposals, factor in the time, cost and complexity of integrating your ABM platform with other core organizational and martech systems. Similarly, ensure that your organization develops a comprehensive plan to upskill end users of your ABM solution on key functionality to maximize time to value. Explore vendor managed services, as well as third-party managed service providers and vendor support packages to help with onboarding, training and ongoing education. 
+Market Overview 
+ABM remains a key go-to-market model for many B2B companies, enabling organizations to reach net new customers and develop business with existing customers in a personalized yet scalable manner. It originally started with the technology sector, then expanded to other industries, including business services, manufacturing and inancial services. Adoption has continued to grow, partly due to ABM platforms’ ability to provide contact-to-account or buying team insights that enable better decision making, improve engagement across accounts and more easily demonstrate ROI. 
+The 2024 Gartner Tech Marketing Benchmarks Survey found that 43% of technology marketers in organizations with $100 million or more in annual revenue dedicated marketing technology budget for ABM platforms.1 ABM platforms help B2B marketing and sales teams engage with and report on prospective or existing customer accounts. They automate account selection and prioritization, audience management, activation and orchestration across channels, contact and account-level reporting, sales alerting, and engagement analytics. In addition, ABM platforms include native display advertising and retargeting capabilities, as well as proprietary intent data. 
+Trends Shaping the Market for ABM Platforms 
+The following trends are shaping the market for ABM platforms and their planned capabilities: 
+Double-digit, but slowing, market growth — In 2023 and into 2024, vendors invested (and continue to invest) heavily in AI and GenAI-enabled features, as well as in campaign management capabilities for display advertising, account measurement and analytics, sales alerts and insights, and multichannel journey orchestration. The new functionality (gained through both organic development and acquisition) has improved customer satisfaction and increased buy-in and adoption from marketers as well as users outside of marketing, such as sales development representatives and account executives. As a result, Gartner estimates the market grew at 15% during 2023. However, this is a slower pace than in previous years. During 2023, marketing budgets were reduced and investments in martech speciically were down as a percentage of overall marketing budget in the tech industry. As marketing budgets increase in 2024, the pace of investment in martech such as ABM may increase as well. 
+Modest customer adoption outside of North America, EMEA and primary vertical industries — Among all vendors that participated in this research, North America has the highest distribution of customers, at an average of 71%, followed by EMEA at 25%. Vendors continue to invest in go-to-market programs and platform features tailored for speciic regions and countries. However, most platforms only offer a user experience and product documentation in English, which may limit adoption in APAC and Latin America. Industry verticals are likewise limited. The top vertical industry for ABM platform adoption is technology providers, with an average customer base of 44% across all vendors, followed by business/consumer services at 18%, manufacturing at 10% and inancial services at 6%. To boost vertical
+adoption, some vendors have tailored go-to-market programs, intent data and technographic data for speciic industries such as inancial services and manufacturing. Product innovation centered on generative AI (GenAI) — Many ABM platforms have long incorporated AI-powered functionality, such as predictive analytics and propensity-to-buy modeling. As marketers more broadly adopt and trust AI (speciically GenAI), ABM platforms are rapidly expanding their capabilities to aid with both program scalability and program eicacy. Several ABM platforms have added or planned for AI-enabled features, such as GenAI-created ad creatives, emails or account summaries for sales outreach, as well as AI based advertising optimization. 
+Overlap with adjacent marketing and sales tech — Although Gartner has not yet observed convergence of the ABM platform and B2B marketing automation platform (MAP) markets (see Magic Quadrant for B2B Marketing Automation Platforms), some capabilities offered by both applications continue to grow in similarity. MAP providers have continued to add account-centric capabilities to their products, such as account-based scoring and reporting, and some ABM platforms have added capabilities for audience management or engagement at the contact or buying team levels. Further, some ABM platforms offer overlapping features with sales engagement applications (see Market Guide for Sales Engagement Applications), such as audience-facing, GenAI-created sales conversation emails and internal sales alerts with recommended next best actions for sellers. The emerging category of customer intelligence applications consolidates irst-party engagement signals and intent data, as do ABM platforms. And, customer data platforms (CDP; see Magic Quadrant for Customer Data Platforms) are often purchased as stand-alone technologies while many ABM platforms embed CDP capabilities as part of their offering. Consequently, organizations already using ABM platforms and these adjacent technologies must evaluate the capabilities of each platform and determine optimal worklows and integrations to avoid marketing and sales user confusion. 
+Digital advertising disruption — Although Google has halted its much-anticipated plan to deprecate third-party cookies in its Chrome browser, disruption to ad targeting, buying and optimization remain (see Don’t Let Cookies’ Reprieve Stop Your Ad Strategy Evolution). Because ABM platforms provide native support for display advertising, vendors have developed plans and implemented solutions over the past few years to address the loss of cookie data. These solutions involve the use of alternative identiiers, such as Internet
+Protocol (IP) address or identity resolution technology, which are independent of cookies. Given the evolving international privacy landscape, these solutions can be disrupted by new laws and regulations. Consequently, vendors must remain agile in their approaches to delivering targeted account or persona-level advertising that complies with privacy law. In addition, marketers should ensure ABM platform vendors provide a robust approach to digital advertising without cookies while also preparing their martech stacks for irst-party marketing (see 5 Steps for CMOs Exploring First-Party Data for Advertising and Targeting). 
+Evidence 
+Evaluation Criteria Deinitions 
+© 2025 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. and its affiliates. This publication may not be reproduced or distributed in any form without Gartner's prior written permission. It consists of the opinions of Gartner's research organization, which should not be construed as statements of fact. While the information contained in this publication has been obtained from sources believed to be reliable, Gartner disclaims all warranties as to the accuracy, completeness or adequacy of such information. Although Gartner research may address legal and financial issues, Gartner does not provide legal or investment advice and its research should not be construed or used as such. Your access and use of this publication are governed by Gartner’s Usage Policy. Gartner prides itself on its reputation for independence and objectivity. Its research is produced independently by its research organization without input or influence from any third party. For further information, see "Guiding Principles on Independence and Objectivity." Gartner research may not be used as input into or for the training or development of generative artificial intelligence, machine learning, algorithms, software, or related technologies. 
+About Careers Newsroom Policies Site Index IT Glossary Gartner Blog Network Contact Send Feedback  
+© 2025 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
