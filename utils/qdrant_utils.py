@@ -119,9 +119,10 @@ class QdrantManager:
                     conditions.append(FieldCondition(key=field, match=MatchValue(value=value)))
                 search_filter = Filter(must=conditions)
             
-            results = self.client.search(
+            # Use query_points method directly
+            results = self.client.query_points(
                 collection_name=collection_name,
-                query_vector=query_vector,
+                query=query_vector,
                 limit=limit,
                 score_threshold=score_threshold,
                 query_filter=search_filter,
@@ -131,11 +132,11 @@ class QdrantManager:
             return [
                 {
                     "id": str(point.id),
-                    "score": score,
+                    "score": point.score,
                     "payload": point.payload,
                     "text": point.payload.get("text", "")
                 }
-                for point, score in results
+                for point in results.points
             ]
         except Exception as e:
             print(f"Error searching: {e}")
@@ -209,8 +210,7 @@ class QdrantManager:
             return LangChainQdrant(
                 client=self.client,
                 collection_name=collection_name,
-                embedding=embeddings,
-                api_key=self.api_key  # Add API key here!
+                embedding=embeddings
             )
         except Exception as e:
             print(f"Error creating LangChain vectorstore: {e}")

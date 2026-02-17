@@ -1,5 +1,6 @@
 import os
 import time
+import uuid
 from typing import List, Dict, Any, Optional
 from fastapi import FastAPI, HTTPException, UploadFile, File, BackgroundTasks
 from fastapi.responses import JSONResponse
@@ -15,7 +16,7 @@ class SuggestedQuestionsRequest(BaseModel):
 from services.logger import setup_logger
 from services.pydantic_models import (
     DocumentUpload, QueryRequest, QueryResponse, 
-    CollectionInfo, ErrorResponse
+    CollectionInfo, ErrorResponse, ChatRequest
 )
 from utils.utils import (
     OPENAI_API_KEY, QDRANT_DB_PATH, QDRANT_API_KEY, MODEL, TEMPERATURE,
@@ -242,8 +243,8 @@ async def chat_endpoint(request: ChatRequest):
         # Use the same logic as the query endpoint but return chat format
         query_embedding = langchain_manager.embed_query(request.query)
         
-        # Search in Qdrant using scroll method (more reliable)
-        search_results = qdrant_manager.scroll_documents(
+        # Search in Qdrant using search method
+        search_results = qdrant_manager.search(
             request.collection_name or DEFAULT_COLLECTION,
             query_embedding,
             request.limit,
@@ -313,64 +314,26 @@ async def chat_endpoint(request: ChatRequest):
 @app.post("/query")
 @traceable(name="query_documents", tags=["rag", "query"])
 async def query_documents(request: QueryRequest):
-    """Query document collection using RAG pipeline with creative timeout handling"""
+    """Query document collection using RAG pipeline"""
     try:
-        # Add creative timeout handling using signal-based approach
-        import signal
-        import threading
+        # Generate query embedding
+        query_embedding = langchain_manager.embed_query(request.query)
         
-        result_container = {}
-        exception_container = {}
+        # Search in Qdrant
+        search_results = qdrant_manager.search(
+            request.collection_name or DEFAULT_COLLECTION,
+            query_embedding,
+            request.limit,
+            request.similarity_threshold
+        )
         
-        def run_query():
-            try:
-                # Generate query embedding
-                query_embedding = langchain_manager.embed_query(request.query)
-                
-                # Search in Qdrant (original method that works)
-                search_results = qdrant_manager.search(
-                    request.collection_name or DEFAULT_COLLECTION,
-                    query_embedding,
-                    request.limit,
-                    request.similarity_threshold
-                )
-                
-                if not search_results:
-                    result_container["response"] = QueryResponse(
-                        query=request.query,
-                        answer="No relevant documents found for your query. Try asking about specific 6sense features like 'predictive analytics' or 'customer segmentation'.",
-                        sources=[],
-                        confidence_score=0.0
-                    )
-                else:
-                    result_container["search_results"] = search_results
-                    
-            except Exception as e:
-                exception_container["error"] = str(e)
-        
-        # Run query in thread with timeout
-        query_thread = threading.Thread(target=run_query)
-        query_thread.daemon = True
-        query_thread.start()
-        query_thread.join(timeout=20)  # 20 second timeout
-        
-        if query_thread.is_alive():
-            logger.warning("Query timeout - using intelligent fallback")
+        if not search_results:
             return QueryResponse(
                 query=request.query,
-                answer="6sense is a powerful B2B revenue intelligence platform that uses AI to analyze customer data and predict buying behavior. Key features include account-based marketing, predictive analytics, and customer journey mapping. What specific aspect would you like to explore?",
+                answer="No relevant documents found for your query. Try asking about specific 6sense features like 'predictive analytics' or 'customer segmentation'.",
                 sources=[],
-                confidence_score=0.7
+                confidence_score=0.0
             )
-        
-        if "error" in exception_container:
-            raise HTTPException(status_code=500, detail=f"Query error: {exception_container['error']}")
-        
-        if "response" in result_container:
-            return result_container["response"]
-        
-        # Continue with search results if available
-        search_results = result_container.get("search_results", [])
         
         # Create LangChain vectorstore for QA chain
         vectorstore = qdrant_manager.create_langchain_vectorstore(
@@ -378,14 +341,9 @@ async def query_documents(request: QueryRequest):
             embeddings_client
         )
         
-        # Create retriever - ensemble approach with both BM25 and semantic
+        # Create retriever
         retriever = vectorstore.as_retriever(
-            search_type="mmr",  # Maximum Marginal Relevance (MMR)
-            search_kwargs={
-                "k": request.limit,
-                "score_threshold": request.similarity_threshold,
-                "fetch_k": request.limit * 2  # Fetch more for reranking
-            }
+            search_kwargs={"k": request.limit, "score_threshold": request.similarity_threshold}
         )
         
         # Create QA chain

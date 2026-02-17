@@ -126,17 +126,9 @@ class LangChainManager:
             result = qa_chain.invoke(query)
             response_time = time.time() - start_time
             
-            # Get source documents separately
-            if hasattr(qa_chain, 'steps') and len(qa_chain.steps) > 0:
-                # Extract retriever from the chain
-                retriever_step = qa_chain.steps[0][1] if hasattr(qa_chain.steps[0][1], 'get_relevant_documents') else None
-                source_documents = retriever_step.get_relevant_documents(query) if retriever_step else []
-            else:
-                source_documents = []
-            
             return {
                 "answer": result,
-                "source_documents": source_documents,
+                "source_documents": [],  # Will be populated separately if needed
                 "response_time": response_time,
                 "success": True
             }

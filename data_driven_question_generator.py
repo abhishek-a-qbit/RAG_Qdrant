@@ -26,10 +26,10 @@ class DataDrivenQuestionGenerator:
         try:
             from utils.langchain_utils import LangChainManager
             from utils.qdrant_utils import QdrantManager
-            from utils.utils import OPENAI_API_KEY, MODEL, TEMPERATURE, QDRANT_DB_PATH
+            from utils.utils import OPENAI_API_KEY, MODEL, TEMPERATURE, QDRANT_DB_PATH, QDRANT_API_KEY
             
             self.langchain_manager = LangChainManager(OPENAI_API_KEY, MODEL, TEMPERATURE)
-            self.qdrant_manager = QdrantManager(QDRANT_DB_PATH)
+            self.qdrant_manager = QdrantManager(QDRANT_DB_PATH, QDRANT_API_KEY)
             print("[QGen] Initialized with LangChain RAG pipeline")
         except Exception as e:
             print("[QGen] Error initializing RAG pipeline: " + str(e))

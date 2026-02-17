@@ -43,3 +43,11 @@ class ErrorResponse(BaseModel):
     error: str = Field(..., description="Error message")
     error_code: Optional[str] = Field(None, description="Error code")
     details: Optional[Dict[str, Any]] = Field(None, description="Additional error details")
+
+class ChatRequest(BaseModel):
+    """Model for chat requests - compatible with Streamlit"""
+    query: str = Field(..., description="User query text")
+    collection_name: Optional[str] = Field(default="documents", description="Qdrant collection name")
+    limit: Optional[int] = Field(default=5, description="Number of results to retrieve")
+    similarity_threshold: Optional[float] = Field(default=0.7, description="Minimum similarity score")
+    session_id: Optional[str] = Field(None, description="Session identifier for conversation tracking")
