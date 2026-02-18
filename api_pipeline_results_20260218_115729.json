@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-02-18T11:53:15.169156",
+  "api_tests": {
+    "health": {
+      "status": "success",
+      "data": {
+        "status": "ready",
+        "timestamp": 1771395799.2081048,
+        "services": {
+          "database": "connected",
+          "qdrant": "connected",
+          "openai": "configured"
+        }
+      }
+    },
+    "collections": {
+      "status": "success",
+      "data": {
+        "collections": [
+          {
+            "name": "documents",
+            "vectors_count": 0,
+            "indexed_vectors_count": 0,
+            "points_count": 294,
+            "status": "unknown"
+          }
+        ]
+      }
+    },
+    "chat": {
+      "status": "completed",
+      "results": []
+    }
+  },
+  "qa_results": [],
+  "metrics": {},
+  "summary": {
+    "test_timestamp": "2026-02-18T11:53:15.169156",
+    "api_status": "🟢 All Systems Ready",
+    "pipeline_health": "unknown",
+    "recommendations": [
+      "Improve query success rate - check document indexing",
+      "Improve answer quality - enhance prompts or add more documents"
+    ]
+  }
+}

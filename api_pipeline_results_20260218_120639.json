@@ -1,0 +1,399 @@
+{
+  "timestamp": "2026-02-18T12:03:25.000407",
+  "api_tests": {
+    "health": {
+      "status": "success",
+      "data": {
+        "status": "ready",
+        "timestamp": 1771396410.0643165,
+        "services": {
+          "database": "connected",
+          "qdrant": "connected",
+          "openai": "configured"
+        }
+      }
+    },
+    "collections": {
+      "status": "success",
+      "data": {
+        "collections": [
+          {
+            "name": "documents",
+            "vectors_count": 0,
+            "indexed_vectors_count": 0,
+            "points_count": 294,
+            "status": "unknown"
+          }
+        ]
+      }
+    },
+    "chat": {
+      "status": "completed",
+      "results": [
+        {
+          "id": 0,
+          "topic": "6sense Revenue AI Platform",
+          "question": "What are the key features of 6sense Revenue AI Platform?",
+          "answer": "I don't know.",
+          "session_id": "test_session_1771396575",
+          "response_time": 13.597667217254639,
+          "status": "success",
+          "sources": [
+            {
+              "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 16,
+              "score": 0.881129,
+              "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+              "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+              "link": "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5"
+            },
+            {
+              "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 16,
+              "score": 0.8810687,
+              "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+              "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+              "link": "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0"
+            },
+            {
+              "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 8,
+              "score": 0.87595105,
+              "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+              "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+              "link": "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe"
+            },
+            {
+              "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 8,
+              "score": 0.87591094,
+              "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+              "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+              "link": "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7"
+            },
+            {
+              "document_id": "81edf18f-9268-45fa-aaa4-c2213f9aae20",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 3,
+              "score": 0.8742798,
+              "text": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion...",
+              "content": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion rates. | One potential downside of 6sense Sales Intelligence is that the platform can have a steep learning curve for new users due to its rich features and data complexity. Also, sometimes the volume of data and alerts can feel overwhelming, requiring teams to fine-tune settings to avoid noise and focus on the most relevant insights. However, with proper onboarding and customization, these challenges can be managed effectively. | 6sense Sales Intelligence solves the problem of identifying and prioritizing high-potential prospects by leveraging AI-driven predictive analytics and intent data. This helps sales teams focus their efforts on accounts that are actively in-market, reducing wasted time on low-priority leads. For me, this means more efficient outreach, better alignment with buyer needs, and ultimately higher conversion rates and faster sales cycles.",
+              "link": "http://localhost:8000/document/81edf18f-9268-45fa-aaa4-c2213f9aae20"
+            }
+          ],
+          "sources_count": 5,
+          "source_links": [
+            "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5",
+            "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+            "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+            "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+            "http://localhost:8000/document/81edf18f-9268-45fa-aaa4-c2213f9aae20"
+          ],
+          "metrics": {
+            "coverage": 1.0,
+            "specificity": 0.5,
+            "insightfulness": 0.3,
+            "groundedness": 0.881129,
+            "overall_score": 0.6702822500000001
+          },
+          "coverage": 1.0,
+          "specificity": 0.5,
+          "insightfulness": 0.3,
+          "groundedness": 0.881129,
+          "overall_score": 0.6702822500000001
+        },
+        {
+          "id": 1,
+          "topic": "6sense Revenue AI Platform",
+          "question": "How does 6sense Revenue AI Platform benefit businesses?",
+          "answer": "The 6sense Revenue AI Platform benefits businesses by providing insights into buyer behavior, enhancing lead scoring, and enabling more effective targeting and personalization in marketing and sales efforts. It helps organizations identify potential customers earlier in the buying process, optimize their sales strategies, and ultimately drive revenue growth.",
+          "session_id": "test_session_1771396588",
+          "response_time": 11.25327467918396,
+          "status": "success",
+          "sources": [
+            {
+              "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 8,
+              "score": 0.8795349,
+              "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+              "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+              "link": "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe"
+            },
+            {
+              "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 8,
+              "score": 0.8794904,
+              "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+              "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+              "link": "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7"
+            },
+            {
+              "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 16,
+              "score": 0.8788125,
+              "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+              "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+              "link": "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5"
+            },
+            {
+              "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+              "filename": "reviews-g.tsv",
+              "chunk_index": 16,
+              "score": 0.87875646,
+              "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+              "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+              "link": "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0"
+            },
+            {
+              "document_id": "b3d8a55e-e385-4476-9569-503adfe920c9",
+              "filename": "B2B Revenue Marketing Platforms, 6sense 2024- The Forrester Wave.txt",
+              "chunk_index": 2,
+              "score": 0.8759936,
+              "text": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B...",
+              "content": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B Buyer Data \nWeb Deanonymization \nData Preparation \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nPRODUCTS \nRevenue Marketing \nEmail Agents \nDigital Advertising \nIntelligent Workflows for Marketing \nAudience Builder \nSmart Form Fill \nReporting & Analytics \n7/9 \n8/6/25, 6:45 PM \nsense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nSales Copilot \nLogin \nBook a Demo → \n= \nIntelligent Workflows for Sales \nList Builder \nSales Alerts \nCompany & People Search \nChrome Extension \nPredictive Analytics \nSOLUTIONS \nUse Cases \nAccount Based Marketing \nInbound Marketing Automation \nOutbound Sales Automation \nDeal Acceleration \nCustomer Expansion \nRESOURCES \nExplore \nResource Library \nBlog \nThe Science of B2B \n6sense for 6sense \nGlossary \nIndustries \nAsset Management \nBanking \nBusiness Services \nFinancial Services \nFinancial Technology \nInsurance \nManufacturing \nTechnology \nTransportation & Logistics \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nCustomers \nCustomer Stories \nMeet Our Customers \nJoin Our Community \nCMO Coffee Talk \nBDR Leader Coffee Talk \nRevCity \nKnowledge Base & Support \n8/9 \n8/6/25, 6:45 PM \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \n6sense \nProfessional Services \nPartner Overview \nLogin \nBook a Demo → \n= \nTechnographics \nTrust Center \nAgency Partners \nData Packs \nCOMPANY \nAbout 6sense \nMeet the Team \nCareers \nNewsroom \nContact Us \nData APIs \n©2025 6sense \nTerms of Use",
+              "link": "http://localhost:8000/document/b3d8a55e-e385-4476-9569-503adfe920c9"
+            }
+          ],
+          "sources_count": 5,
+          "source_links": [
+            "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+            "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+            "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5",
+            "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+            "http://localhost:8000/document/b3d8a55e-e385-4476-9569-503adfe920c9"
+          ],
+          "metrics": {
+            "coverage": 1.0,
+            "specificity": 0.5,
+            "insightfulness": 0.4,
+            "groundedness": 0.8795349,
+            "overall_score": 0.694883725
+          },
+          "coverage": 1.0,
+          "specificity": 0.5,
+          "insightfulness": 0.4,
+          "groundedness": 0.8795349,
+          "overall_score": 0.694883725
+        }
+      ]
+    }
+  },
+  "qa_results": [
+    {
+      "id": 0,
+      "topic": "6sense Revenue AI Platform",
+      "question": "What are the key features of 6sense Revenue AI Platform?",
+      "answer": "I don't know.",
+      "sources": [
+        {
+          "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.881129,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+          "link": "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5"
+        },
+        {
+          "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.8810687,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+          "link": "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0"
+        },
+        {
+          "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.87595105,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+          "link": "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe"
+        },
+        {
+          "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.87591094,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+          "link": "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7"
+        },
+        {
+          "document_id": "81edf18f-9268-45fa-aaa4-c2213f9aae20",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 3,
+          "score": 0.8742798,
+          "text": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion...",
+          "content": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion rates. | One potential downside of 6sense Sales Intelligence is that the platform can have a steep learning curve for new users due to its rich features and data complexity. Also, sometimes the volume of data and alerts can feel overwhelming, requiring teams to fine-tune settings to avoid noise and focus on the most relevant insights. However, with proper onboarding and customization, these challenges can be managed effectively. | 6sense Sales Intelligence solves the problem of identifying and prioritizing high-potential prospects by leveraging AI-driven predictive analytics and intent data. This helps sales teams focus their efforts on accounts that are actively in-market, reducing wasted time on low-priority leads. For me, this means more efficient outreach, better alignment with buyer needs, and ultimately higher conversion rates and faster sales cycles.",
+          "link": "http://localhost:8000/document/81edf18f-9268-45fa-aaa4-c2213f9aae20"
+        }
+      ],
+      "confidence_score": 0.881129,
+      "response_time": 15.546612024307251,
+      "sources_count": 5,
+      "api_response_time": 4.223911762237549,
+      "status": "success",
+      "source_links": [
+        "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5",
+        "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+        "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+        "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+        "http://localhost:8000/document/81edf18f-9268-45fa-aaa4-c2213f9aae20"
+      ],
+      "metrics": {
+        "coverage": 1.0,
+        "specificity": 0.5,
+        "insightfulness": 0.3,
+        "groundedness": 0.881129,
+        "overall_score": 0.6702822500000001
+      },
+      "coverage": 1.0,
+      "specificity": 0.5,
+      "insightfulness": 0.3,
+      "groundedness": 0.881129,
+      "overall_score": 0.6702822500000001,
+      "answer_length": 13,
+      "question_length": 56,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 0.065,
+        "has_numbers": 0.0,
+        "question_relevance": 0.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.881129,
+        "overall_score": 0.38922580000000007
+      }
+    },
+    {
+      "id": 1,
+      "topic": "6sense Revenue AI Platform",
+      "question": "How does 6sense Revenue AI Platform benefit businesses?",
+      "answer": "The 6sense Revenue AI Platform benefits businesses by providing insights into buyer behavior, enabling predictive analytics for sales and marketing, enhancing lead scoring, and improving targeting and personalization. This helps organizations optimize their revenue generation strategies and increase conversion rates.",
+      "sources": [
+        {
+          "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.8795349,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+          "link": "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe"
+        },
+        {
+          "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.8794904,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine.",
+          "link": "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7"
+        },
+        {
+          "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.8788125,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+          "link": "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5"
+        },
+        {
+          "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.87875646,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts.",
+          "link": "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0"
+        },
+        {
+          "document_id": "b3d8a55e-e385-4476-9569-503adfe920c9",
+          "filename": "B2B Revenue Marketing Platforms, 6sense 2024- The Forrester Wave.txt",
+          "chunk_index": 2,
+          "score": 0.8759936,
+          "text": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B...",
+          "content": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B Buyer Data \nWeb Deanonymization \nData Preparation \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nPRODUCTS \nRevenue Marketing \nEmail Agents \nDigital Advertising \nIntelligent Workflows for Marketing \nAudience Builder \nSmart Form Fill \nReporting & Analytics \n7/9 \n8/6/25, 6:45 PM \nsense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nSales Copilot \nLogin \nBook a Demo → \n= \nIntelligent Workflows for Sales \nList Builder \nSales Alerts \nCompany & People Search \nChrome Extension \nPredictive Analytics \nSOLUTIONS \nUse Cases \nAccount Based Marketing \nInbound Marketing Automation \nOutbound Sales Automation \nDeal Acceleration \nCustomer Expansion \nRESOURCES \nExplore \nResource Library \nBlog \nThe Science of B2B \n6sense for 6sense \nGlossary \nIndustries \nAsset Management \nBanking \nBusiness Services \nFinancial Services \nFinancial Technology \nInsurance \nManufacturing \nTechnology \nTransportation & Logistics \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nCustomers \nCustomer Stories \nMeet Our Customers \nJoin Our Community \nCMO Coffee Talk \nBDR Leader Coffee Talk \nRevCity \nKnowledge Base & Support \n8/9 \n8/6/25, 6:45 PM \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \n6sense \nProfessional Services \nPartner Overview \nLogin \nBook a Demo → \n= \nTechnographics \nTrust Center \nAgency Partners \nData Packs \nCOMPANY \nAbout 6sense \nMeet the Team \nCareers \nNewsroom \nContact Us \nData APIs \n©2025 6sense \nTerms of Use",
+          "link": "http://localhost:8000/document/b3d8a55e-e385-4476-9569-503adfe920c9"
+        }
+      ],
+      "confidence_score": 0.8795349,
+      "response_time": 11.305161952972412,
+      "sources_count": 5,
+      "api_response_time": 5.207021236419678,
+      "status": "success",
+      "source_links": [
+        "http://localhost:8000/document/920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+        "http://localhost:8000/document/4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+        "http://localhost:8000/document/a795e13d-84b3-4acd-8757-a8f564d147c5",
+        "http://localhost:8000/document/37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+        "http://localhost:8000/document/b3d8a55e-e385-4476-9569-503adfe920c9"
+      ],
+      "metrics": {
+        "coverage": 1.0,
+        "specificity": 0.5,
+        "insightfulness": 0.4,
+        "groundedness": 0.8795349,
+        "overall_score": 0.694883725
+      },
+      "coverage": 1.0,
+      "specificity": 0.5,
+      "insightfulness": 0.4,
+      "groundedness": 0.8795349,
+      "overall_score": 0.694883725,
+      "answer_length": 318,
+      "question_length": 55,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.8795349,
+        "overall_score": 0.9759069800000001
+      }
+    }
+  ],
+  "metrics": {
+    "total_questions": 2,
+    "successful_queries": 2,
+    "success_rate": 1.0,
+    "avg_response_time": 13.425886988639832,
+    "avg_answer_length": 165.5,
+    "avg_sources_count": 5.0,
+    "avg_confidence_score": 0.88033195,
+    "avg_quality_score": 0.6825663900000001,
+    "min_quality_score": 0.38922580000000007,
+    "max_quality_score": 0.9759069800000001,
+    "high_quality_count": 1,
+    "medium_quality_count": 0,
+    "low_quality_count": 1,
+    "topic_metrics": {
+      "6sense Revenue AI Platform": {
+        "count": 2,
+        "avg_quality": 0.6825663900000001,
+        "avg_confidence": 0.88033195
+      }
+    },
+    "fast_responses": 0,
+    "medium_responses": 0,
+    "slow_responses": 2
+  },
+  "summary": {
+    "test_timestamp": "2026-02-18T12:03:25.000407",
+    "api_status": "🟢 All Systems Ready",
+    "pipeline_health": "🟡 Good",
+    "recommendations": [
+      "Optimize response time - check API performance"
+    ]
+  }
+}

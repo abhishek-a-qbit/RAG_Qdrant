@@ -23,13 +23,32 @@ class QueryRequest(BaseModel):
     limit: Optional[int] = Field(default=5, description="Number of results to retrieve")
     similarity_threshold: Optional[float] = Field(default=0.7, description="Minimum similarity score")
 
+class SourceDocument(BaseModel):
+    """Model for source documents with links and metrics"""
+    document_id: str = Field(..., description="Unique identifier for document")
+    filename: str = Field(..., description="Name of source file")
+    chunk_index: int = Field(..., description="Index of chunk in document")
+    score: float = Field(..., description="Similarity score")
+    text: str = Field(..., description="Text content preview")
+    content: str = Field(..., description="Full text content")
+    link: str = Field(..., description="Direct link to document")
+    
+class QueryMetrics(BaseModel):
+    """Model for query quality metrics"""
+    coverage: float = Field(..., description="Coverage score (0-1)")
+    specificity: float = Field(..., description="Specificity score (0-1)")
+    insightfulness: float = Field(..., description="Insightfulness score (0-1)")
+    groundedness: float = Field(..., description="Groundedness score (0-1)")
+    overall_score: float = Field(..., description="Overall quality score (0-1)")
+
 class QueryResponse(BaseModel):
     """Model for query responses"""
     query: str = Field(..., description="Original query")
     answer: str = Field(..., description="Generated answer")
-    sources: List[Dict[str, Any]] = Field(default_factory=list, description="Source documents used")
+    sources: List[SourceDocument] = Field(default_factory=list, description="Source documents used")
     confidence_score: Optional[float] = Field(None, description="Confidence score of answer")
     response_time: Optional[float] = Field(None, description="Time taken to generate response")
+    metrics: Optional[QueryMetrics] = Field(None, description="Quality metrics for the response")
 
 class CollectionInfo(BaseModel):
     """Model for collection information"""

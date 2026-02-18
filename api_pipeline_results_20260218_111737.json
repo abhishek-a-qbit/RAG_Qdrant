@@ -1,0 +1,625 @@
+{
+  "timestamp": "2026-02-18T11:15:17.988033",
+  "api_tests": {
+    "health": {
+      "status": "success",
+      "data": {
+        "status": "ready",
+        "timestamp": 1771393522.257986,
+        "services": {
+          "database": "connected",
+          "qdrant": "connected",
+          "openai": "configured"
+        }
+      }
+    },
+    "collections": {
+      "status": "success",
+      "data": {
+        "collections": [
+          {
+            "name": "documents",
+            "vectors_count": 0,
+            "indexed_vectors_count": 0,
+            "points_count": 294,
+            "status": "unknown"
+          }
+        ]
+      }
+    },
+    "chat": {
+      "status": "completed",
+      "results": [
+        {
+          "id": 0,
+          "topic": "6sense Revenue AI Platform",
+          "question": "What are the key features of 6sense Revenue AI Platform?",
+          "answer": "I don't know.",
+          "session_id": "",
+          "response_time": 14.802406549453735,
+          "status": "success"
+        },
+        {
+          "id": 1,
+          "topic": "6sense Revenue AI Platform",
+          "question": "How does 6sense Revenue AI Platform benefit businesses?",
+          "answer": "The 6sense Revenue AI Platform benefits businesses by providing insights into buyer behavior, enabling better targeting and personalization of marketing efforts, improving sales forecasting, and enhancing overall revenue generation through data-driven decision-making.",
+          "session_id": "",
+          "response_time": 12.103225946426392,
+          "status": "success"
+        },
+        {
+          "id": 2,
+          "topic": "Predictive Analytics for B2B",
+          "question": "What are the key features of Predictive Analytics for B2B?",
+          "answer": "Key features of Predictive Analytics for B2B include:\n\n1. **Data Integration**: Combining data from various sources for comprehensive analysis.\n2. **Customer Segmentation**: Identifying distinct customer groups for targeted marketing.\n3. **Sales Forecasting**: Predicting future sales trends based on historical data.\n4. **Churn Prediction**: Identifying customers at risk of leaving to improve retention strategies.\n5. **Lead Scoring**: Evaluating potential leads to prioritize sales efforts.\n6. **Market Trend Analysis**: Analyzing market data to anticipate changes and opportunities.\n7. **Performance Measurement**: Assessing the effectiveness of marketing and sales strategies.",
+          "session_id": "",
+          "response_time": 10.192066192626953,
+          "status": "success"
+        }
+      ]
+    }
+  },
+  "qa_results": [
+    {
+      "id": 0,
+      "topic": "6sense Revenue AI Platform",
+      "question": "What are the key features of 6sense Revenue AI Platform?",
+      "answer": "I don't know.",
+      "sources": [
+        {
+          "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.881129,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts."
+        },
+        {
+          "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.8810687,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts."
+        },
+        {
+          "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.87595105,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine."
+        },
+        {
+          "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.87591094,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine."
+        },
+        {
+          "document_id": "81edf18f-9268-45fa-aaa4-c2213f9aae20",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 3,
+          "score": 0.8742798,
+          "text": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion...",
+          "content": "Associate Account Executive | Mid-Market (51-1000 emp.) | 7/29/2025 | What I like best about 6sense Sales Intelligence is its ability to provide deep, data-driven insights that help identify the right buyers at the right time. The platform’s AI-powered predictive analytics and intent data allow sales teams to prioritize accounts with high buying intent, personalize outreach effectively, and ultimately shorten the sales cycle. It’s a powerful tool for improving targeting and increasing conversion rates. | One potential downside of 6sense Sales Intelligence is that the platform can have a steep learning curve for new users due to its rich features and data complexity. Also, sometimes the volume of data and alerts can feel overwhelming, requiring teams to fine-tune settings to avoid noise and focus on the most relevant insights. However, with proper onboarding and customization, these challenges can be managed effectively. | 6sense Sales Intelligence solves the problem of identifying and prioritizing high-potential prospects by leveraging AI-driven predictive analytics and intent data. This helps sales teams focus their efforts on accounts that are actively in-market, reducing wasted time on low-priority leads. For me, this means more efficient outreach, better alignment with buyer needs, and ultimately higher conversion rates and faster sales cycles."
+        }
+      ],
+      "confidence_score": 0.881129,
+      "response_time": 12.113113164901733,
+      "sources_count": 5,
+      "api_response_time": 5.083607196807861,
+      "status": "success",
+      "answer_length": 13,
+      "question_length": 56,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 0.065,
+        "has_numbers": 0.0,
+        "question_relevance": 0.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.881129,
+        "overall_score": 0.38922580000000007
+      }
+    },
+    {
+      "id": 1,
+      "topic": "6sense Revenue AI Platform",
+      "question": "How does 6sense Revenue AI Platform benefit businesses?",
+      "answer": "The 6sense Revenue AI Platform benefits businesses by providing insights into buyer behavior, enabling better targeting and personalization of marketing efforts, improving sales forecasting, and enhancing overall revenue generation through data-driven decision-making.",
+      "sources": [
+        {
+          "document_id": "920ee9ef-bcf0-4441-ab5d-fee9826036fe",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.8795349,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine."
+        },
+        {
+          "document_id": "4b0b13a1-9cf1-4f77-977b-42fb0208d0f7",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 8,
+          "score": 0.8794904,
+          "text": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align wi...",
+          "content": "Sr Manager - Digital Marketing, Programs | Enterprise (> 1000 emp.) | 8/7/2025 | 6sense is a top-tier platform for any B2B organization committed to an account-based strategy. Its powerful blend of AI-driven insights, cross-functional alignment, and streamlined automation makes it a must-have for those looking to achieve predictable and sustainable revenue growth. | Reporting in 6sense often feels too rigid. As a user, I want the flexibility to build highly specific, custom reports that align with my unique business metrics, not just what's provided out-of-the-box. This is a critical need for analyzing long-term performance and truly assessing the effectiveness of campaigns. While the native reports offer a good starting point, they can't always tell the full story, making it difficult to get a complete, customized view of our revenue marketing efforts. | 6sense's automated workflows are not just about saving time; they're about working smarter. They provide the intelligence and automation needed to move from a reactive, guesswork-based approach to a proactive, predictable, and highly efficient revenue marketing engine."
+        },
+        {
+          "document_id": "a795e13d-84b3-4acd-8757-a8f564d147c5",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.8788125,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts."
+        },
+        {
+          "document_id": "37795c4f-a736-43e1-8a2f-09b8d3efcec0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 16,
+          "score": 0.87875646,
+          "text": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, e...",
+          "content": "nan | Mid-Market (51-1000 emp.) | 6/27/2025 | What I like best about 6sense Revenue Marketing is how it empowers marketing and sales teams with actionable insights across the entire buyer journey. Its ability to uncover hidden demand, identify in-market accounts, and prioritize the right prospects makes it far easier to focus efforts where they’ll have the greatest impact. The AI-driven predictions, intent data, and real-time engagement tracking help drive smarter, more personalized campaigns, ensuring alignment between sales and marketing while accelerating pipeline growth. Overall, it transforms how teams target, engage, and convert prospects with precision. | What I dislike about 6sense Revenue Marketing is that while it offers powerful insights and capabilities, the platform can feel complex and overwhelming at first, especially for teams without dedicated resources for setup and ongoing optimization. The learning curve to fully leverage all features—like custom segments, intent models, and advanced integrations—can be steep. Additionally, the pricing structure may be challenging for smaller organizations, and occasional data accuracy or syncing issues with connected systems can require extra monitoring to ensure everything runs smoothly. | 6sense Revenue Marketing is solving the problem of wasted time and effort on accounts that aren’t ready to buy by providing clear visibility into which companies are actively in-market and showing intent. It helps overcome the challenge of aligning marketing and sales by delivering shared data and insights, so both teams can prioritize the right accounts and engage them at the right time with relevant messaging. This has benefited us by increasing efficiency across the revenue team, improving conversion rates, and accelerating pipeline growth, as we can focus our resources on high-potential opportunities rather than guessing where to direct our efforts."
+        },
+        {
+          "document_id": "b3d8a55e-e385-4476-9569-503adfe920c9",
+          "filename": "B2B Revenue Marketing Platforms, 6sense 2024- The Forrester Wave.txt",
+          "chunk_index": 2,
+          "score": 0.8759936,
+          "text": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B...",
+          "content": "6/9 \n8/6/25, 6:45 PM \n6sense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nLogin \nBook a Demo → \n= \nDo business with the Leader \nWe believe that being named a Leader by Forrester, in yet another category, validates the immense value that 6sense customers realize every day. \nReady to learn how 6sense can help you eliminate guesswork and accelerate pipeline and revenue results? \nBook Your Demo → \n6sense \nfin \nWHY 6SENSE? \nPlatform Overview \nSignalverse \nIntent Data \nB2B Buyer Data \nWeb Deanonymization \nData Preparation \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nPRODUCTS \nRevenue Marketing \nEmail Agents \nDigital Advertising \nIntelligent Workflows for Marketing \nAudience Builder \nSmart Form Fill \nReporting & Analytics \n7/9 \n8/6/25, 6:45 PM \nsense \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \nSales Copilot \nLogin \nBook a Demo → \n= \nIntelligent Workflows for Sales \nList Builder \nSales Alerts \nCompany & People Search \nChrome Extension \nPredictive Analytics \nSOLUTIONS \nUse Cases \nAccount Based Marketing \nInbound Marketing Automation \nOutbound Sales Automation \nDeal Acceleration \nCustomer Expansion \nRESOURCES \nExplore \nResource Library \nBlog \nThe Science of B2B \n6sense for 6sense \nGlossary \nIndustries \nAsset Management \nBanking \nBusiness Services \nFinancial Services \nFinancial Technology \nInsurance \nManufacturing \nTechnology \nTransportation & Logistics \nhttps://6sense.com/forrester-wave-b2b-revenue-marketing-platforms/ \nCustomers \nCustomer Stories \nMeet Our Customers \nJoin Our Community \nCMO Coffee Talk \nBDR Leader Coffee Talk \nRevCity \nKnowledge Base & Support \n8/9 \n8/6/25, 6:45 PM \nThe Forrester WaveTM: B2B Revenue Marketing Platforms, Q3 2024 | 6sense \n6sense \nProfessional Services \nPartner Overview \nLogin \nBook a Demo → \n= \nTechnographics \nTrust Center \nAgency Partners \nData Packs \nCOMPANY \nAbout 6sense \nMeet the Team \nCareers \nNewsroom \nContact Us \nData APIs \n©2025 6sense \nTerms of Use"
+        }
+      ],
+      "confidence_score": 0.8795349,
+      "response_time": 9.553638696670532,
+      "sources_count": 5,
+      "api_response_time": 4.167177200317383,
+      "status": "success",
+      "answer_length": 268,
+      "question_length": 55,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.8795349,
+        "overall_score": 0.9759069800000001
+      }
+    },
+    {
+      "id": 2,
+      "topic": "Predictive Analytics for B2B",
+      "question": "What are the key features of Predictive Analytics for B2B?",
+      "answer": "Key features of Predictive Analytics for B2B include:\n\n1. **Data Integration**: Combining data from various sources for comprehensive analysis.\n2. **Customer Segmentation**: Identifying distinct customer groups for targeted marketing.\n3. **Sales Forecasting**: Predicting future sales trends based on historical data.\n4. **Churn Prediction**: Identifying customers at risk of leaving to implement retention strategies.\n5. **Lead Scoring**: Evaluating potential leads to prioritize sales efforts.\n6. **Market Trend Analysis**: Analyzing market data to anticipate changes and opportunities.\n7. **Performance Measurement**: Assessing the effectiveness of marketing and sales strategies.",
+      "sources": [
+        {
+          "document_id": "42a24f26-445e-463a-a75c-ba760f5c9ae9",
+          "filename": "6sense SEO keywords.txt",
+          "chunk_index": 2,
+          "score": 0.85974,
+          "text": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is reven...",
+          "content": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is revenue intelligence\nB2B lead generation tools\nB2B data providers\nB2B database providers\nAccount based advertising\nB2B prospecting tools\nMarketing growth strategy\nBenefits of account based marketing\nHow to implement account based marketing\nAccount based marketing ROI\nZoomInfo alternatives\nDemandbase alternatives\nTerminus alternatives\nBombora alternatives\nAdthena competitors (example)\n6sense vs Demandbase vs ZoomInfo\nABX platform\nAccount based experience (ABX)\nAccount based selling\nB2B sales intelligence\nTechnographic data\nTechnographic data providers\nB2B marketing analytics"
+        },
+        {
+          "document_id": "781f084b-2b5a-41c4-a5ab-51b0ea79907d",
+          "filename": "6sense SEO keywords.txt",
+          "chunk_index": 2,
+          "score": 0.85974,
+          "text": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is reven...",
+          "content": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is revenue intelligence\nB2B lead generation tools\nB2B data providers\nB2B database providers\nAccount based advertising\nB2B prospecting tools\nMarketing growth strategy\nBenefits of account based marketing\nHow to implement account based marketing\nAccount based marketing ROI\nZoomInfo alternatives\nDemandbase alternatives\nTerminus alternatives\nBombora alternatives\nAdthena competitors (example)\n6sense vs Demandbase vs ZoomInfo\nABX platform\nAccount based experience (ABX)\nAccount based selling\nB2B sales intelligence\nTechnographic data\nTechnographic data providers\nB2B marketing analytics"
+        },
+        {
+          "document_id": "58ff42a7-8985-452c-9c98-7528737515bb",
+          "filename": "Forrester Wave Report 2025  Intent Data Providers For B2B.txt",
+          "chunk_index": 1,
+          "score": 0.83601624,
+          "text": "With these advances in mind, B2B intent data  customers using this evaluation to inform?\na purchase decision should:\n\n\n?        Take a fresh look at available data across  geographies outside North America.?Most providers in this evaluation have  invested in increasing their intent offering in?EMEA, APAC, and LATAM. In addition  to increased signal capture in English, most?have introduced the capability to interpret signals  across six to 10 key languages,?with top performers leveraging AI-based...",
+          "content": "With these advances in mind, B2B intent data  customers using this evaluation to inform?\na purchase decision should:\n\n\n?        Take a fresh look at available data across  geographies outside North America.?Most providers in this evaluation have  invested in increasing their intent offering in?EMEA, APAC, and LATAM. In addition  to increased signal capture in English, most?have introduced the capability to interpret signals  across six to 10 key languages,?with top performers leveraging AI-based translation to understand many times that?many.  While overall capture of non-English  intent is still typically less than 20% of?total signal volume, it has still contributed to significant growth in global data?capture.\n?        Evaluate growing capabilities  for persona-level insight. While opted-in  contact- level intent is still rare in the market,  persona-level analysis and buying group?prediction are now among  the most hotly contested features. These capabilities?rely on mapping device  IDs, hashed emails, and other  anonymized persistent?identifiers to power  predictions of the individuals responsible  for account-level?signals. This does not typically include personally identifiable information (PII), but?top  performers can provide  insight into the likely size of the potential buying?group, as well as breakdowns of account-level intent by personas using predicted?job level and department.\n?        Focus on providers with a business model built for your needs. Providers listed?represent four business models with differing strengths. Traditional data providers?offer third-party signals  as a standalone product.  Software  platforms offer signals?as part of a platform subscription while competing on their analytics  and activation\n\nForrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.\nFor more information, see the Terms Of Use Policy and Ways To Share  Research."
+        },
+        {
+          "document_id": "15689a82-4aac-45ad-96b5-fca9aa2cbfe0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.82900363,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        },
+        {
+          "document_id": "8b68e80a-277a-485c-9c7d-b9eb5c137620",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.8289675,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        }
+      ],
+      "confidence_score": 0.85974,
+      "response_time": 12.988794565200806,
+      "sources_count": 5,
+      "api_response_time": 7.6936540603637695,
+      "status": "success",
+      "answer_length": 683,
+      "question_length": 58,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.85974,
+        "overall_score": 0.971948
+      }
+    },
+    {
+      "id": 3,
+      "topic": "Predictive Analytics for B2B",
+      "question": "How does Predictive Analytics for B2B benefit businesses?",
+      "answer": "Predictive Analytics for B2B benefits businesses by enabling them to forecast trends, optimize marketing strategies, improve customer targeting, enhance sales forecasting, and make data-driven decisions. This leads to increased efficiency, better resource allocation, and ultimately higher revenue.",
+      "sources": [
+        {
+          "document_id": "781f084b-2b5a-41c4-a5ab-51b0ea79907d",
+          "filename": "6sense SEO keywords.txt",
+          "chunk_index": 2,
+          "score": 0.859636,
+          "text": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is reven...",
+          "content": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is revenue intelligence\nB2B lead generation tools\nB2B data providers\nB2B database providers\nAccount based advertising\nB2B prospecting tools\nMarketing growth strategy\nBenefits of account based marketing\nHow to implement account based marketing\nAccount based marketing ROI\nZoomInfo alternatives\nDemandbase alternatives\nTerminus alternatives\nBombora alternatives\nAdthena competitors (example)\n6sense vs Demandbase vs ZoomInfo\nABX platform\nAccount based experience (ABX)\nAccount based selling\nB2B sales intelligence\nTechnographic data\nTechnographic data providers\nB2B marketing analytics"
+        },
+        {
+          "document_id": "42a24f26-445e-463a-a75c-ba760f5c9ae9",
+          "filename": "6sense SEO keywords.txt",
+          "chunk_index": 2,
+          "score": 0.859636,
+          "text": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is reven...",
+          "content": "B2B intent data providers\nPurchase intent data\nPredictive analytics\nPredictive analytics tools\nPredictive analytics software\nPredictive sales analytics\nPredictive marketing analytics\nPredictive analytics in marketing\nSales intelligence\nSales intelligence tools\nSales intelligence platform\nSales intelligence software\nBest sales intelligence tools\nWhat is sales intelligence\nSales intelligence vs business intelligence\nSales intelligence vs sales enablement\nRevenue intelligence platform\nWhat is revenue intelligence\nB2B lead generation tools\nB2B data providers\nB2B database providers\nAccount based advertising\nB2B prospecting tools\nMarketing growth strategy\nBenefits of account based marketing\nHow to implement account based marketing\nAccount based marketing ROI\nZoomInfo alternatives\nDemandbase alternatives\nTerminus alternatives\nBombora alternatives\nAdthena competitors (example)\n6sense vs Demandbase vs ZoomInfo\nABX platform\nAccount based experience (ABX)\nAccount based selling\nB2B sales intelligence\nTechnographic data\nTechnographic data providers\nB2B marketing analytics"
+        },
+        {
+          "document_id": "58ff42a7-8985-452c-9c98-7528737515bb",
+          "filename": "Forrester Wave Report 2025  Intent Data Providers For B2B.txt",
+          "chunk_index": 1,
+          "score": 0.8418906,
+          "text": "With these advances in mind, B2B intent data  customers using this evaluation to inform?\na purchase decision should:\n\n\n?        Take a fresh look at available data across  geographies outside North America.?Most providers in this evaluation have  invested in increasing their intent offering in?EMEA, APAC, and LATAM. In addition  to increased signal capture in English, most?have introduced the capability to interpret signals  across six to 10 key languages,?with top performers leveraging AI-based...",
+          "content": "With these advances in mind, B2B intent data  customers using this evaluation to inform?\na purchase decision should:\n\n\n?        Take a fresh look at available data across  geographies outside North America.?Most providers in this evaluation have  invested in increasing their intent offering in?EMEA, APAC, and LATAM. In addition  to increased signal capture in English, most?have introduced the capability to interpret signals  across six to 10 key languages,?with top performers leveraging AI-based translation to understand many times that?many.  While overall capture of non-English  intent is still typically less than 20% of?total signal volume, it has still contributed to significant growth in global data?capture.\n?        Evaluate growing capabilities  for persona-level insight. While opted-in  contact- level intent is still rare in the market,  persona-level analysis and buying group?prediction are now among  the most hotly contested features. These capabilities?rely on mapping device  IDs, hashed emails, and other  anonymized persistent?identifiers to power  predictions of the individuals responsible  for account-level?signals. This does not typically include personally identifiable information (PII), but?top  performers can provide  insight into the likely size of the potential buying?group, as well as breakdowns of account-level intent by personas using predicted?job level and department.\n?        Focus on providers with a business model built for your needs. Providers listed?represent four business models with differing strengths. Traditional data providers?offer third-party signals  as a standalone product.  Software  platforms offer signals?as part of a platform subscription while competing on their analytics  and activation\n\nForrester Report Copy Prepared Exclusively For David Crane With Intentsify LLC. Distribution and reproduction are prohibited.\nFor more information, see the Terms Of Use Policy and Ways To Share  Research."
+        },
+        {
+          "document_id": "15689a82-4aac-45ad-96b5-fca9aa2cbfe0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.83052576,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        },
+        {
+          "document_id": "8b68e80a-277a-485c-9c7d-b9eb5c137620",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.8304798,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        }
+      ],
+      "confidence_score": 0.859636,
+      "response_time": 10.923846006393433,
+      "sources_count": 5,
+      "api_response_time": 4.321639537811279,
+      "status": "success",
+      "answer_length": 298,
+      "question_length": 57,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.859636,
+        "overall_score": 0.9719272000000001
+      }
+    },
+    {
+      "id": 4,
+      "topic": "Customer Data Platform",
+      "question": "What are the key features of Customer Data Platform?",
+      "answer": "Key features of a Customer Data Platform (CDP) include:\n\n1. **Unified Customer Profiles**: Aggregates data from multiple sources to create a single view of each customer.\n2. **Data Integration**: Connects with various data sources, including CRM, email, web analytics, and social media.\n3. **Segmentation**: Allows for advanced audience segmentation based on behavior, demographics, and preferences.\n4. **Real-time Data Processing**: Updates customer profiles in real-time to reflect the latest interactions and behaviors.\n5. **Analytics and Insights**: Provides tools for analyzing customer data to derive actionable insights.\n6. **Personalization**: Enables personalized marketing campaigns based on customer data.\n7. **Compliance and Security**: Ensures data privacy and compliance with regulations like GDPR.",
+      "sources": [
+        {
+          "document_id": "2445e5bb-4a2b-4578-82e3-bc1fd8a304b2",
+          "filename": "Intent Data Providers - The Forrester Wave 2025.txt",
+          "chunk_index": 18,
+          "score": 0.8167397,
+          "text": "and technographic data products. The breadth and depth of data types that can \nbe combined within its tools supports this vision. The lack of clear focus and \nprioritization of intent among this broad product set is reflected in below-par \nscores for innovation and roadmap. \nCapabilities. Dun & Bradstreet offers outstanding data compliance across all its \ndata products. On-par capabilities for reporting, insight generation, and data \nintegration assume clients are leveraging D&B Buyer Intent ins...",
+          "content": "and technographic data products. The breadth and depth of data types that can \nbe combined within its tools supports this vision. The lack of clear focus and \nprioritization of intent among this broad product set is reflected in below-par \nscores for innovation and roadmap. \nCapabilities. Dun & Bradstreet offers outstanding data compliance across all its \ndata products. On-par capabilities for reporting, insight generation, and data \nintegration assume clients are leveraging D&B Buyer Intent inside one of the \navailable platform products. The company does not currently offer persona-based \nanalysis. It sources intent data through a large partner publisher network, data co- \nops, and other licensed sources, though the relative breakdown of these signal \ntypes is unclear, resulting in a below-par score for uniqueness of signals. \n• Customer feedback. Customers praise Dun & Bradstreet for the quality and \nvariety of data available, noting its capacity to serve as their primary data provider \nacross data types and its ability to blend those data types smoothly inside its \nplatforms. Dun & Bradstreet did not provide reference customers for this \nevaluation. \n• \nForrester's take. Dun & Bradstreet's intent is best positioned as an added value \nfor clients with an existing D&B relationship, particularly those using or considering \nthe company's CDP offering or one of its execution platforms. \nView Dun & Bradstreet's detailed scorecard. \nRollWorks \nRollWorks is a platform provider offering intent in support of its core capability around \ndigital advertising. Competitive pricing and simplicity of purpose are its primary selling \npoints. \n• Strategy. RollWorks' strategic vision for intent data is limited to its impact on \ncampaign execution and digital ads in particular. A focus on simplicity contributes \n2025 Forrester Research, Inc. All trademarks are property of their respective owners."
+        },
+        {
+          "document_id": "0df37290-5972-4721-a143-ccf3eea0a257",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.81528914,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "3754ace2-6f32-4808-a25f-72c7d9411f93",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.815265,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "0ec97e5d-944a-4adb-9d98-db36b3c1473e",
+          "filename": "9 best B2B intent data providers in 2025 _ Turtl.txt",
+          "chunk_index": 3,
+          "score": 0.812371,
+          "text": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and f...",
+          "content": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and fields\n\n\n\nGood customer support\nCons\n\n\n\nComplex system with a lot of functionality to figure out\n\n\n\nReporting could be better\n\n\n\nKeyword customization could be better\n\n\n\n\n\n\nManual set-up\n\n\n5. 6SENSE\n\n6Sense doesn't see dead people, but it does use Al as a sixth sense in its capacity as both an ABM tool and intent data provider.  And you can create personalized experiences with its enhanced customer segmentation.\n\nKEY FEATURES\n\n\nReal-time insight\n\n\n\nUses Al to predict the optimal time to engage with prospects\n\n\n\nGood customer support\n\n\n\nView buyer activity on competitor sites\n\n\n\nGet info on prospects' buying team\n\n\n\nPros\n\n\n\nAdvanced segmentation\nGood onboarding experience and ongoing support\n\n\n\nGood keyword availability\n\n\n\nCons\n\n\n\nIntegrations can be slow and clunky Data not always entirely up to date Issues with data visualization UI\n6. TCHTARGET               'YENGINE\n\nContinuing the theme of smushing two words together to create its name,\nTechTarget Priority Engine isn't just an intent data provider but comes with add-on tools to hook you up with a smooth, well-connected stack that'll seriously help your marketing and sales teams.\n\nKEY FEATURES\n\n\nView topics your prospects are actively researching\n\n\n\nData not available anywhere else GDPR-compliant data Integrations available\nPros\n\n\nCons\n\n7.G2\nAccurate contact details\n\n\n\nAccount journey maps\n\n\n\n\nFilters could be more advanced\n\n\n\nClunky Salesforce integration"
+        },
+        {
+          "document_id": "afe35f9e-bdc4-4189-81b8-fbcf8e130a90",
+          "filename": "9 best B2B intent data providers in 2025 _ Turtl.txt",
+          "chunk_index": 3,
+          "score": 0.81235677,
+          "text": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and f...",
+          "content": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and fields\n\n\n\nGood customer support\nCons\n\n\n\nComplex system with a lot of functionality to figure out\n\n\n\nReporting could be better\n\n\n\nKeyword customization could be better\n\n\n\n\n\n\nManual set-up\n\n\n5. 6SENSE\n\n6Sense doesn't see dead people, but it does use Al as a sixth sense in its capacity as both an ABM tool and intent data provider.  And you can create personalized experiences with its enhanced customer segmentation.\n\nKEY FEATURES\n\n\nReal-time insight\n\n\n\nUses Al to predict the optimal time to engage with prospects\n\n\n\nGood customer support\n\n\n\nView buyer activity on competitor sites\n\n\n\nGet info on prospects' buying team\n\n\n\nPros\n\n\n\nAdvanced segmentation\nGood onboarding experience and ongoing support\n\n\n\nGood keyword availability\n\n\n\nCons\n\n\n\nIntegrations can be slow and clunky Data not always entirely up to date Issues with data visualization UI\n6. TCHTARGET               'YENGINE\n\nContinuing the theme of smushing two words together to create its name,\nTechTarget Priority Engine isn't just an intent data provider but comes with add-on tools to hook you up with a smooth, well-connected stack that'll seriously help your marketing and sales teams.\n\nKEY FEATURES\n\n\nView topics your prospects are actively researching\n\n\n\nData not available anywhere else GDPR-compliant data Integrations available\nPros\n\n\nCons\n\n7.G2\nAccurate contact details\n\n\n\nAccount journey maps\n\n\n\n\nFilters could be more advanced\n\n\n\nClunky Salesforce integration"
+        }
+      ],
+      "confidence_score": 0.8167397,
+      "response_time": 12.277745723724365,
+      "sources_count": 5,
+      "api_response_time": 7.446253776550293,
+      "status": "success",
+      "answer_length": 812,
+      "question_length": 52,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.8167397,
+        "overall_score": 0.96334794
+      }
+    },
+    {
+      "id": 5,
+      "topic": "Customer Data Platform",
+      "question": "How does Customer Data Platform benefit businesses?",
+      "answer": "A Customer Data Platform (CDP) benefits businesses by centralizing customer data from various sources, providing a unified view of customer interactions. This enables more personalized marketing, improved customer segmentation, enhanced analytics, and better decision-making. Additionally, it helps in automating marketing campaigns and improving customer engagement, ultimately driving sales and customer loyalty.",
+      "sources": [
+        {
+          "document_id": "0df37290-5972-4721-a143-ccf3eea0a257",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.82377833,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "3754ace2-6f32-4808-a25f-72c7d9411f93",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.8237689,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "15689a82-4aac-45ad-96b5-fca9aa2cbfe0",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.81415486,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        },
+        {
+          "document_id": "8b68e80a-277a-485c-9c7d-b9eb5c137620",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 4,
+          "score": 0.8141041,
+          "text": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to valid...",
+          "content": "Outboud Business Development Representative | Enterprise (> 1000 emp.) | 7/29/2025 | 6Sense gives clear visibility into which accounts are actively researching our solution, making it easier to prioritize outreach and personalize messaging. The intent data and buying stage insights are incredibly helpful for knowing when to engage and what to say. It’s been a game changer for targeting the right people at the right time. | While the intent data is valuable, it can sometimes be difficult to validate the accuracy or understand the full context behind certain signals. The platform also has a bit of a learning curve at first especially when it comes to customizing filters and interpreting buyer stage data across different segments. A bit more clarity or training resources around those areas would be helpful. | 6sense helps solve the challenge of identifying which accounts are actually in-market and ready to engage. Instead of cold outreach, I can prioritize high-intent accounts, tailor my messaging based on their behavior, and time my outreach when they’re most likely to respond.\nnan | Enterprise (> 1000 emp.) | 7/29/2025 | The ability to see what organization has been looking at certain items based on the key words has allowed me to narrow down whom within an organization I am searching for. Having the key titles and personas available in one spot is also a time saver. | I have not found really anything that I dislike about the intelligence of the system at this time. | I have been spending less time researching as I have the ability to see what key words are being searched which allows me to target certain groups/departments and the ability to have the personas in one spot to look at is also a huge time saver. Having lists already set up for the territories I cover and being able to log in every day with an update is very helpful."
+        },
+        {
+          "document_id": "014a7e81-9552-44bc-bd7d-728435faa9be",
+          "filename": "reviews-t.tsv",
+          "chunk_index": 3,
+          "score": 0.81167847,
+          "text": "nan | Consultant in Information Technology (5001-10,000 employees) | IT's being used to manage contact, find leads and convert them into opportunity. We are using it to simplify for sales people to identify, track and convert contacts into leads quickly without losing the progress in real time. It keeps the contact data upto date and being migrated with salesforce it gives us the benefit of updating large number of records very efficiently. | Data Updation; Lead Tracking; Reporting; Migration an...",
+          "content": "nan | Consultant in Information Technology (5001-10,000 employees) | IT's being used to manage contact, find leads and convert them into opportunity. We are using it to simplify for sales people to identify, track and convert contacts into leads quickly without losing the progress in real time. It keeps the contact data upto date and being migrated with salesforce it gives us the benefit of updating large number of records very efficiently. | Data Updation; Lead Tracking; Reporting; Migration and Data uploads | UI Interface - Its way too dull and boring; Data load time is so slow that at times it doesnt feel productive at all; Make it more user friendly; Reporting and Dashboard needs to be enhanced by adding multiple functionalities for performing calculations at detailed level | I don't think I will give any scenario where it would fit in. It does help you a bit in contacts updation, lead tracking and similar cases but it's doesn't measure upto salesforce by any means. I would never recommend it to anybody. I don't even see it as a competitor to anyone. It can only add value when it does some serious ehnancement to its tool. | 2025-06-24"
+        }
+      ],
+      "confidence_score": 0.82377833,
+      "response_time": 11.617344856262207,
+      "sources_count": 5,
+      "api_response_time": 5.438321352005005,
+      "status": "success",
+      "answer_length": 414,
+      "question_length": 51,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 0.0,
+        "question_relevance": 0.8571428571428571,
+        "source_based": 1.0,
+        "confidence_bonus": 0.82377833,
+        "overall_score": 0.8218985231428572
+      }
+    },
+    {
+      "id": 6,
+      "topic": "Marketing Automation",
+      "question": "What are the key features of Marketing Automation?",
+      "answer": "Key features of Marketing Automation include:\n\n1. **Email Marketing**: Automated email campaigns based on user behavior and segmentation.\n2. **Lead Management**: Tracking and nurturing leads through the sales funnel.\n3. **Customer Segmentation**: Grouping customers based on demographics, behavior, or preferences.\n4. **Analytics and Reporting**: Measuring campaign performance and ROI through detailed analytics.\n5. **Social Media Management**: Scheduling and automating posts across various social platforms.\n6. **CRM Integration**: Syncing with Customer Relationship Management systems for better data management.\n7. **Personalization**: Tailoring content and messages to individual user preferences.\n8. **Workflow Automation**: Streamlining repetitive tasks and processes for efficiency.",
+      "sources": [
+        {
+          "document_id": "0df37290-5972-4721-a143-ccf3eea0a257",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.8534908,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "3754ace2-6f32-4808-a25f-72c7d9411f93",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.8534826,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "790112cf-5f86-4cbf-b211-dbf71192e117",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 14,
+          "score": 0.81233263,
+          "text": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the r...",
+          "content": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the right time with relevant information. It also brings marketing and sales onto the same page by highlighting the accounts most likely to convert. This means we spend less time guessing and more time engaging the right prospects. | One thing I dislike about 6sense Revenue Marketing is that some of its features are complex. The platform offers a lot of tools and data, which can feel overwhelming at first. It takes time to learn how to use all the features effectively. Some users may find the interface confusing until they get more experience with it. This learning curve can slow down adoption, especially for team members who are new to intent data or account-based marketing platforms. | 6sense Revenue Marketing helps solve the problem of wasted effort on accounts that are not ready to buy. It shows us which companies are actually in the market for our products, so we know where to focus our time. This reduces time spent on cold outreach and improves our chances of talking to the right prospects at the right moment."
+        },
+        {
+          "document_id": "be79c8ee-aaf2-4d6b-b4d4-31d9d028804c",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 14,
+          "score": 0.8123164,
+          "text": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the r...",
+          "content": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the right time with relevant information. It also brings marketing and sales onto the same page by highlighting the accounts most likely to convert. This means we spend less time guessing and more time engaging the right prospects. | One thing I dislike about 6sense Revenue Marketing is that some of its features are complex. The platform offers a lot of tools and data, which can feel overwhelming at first. It takes time to learn how to use all the features effectively. Some users may find the interface confusing until they get more experience with it. This learning curve can slow down adoption, especially for team members who are new to intent data or account-based marketing platforms. | 6sense Revenue Marketing helps solve the problem of wasted effort on accounts that are not ready to buy. It shows us which companies are actually in the market for our products, so we know where to focus our time. This reduces time spent on cold outreach and improves our chances of talking to the right prospects at the right moment."
+        },
+        {
+          "document_id": "afe35f9e-bdc4-4189-81b8-fbcf8e130a90",
+          "filename": "9 best B2B intent data providers in 2025 _ Turtl.txt",
+          "chunk_index": 3,
+          "score": 0.81162727,
+          "text": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and f...",
+          "content": "4.\n\nDemandbase's Al-driven software covers all bases - from identifying high-intent leads to engaging with the potential customers most likely to buy.\n\nKEY FEATURES\n\n\nReal-time intent with 500 billion intent signals a month\n\n\n\nAl-driven\n\n\n\nPartners with other sources to extend data Intent data at many stages of buyer's journey View tech that your prospects use\nAccount-based advertising\n\n\n\nCRM integrations\n\n\n\nPros\n\n\n\nEasy to use\n\n\n\nGood tool for ad targeting and budgeting\n\n\n\nAdd custom tags and fields\n\n\n\nGood customer support\nCons\n\n\n\nComplex system with a lot of functionality to figure out\n\n\n\nReporting could be better\n\n\n\nKeyword customization could be better\n\n\n\n\n\n\nManual set-up\n\n\n5. 6SENSE\n\n6Sense doesn't see dead people, but it does use Al as a sixth sense in its capacity as both an ABM tool and intent data provider.  And you can create personalized experiences with its enhanced customer segmentation.\n\nKEY FEATURES\n\n\nReal-time insight\n\n\n\nUses Al to predict the optimal time to engage with prospects\n\n\n\nGood customer support\n\n\n\nView buyer activity on competitor sites\n\n\n\nGet info on prospects' buying team\n\n\n\nPros\n\n\n\nAdvanced segmentation\nGood onboarding experience and ongoing support\n\n\n\nGood keyword availability\n\n\n\nCons\n\n\n\nIntegrations can be slow and clunky Data not always entirely up to date Issues with data visualization UI\n6. TCHTARGET               'YENGINE\n\nContinuing the theme of smushing two words together to create its name,\nTechTarget Priority Engine isn't just an intent data provider but comes with add-on tools to hook you up with a smooth, well-connected stack that'll seriously help your marketing and sales teams.\n\nKEY FEATURES\n\n\nView topics your prospects are actively researching\n\n\n\nData not available anywhere else GDPR-compliant data Integrations available\nPros\n\n\nCons\n\n7.G2\nAccurate contact details\n\n\n\nAccount journey maps\n\n\n\n\nFilters could be more advanced\n\n\n\nClunky Salesforce integration"
+        }
+      ],
+      "confidence_score": 0.8534908,
+      "response_time": 13.742689609527588,
+      "sources_count": 5,
+      "api_response_time": 8.576266050338745,
+      "status": "success",
+      "answer_length": 791,
+      "question_length": 50,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 1.0,
+        "question_relevance": 1.0,
+        "source_based": 1.0,
+        "confidence_bonus": 0.8534908,
+        "overall_score": 0.9706981600000001
+      }
+    },
+    {
+      "id": 7,
+      "topic": "Marketing Automation",
+      "question": "How does Marketing Automation benefit businesses?",
+      "answer": "Marketing automation benefits businesses by streamlining marketing processes, improving efficiency, enhancing customer targeting, personalizing communication, and providing valuable analytics for better decision-making. It allows for automated campaigns, lead nurturing, and improved customer engagement, ultimately driving sales and growth.",
+      "sources": [
+        {
+          "document_id": "3754ace2-6f32-4808-a25f-72c7d9411f93",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.8541985,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "0df37290-5972-4721-a143-ccf3eea0a257",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 15,
+          "score": 0.8541967,
+          "text": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Inte...",
+          "content": "MarTech and Automation Team Lead | Small-Business (50 or fewer emp.) | 7/8/2025 | Detailed Insights into Intent and ability to segment based on funnel stage and engagement. The ability to take this insights an manage campaigns accross multiple platforms for advertising is easy wihtin the apltform which provides good oversights of the adience management. Being able to enrich contacts and accounts using the integrations with CRM and MAP platforms brings additionalv alue to the marketing team. Integrations are expansive and with the additional API connectors can be apllied to non native connections easily enough. Configurtation of elements such as Sales Intelligence is quick and only requires admin access meaning the implementation of a connected platform is relatively straight forward. The overall solution provides a platform whcih becomes part of the daily routine for Marketers. | The site can be very slow and time can be consumed using the site due to this. Useful information such as  keywords searched are not easily identifiable and require additional digging within the platform. Some of the reporting can be unclear and accounts can show intent without it being directly obvious what the intent is about. | The platform is identifying the portential accounts and enriching our CRM with enough information to make informed marketing decisions regarding messaging and nurturing. Utilising indistry and fit with ICP and Target Account Lists we can focus a messsage relevant to the buying stage of an account. Providing insights and a clear map of marketing touch points accross the entire buyer journey, Allowing our organisation to develop a strong brand strategy to target accounts not currently identified as being in market so as to increase awareness of solutions and services avilable and help to increase the chance we are high in the supplier options when the organisation enters the buyer journey."
+        },
+        {
+          "document_id": "790112cf-5f86-4cbf-b211-dbf71192e117",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 14,
+          "score": 0.81562465,
+          "text": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the r...",
+          "content": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the right time with relevant information. It also brings marketing and sales onto the same page by highlighting the accounts most likely to convert. This means we spend less time guessing and more time engaging the right prospects. | One thing I dislike about 6sense Revenue Marketing is that some of its features are complex. The platform offers a lot of tools and data, which can feel overwhelming at first. It takes time to learn how to use all the features effectively. Some users may find the interface confusing until they get more experience with it. This learning curve can slow down adoption, especially for team members who are new to intent data or account-based marketing platforms. | 6sense Revenue Marketing helps solve the problem of wasted effort on accounts that are not ready to buy. It shows us which companies are actually in the market for our products, so we know where to focus our time. This reduces time spent on cold outreach and improves our chances of talking to the right prospects at the right moment."
+        },
+        {
+          "document_id": "be79c8ee-aaf2-4d6b-b4d4-31d9d028804c",
+          "filename": "reviews-g.tsv",
+          "chunk_index": 14,
+          "score": 0.8156072,
+          "text": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the r...",
+          "content": "Global Campaign and Account Based Marketing Manager | Mid-Market (51-1000 emp.) | 7/18/2025 | What I like best about 6sense Revenue Marketing for our team is how it helps us see which labs and companies are actually in-market for our instruments and services. Instead of chasing cold leads, our sales and marketing teams can focus on accounts that show real buying intent. The platform uncovers which research organizations are researching topics related to our products, so we can reach out at the right time with relevant information. It also brings marketing and sales onto the same page by highlighting the accounts most likely to convert. This means we spend less time guessing and more time engaging the right prospects. | One thing I dislike about 6sense Revenue Marketing is that some of its features are complex. The platform offers a lot of tools and data, which can feel overwhelming at first. It takes time to learn how to use all the features effectively. Some users may find the interface confusing until they get more experience with it. This learning curve can slow down adoption, especially for team members who are new to intent data or account-based marketing platforms. | 6sense Revenue Marketing helps solve the problem of wasted effort on accounts that are not ready to buy. It shows us which companies are actually in the market for our products, so we know where to focus our time. This reduces time spent on cold outreach and improves our chances of talking to the right prospects at the right moment."
+        },
+        {
+          "document_id": "a8048bdc-daf5-45be-a812-61e40feead21",
+          "filename": "old_6sense_reviews.tsv",
+          "chunk_index": 18,
+          "score": 0.8139834,
+          "text": "6sense | nan | Computer Software | I manage the relationship and am focused on aggressively expanding the NetSuite footprint and partner footprint for my portfolio of customers. I get qualified leads that seem to be accurate. I'm not receiving the leads first hand, but get them from our business development program which helps to ensure that these leads are pertinent to me. | I've heard that at times these can be inaccurate, but I'm not handling them first hand. | nan\nSaleswhale | nan | nan | Pr...",
+          "content": "6sense | nan | Computer Software | I manage the relationship and am focused on aggressively expanding the NetSuite footprint and partner footprint for my portfolio of customers. I get qualified leads that seem to be accurate. I'm not receiving the leads first hand, but get them from our business development program which helps to ensure that these leads are pertinent to me. | I've heard that at times these can be inaccurate, but I'm not handling them first hand. | nan\nSaleswhale | nan | nan | Problems Solved: -Automation of my outbound sales process. -Engaging customers with email using automated sales workflows and sequences. Benefits: -We have gained a 20% lift in rep activity across our sales force. -We get accurate details around what works and what doesn't in emails. -We have more conversations with customers. -We get more replies and we prioritize the favorable replies. Easy Sequences & Sentiment Analysis. Benefits: -We have gained a 20% lift in rep activity across our sales force. -We get accurate details around what works and what doesn't in emails. -We have more conversations with customers. -We get more replies and we prioritize the favorable replies. Choose Saleswhale over Outreach. Couple Saleswhale with Cirrus Insight. | Limited Prospector interface. Limited search when prospecting. Great tool. Directionally correct. Needs to be enhanced. | nan"
+        }
+      ],
+      "confidence_score": 0.8541985,
+      "response_time": 13.84505581855774,
+      "sources_count": 5,
+      "api_response_time": 7.909673690795898,
+      "status": "success",
+      "answer_length": 341,
+      "question_length": 49,
+      "has_sources": true,
+      "answer_quality": {
+        "length_score": 1.0,
+        "has_numbers": 0.0,
+        "question_relevance": 0.6666666666666666,
+        "source_based": 1.0,
+        "confidence_bonus": 0.8541985,
+        "overall_score": 0.7708397000000001
+      }
+    }
+  ],
+  "metrics": {
+    "total_questions": 8,
+    "successful_queries": 8,
+    "success_rate": 1.0,
+    "avg_response_time": 12.1327785551548,
+    "avg_answer_length": 452.5,
+    "avg_sources_count": 5.0,
+    "avg_confidence_score": 0.8535309037500001,
+    "avg_quality_score": 0.8544740378928573,
+    "min_quality_score": 0.38922580000000007,
+    "max_quality_score": 0.9759069800000001,
+    "high_quality_count": 7,
+    "medium_quality_count": 0,
+    "low_quality_count": 1,
+    "topic_metrics": {
+      "6sense Revenue AI Platform": {
+        "count": 2,
+        "avg_quality": 0.6825663900000001,
+        "avg_confidence": 0.88033195
+      },
+      "Predictive Analytics for B2B": {
+        "count": 2,
+        "avg_quality": 0.9719376000000001,
+        "avg_confidence": 0.859688
+      },
+      "Marketing Automation": {
+        "count": 2,
+        "avg_quality": 0.8707689300000001,
+        "avg_confidence": 0.85384465
+      },
+      "Customer Data Platform": {
+        "count": 2,
+        "avg_quality": 0.8926232315714286,
+        "avg_confidence": 0.820259015
+      }
+    },
+    "fast_responses": 0,
+    "medium_responses": 0,
+    "slow_responses": 8
+  },
+  "summary": {
+    "test_timestamp": "2026-02-18T11:15:17.988033",
+    "api_status": "🟢 All Systems Ready",
+    "pipeline_health": "🟢 Excellent",
+    "recommendations": [
+      "Optimize response time - check API performance"
+    ]
+  }
+}

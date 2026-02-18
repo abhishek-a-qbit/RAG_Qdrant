@@ -16,7 +16,8 @@ class SuggestedQuestionsRequest(BaseModel):
 from services.logger import setup_logger
 from services.pydantic_models import (
     DocumentUpload, QueryRequest, QueryResponse, 
-    CollectionInfo, ErrorResponse, ChatRequest
+    CollectionInfo, ErrorResponse, ChatRequest,
+    SourceDocument, QueryMetrics
 )
 from utils.utils import (
     OPENAI_API_KEY, QDRANT_DB_PATH, QDRANT_API_KEY, MODEL, TEMPERATURE,
@@ -31,6 +32,7 @@ if LANGSMITH_TRACING:
     from langsmith import traceable
 else:
     def traceable(name=None, tags=None):
+        """Decorator that does nothing when tracing is disabled"""
         def decorator(func):
             return func
         return decorator
@@ -39,6 +41,55 @@ from utils.db_utils import DatabaseManager
 from utils.langchain_utils import LangChainManager
 from utils.qdrant_utils import QdrantManager
 from utils.prompts import PromptTemplates
+
+def calculate_query_metrics(query: str, answer: str, sources: List) -> QueryMetrics:
+    """Calculate quality metrics for query response"""
+    try:
+        # Simple metric calculations
+        coverage = min(1.0, len(sources) / 5.0)  # Based on number of sources
+        
+        # Specificity: check if answer is specific vs generic
+        specific_indicators = ["specific", "particular", "exact", "precise", "detailed"]
+        specificity = 0.5  # Base score
+        for indicator in specific_indicators:
+            if indicator in answer.lower():
+                specificity += 0.1
+        specificity = min(1.0, specificity)
+        
+        # Insightfulness: check for insightful content
+        insight_indicators = ["therefore", "however", "because", "result", "benefit", "advantage"]
+        insightfulness = 0.3  # Base score
+        for indicator in insight_indicators:
+            if indicator in answer.lower():
+                insightfulness += 0.1
+        insightfulness = min(1.0, insightfulness)
+        
+        # Groundedness: based on source scores
+        if sources:
+            source_scores = [s.get("score", 0.0) for s in sources]
+            groundedness = max(source_scores) if source_scores else 0.0
+        else:
+            groundedness = 0.0
+        
+        # Overall score
+        overall_score = (coverage + specificity + insightfulness + groundedness) / 4.0
+        
+        return QueryMetrics(
+            coverage=coverage,
+            specificity=specificity,
+            insightfulness=insightfulness,
+            groundedness=groundedness,
+            overall_score=overall_score
+        )
+    except Exception as e:
+        logger.error(f"Error calculating metrics: {str(e)}")
+        return QueryMetrics(
+            coverage=0.5,
+            specificity=0.5,
+            insightfulness=0.5,
+            groundedness=0.5,
+            overall_score=0.5
+        )
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -256,7 +307,8 @@ async def chat_endpoint(request: ChatRequest):
                 "query": request.query,
                 "answer": "No relevant documents found for your query. Try asking about specific 6sense features like 'predictive analytics' or 'customer segmentation'.",
                 "sources": [],
-                "confidence_score": 0.0
+                "confidence_score": 0.0,
+                "session_id": request.session_id
             }
         
         # Create LangChain vectorstore for QA chain
@@ -279,33 +331,43 @@ async def chat_endpoint(request: ChatRequest):
         # Generate answer
         result = langchain_manager.generate_answer(qa_chain, request.query)
         
-        # Format sources from search results
+        # Format sources from search results with links
         sources = []
         for search_result in search_results:
-            sources.append({
-                "document_id": search_result.get("id", "unknown"),
-                "filename": search_result.get("payload", {}).get("filename", "unknown"),
-                "chunk_index": search_result.get("payload", {}).get("chunk_index", 0),
-                "score": search_result.get("score", 0.0),
-                "text": search_result.get("text", "")[:500] + "..." if len(search_result.get("text", "")) > 500 else search_result.get("text", ""),
-                "content": search_result.get("text", "")
-            })
+            doc_id = search_result.get("id", "unknown")
+            filename = search_result.get("payload", {}).get("filename", "unknown")
+            
+            sources.append(SourceDocument(
+                document_id=doc_id,
+                filename=filename,
+                chunk_index=search_result.get("payload", {}).get("chunk_index", 0),
+                score=search_result.get("score", 0.0),
+                text=search_result.get("text", "")[:500] + "..." if len(search_result.get("text", "")) > 500 else search_result.get("text", ""),
+                content=search_result.get("text", ""),
+                link=f"http://localhost:8000/document/{doc_id}"
+            ))
+        
+        # Calculate metrics
+        answer = result.get("answer", "No answer generated")
+        metrics = calculate_query_metrics(request.query, answer, search_results)
         
         # Log query
         db_manager.log_query(
             request.query,
-            result.get("answer", ""),
-            str(sources),
+            answer,
+            str([s.dict() for s in sources]),
             result.get("response_time", 0)
         )
         
-        return QueryResponse(
-            query=request.query,
-            answer=result.get("answer", "No answer generated"),
-            sources=sources,
-            confidence_score=max([r.get("score", 0.0) for r in search_results]) if search_results else 0.0,
-            response_time=result.get("response_time", 0.0)
-        )
+        return {
+            "query": request.query,
+            "answer": answer,
+            "sources": [s.dict() for s in sources],
+            "confidence_score": max([r.get("score", 0.0) for r in search_results]) if search_results else 0.0,
+            "response_time": result.get("response_time", 0.0),
+            "session_id": request.session_id,
+            "metrics": metrics.dict()
+        }
         
     except Exception as e:
         logger.error(f"Error processing chat request: {str(e)}")
@@ -355,32 +417,41 @@ async def query_documents(request: QueryRequest):
         # Generate answer
         result = langchain_manager.generate_answer(qa_chain, request.query)
         
-        # Format sources from search results
+        # Format sources from search results with links
         sources = []
         for search_result in search_results:
-            sources.append({
-                "document_id": search_result.get("id", "unknown"),
-                "filename": search_result.get("payload", {}).get("filename", "unknown"),
-                "chunk_index": search_result.get("payload", {}).get("chunk_index", 0),
-                "score": search_result.get("score", 0.0),
-                "text": search_result.get("text", "")[:500] + "..." if len(search_result.get("text", "")) > 500 else search_result.get("text", ""),
-                "content": search_result.get("text", "")
-            })
+            doc_id = search_result.get("id", "unknown")
+            filename = search_result.get("payload", {}).get("filename", "unknown")
+            
+            sources.append(SourceDocument(
+                document_id=doc_id,
+                filename=filename,
+                chunk_index=search_result.get("payload", {}).get("chunk_index", 0),
+                score=search_result.get("score", 0.0),
+                text=search_result.get("text", "")[:500] + "..." if len(search_result.get("text", "")) > 500 else search_result.get("text", ""),
+                content=search_result.get("text", ""),
+                link=f"http://localhost:8000/document/{doc_id}"
+            ))
+        
+        # Calculate metrics
+        answer = result.get("answer", "No answer generated")
+        metrics = calculate_query_metrics(request.query, answer, search_results)
         
         # Log query
         db_manager.log_query(
             request.query,
-            result.get("answer", ""),
-            str(sources),
+            answer,
+            str([s.dict() for s in sources]),
             result.get("response_time", 0)
         )
         
         return QueryResponse(
             query=request.query,
-            answer=result.get("answer", "No answer generated"),
+            answer=answer,
             sources=sources,
             confidence_score=max([r.get("score", 0.0) for r in search_results]) if search_results else 0.0,
-            response_time=result.get("response_time", 0.0)
+            response_time=result.get("response_time", 0.0),
+            metrics=metrics
         )
         
     except Exception as e:

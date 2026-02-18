@@ -45,11 +45,14 @@ class DataDrivenQuestionGenerator:
             print("[QGen] Could not load embedding model: " + str(e))
             self.embedding_model = None
         
-        # Initialize spaCy for NLP metrics
+        # Initialize spaCy for NLP metrics (optional)
         try:
             import spacy 
             self.nlp_model = spacy.load("en_core_web_sm")
             print("[QGen] spaCy NLP model loaded")
+        except ImportError:
+            print("[QGen] spaCy not available, using fallback metrics")
+            self.nlp_model = None
         except Exception as e:
             print("[QGen] Could not load spaCy: " + str(e))
             self.nlp_model = None
@@ -83,17 +86,9 @@ class DataDrivenQuestionGenerator:
                     context = "\n\n".join([doc.get("text", "") for doc in search_results])
                     
                     # Generate questions using LLM
-                    llm_prompt = f"""Based on the following context, generate {num_questions} insightful questions for a FAQ section:
+                    llm_prompt = f"""you are a question generator! generate questions on {context[:2000]}
                     
-                    Context: {context[:2000]}
-                    
-                    Topic: {topic or "General"}
-                    
-                    Generate exactly {num_questions} questions as a JSON array of strings.
-                    Questions should be:
-                    - Specific and answerable from the context
-                    - Relevant to {topic if topic else 'the platform'}
-                    - Formulated as actual questions (ending with ?)
+                    Generate {num_questions} insightful questions for a FAQ section.
                     
                     Response format: ["question1", "question2", ...]
                     """
